@@ -5,3 +5,6 @@ venv/
 .pytest_cache/
 .DS_Store
 *.log
+
+# TEMP: se sube a mano por la web hasta refrescar el scope workflow del token
+.github/workflows/scrape.yml
