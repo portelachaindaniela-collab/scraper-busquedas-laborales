@@ -1,115 +1,149 @@
-# Scraper de búsquedas laborales
+# Radar Laboral
 
-Corre **una vez por día** con GitHub Actions, consulta portales de empleo
-argentinos, descarta lo que no sirve según reglas editables y publica el
-resultado en una página estática (GitHub Pages).
+Un buscador de avisos de trabajo que **corre solo una vez por día**, revisa varios
+portales de empleo argentinos, tira a la basura lo que no te sirve según reglas
+que vos elegís, y arma una **página web** con lo que queda y un link a cada aviso.
 
-## Cómo funciona
+Pensado para búsquedas de **community manager, social media, marketing y contenido**
+en CABA, GBA norte y remoto, pero se cambia a lo que necesites editando dos archivos.
 
+Todo es **gratis** (GitHub Actions + GitHub Pages) y **no hace falta saber programar**
+para usarlo: se configura editando archivos de texto desde la web de GitHub.
+
+Ejemplo funcionando: <https://portelachaindaniela-collab.github.io/scraper-busquedas-laborales/>
+
+---
+
+## Cómo armar tu propia copia
+
+### 1. Creá tu copia
+
+En la página del repo, botón verde **“Use this template” → “Create a new repository”**.
+Poné un nombre, dejalo **público** (si es privado, GitHub Pages se paga), y creá.
+
+> “Use this template” copia el proyecto a tu cuenta con todo listo, incluido el
+> archivo que lo hace correr solo. (El botón “Download ZIP” también existe, pero
+> con el ZIP tenés que armar todo a mano; conviene el template.)
+
+### 2. Decí qué querés buscar
+
+Editá **`config/busquedas.yml`** (clic en el archivo → ícono del lápiz):
+
+```yaml
+terminos:
+  - community manager
+  - analista de marketing digital
+  # agregá o sacá los que quieras
+
+ventana_horas: 48        # avisos publicados en las últimas 48 h
+
+portales:
+  bumeran: true
+  computrabajo: true
+  weremoto: true
+  linkedin: true
 ```
-GitHub Actions (cron diario)
-   └─ python -m scraper.main
-        ├─ Bumeran        → API JSON interna (estable)
-        ├─ Computrabajo   → scraping de HTML + JSON-LD (Cloudflare: ver más abajo)
-        ├─ WeRemoto       → scraping de HTML (SSR, remoto LATAM)
-        └─ LinkedIn       → endpoint "guest", best-effort (frágil)
-   └─ escribe data/ y docs/  →  commit + push  →  GitHub Pages actualiza la web
+
+Abajo, **“Commit changes”** para guardar.
+
+### 3. Decí qué querés descartar
+
+Editá **`config/filtros.yml`**. Es una lista de frases: si el aviso menciona
+alguna, se descarta. Está en minúsculas y sin acentos a propósito (`"ingles"`,
+no `"inglés"`).
+
+```yaml
+frases_excluyentes:
+  ingles_alto:
+    - "ingles avanzado"
+    - "ingles c1"
+    - "bilingue"
+  ventas:
+    - "ventas"
+    - "generacion de leads"
+
+ubicaciones_permitidas:      # si la ubicación no coincide y no es remoto, se descarta
+  - capital federal
+  - caba
+  - remoto
+  - san isidro
 ```
 
-- **No inventa datos**: si un campo no está en el aviso, queda `null`.
-- **No repite**: cada aviso visto se guarda en `data/vistos.json` (60 días) y no
-  vuelve a aparecer.
-- **Tolerante a fallos**: si un portal se cae, se registra en el log y en
-  `data/ultima_corrida.json`, y la corrida sigue con los demás.
-- **Ventana de 48 h + dedupe**: se corre 1×/día; 48 h evita perder avisos que un
-  portal datea sólo como "ayer".
+(El archivo ya viene con un ejemplo completo y comentado.)
 
-## Puesta en marcha (una sola vez)
+### 4. Prendé la página web
 
-1. Subí este repo a GitHub (**público**, para que Pages sea gratis).
-2. **Settings → Pages** → *Source: Deploy from a branch* → rama `main`, carpeta `/docs`.
-3. **Settings → Actions → General** → *Workflow permissions* → *Read and write*.
-4. **Actions** → *scraper-diario* → *Run workflow* para la primera corrida.
-5. La web queda en `https://<usuario>.github.io/<repo>/`.
+En tu repo: **Settings → Pages**. En *Source* elegí **“Deploy from a branch”**,
+rama **`main`**, carpeta **`/docs`**, y **Save**.
 
-## Configuración (sin tocar código)
+### 5. Prendé el robot y hacé la primera corrida
 
-### `config/busquedas.yml`
-Términos a buscar, ventana horaria, qué portales están activos y qué categorías
-de WeRemoto traer.
+- **Settings → Actions → General** → abajo, *Workflow permissions* → marcá
+  **“Read and write permissions”** → **Save**.
+- **Settings → Actions → General** → arriba → **“Allow all actions”** si te lo pide.
+- Andá a la pestaña **Actions**, entrá en **“scraper-diario”**, botón
+  **“Run workflow”**. En 5–8 minutos termina.
 
-### `config/filtros.yml`
-El filtro de descarte. Todo en minúsculas y sin acentos (`"ingles"`, no `"inglés"`).
+### 6. Listo
+
+Tu página queda en `https://TU-USUARIO.github.io/TU-REPO/` y se actualiza sola
+todos los días alrededor de las 8 de la mañana (hora Argentina).
+
+Para mirar los avisos que se descartaron y por qué (sirve para afinar el filtro):
+archivo **`data/descartados.json`** en tu repo.
+
+---
+
+## Qué mira y qué tan confiable es cada portal
+
+| Portal | Cómo lo lee | Nota |
+|---|---|---|
+| **Bumeran** | API interna del sitio (JSON) | Estable. Con términos muy específicos trae pocos por día. |
+| **Computrabajo** | Lee el HTML + datos estructurados | Tiene Cloudflare. Hoy anda; si algún día empieza a bloquear, esa corrida lo marca en rojo y sigue con los demás. |
+| **WeRemoto** | Lee el HTML | Casi todo pide inglés C1/C2 → el filtro de inglés descarta la mayoría, queda lo poco apto. |
+| **LinkedIn** | Endpoint público sin login | Frágil: puede empezar a bloquear por IP. Si pasa, poné `linkedin: false`. Los avisos vienen sin descripción, así que ahí el filtro solo mira título y ubicación. |
+
+**Upwork** se evaluó y quedó afuera: sacaron el RSS, la API pide OAuth, y bloquea
+servidores. Además pide inglés casi siempre, igual que WeRemoto.
+
+---
+
+## Detalle del filtro (`config/filtros.yml`)
 
 | Bloque | Qué hace |
 |---|---|
-| `frases_excluyentes` | si el aviso menciona alguna, se descarta. Agrupadas por etiqueta (aparece como motivo). |
-| `frases_perdon` | si aparecen **cerca** (±70 caracteres) de una frase excluyente, anulan el descarte (ej. "inglés no excluyente"). |
-| `ubicaciones_permitidas` | si la ubicación no coincide con ninguna y el aviso no es remoto, se descarta. |
-| `indicadores_remoto` | marcan un aviso como remoto aunque la ubicación diga otra cosa. |
+| `frases_excluyentes` | Si el aviso menciona alguna frase, se descarta. Agrupadas por etiqueta (aparece como motivo en `data/descartados.json`). |
+| `frases_perdon` | Si aparecen **cerca** de una frase excluyente (±70 caracteres), anulan el descarte. Ej: *"inglés no excluyente"*. |
+| `ubicaciones_permitidas` | Si la ubicación no coincide con ninguna y el aviso no es remoto, se descarta. Incluye términos amplios (`argentina`, `buenos aires`) para no perder avisos mal geolocalizados. |
+| `ubicaciones_excluidas` | Ganan sobre lo anterior: filtran el interior y GBA sur/oeste aunque el aviso diga *"Argentina"*. |
+| `indicadores_remoto` | Marcan un aviso como remoto aunque la ubicación diga otra cosa. |
 
-Los avisos descartados quedan en `data/descartados.json` **con el motivo**, para
-que puedas afinar las listas viendo qué se filtró de más o de menos.
+Los avisos ya publicados no se re-filtran: los cambios valen para las corridas
+siguientes.
 
-## Salidas
+---
 
-| Archivo | Contenido |
-|---|---|
-| `data/avisos.json` / `docs/avisos.json` | avisos que pasaron el filtro (últimos 14 días) |
-| `data/descartados.json` | avisos rechazados + `motivos_descarte` |
-| `data/vistos.json` | IDs ya procesados (para no repetir) |
-| `data/ultima_corrida.json` | estado por portal, conteos, errores |
-
-Esquema de cada aviso: `id`, `portal`, `titulo`, `empresa`, `ubicacion`,
-`modalidad` (`remoto`/`presencial`/`hibrido`/`null`), `salario`,
-`fecha_publicacion` (ISO o `null`), `url`, `descripcion`, `capturado`.
-
-## Correr local
+## Para quien sepa programar
 
 ```bash
+git clone https://github.com/TU-USUARIO/TU-REPO
+cd TU-REPO
 pip install -r requirements.txt
-python -m scraper.main
-pytest            # pruebas del filtro
+python -m scraper.main        # corre el scraper
+pytest                        # pruebas del filtro
+python -m http.server 8000 --directory docs   # ver la página local en localhost:8000
 ```
 
-Para ver la página con los datos locales sin subir nada:
+Estructura: `scraper/portales/` un archivo por portal (cada uno expone
+`buscar(termino, desde) -> list[Aviso]`); `scraper/filtros.py` el motor de
+descarte; `scraper/main.py` el orquestador. Si un portal falla, se registra en
+`data/ultima_corrida.json` y la corrida sigue con los demás.
 
-```bash
-python -m http.server 8000 --directory docs
-```
+**Reglas del proyecto:** no se inventan datos (campo ausente → `null`); los
+avisos vistos se guardan en `data/vistos.json` (60 días) para no repetirlos.
 
-y abrir `http://localhost:8000`.
+---
 
-## Notas por portal
+## Licencia
 
-- **Bumeran** — usa la API interna `POST /api/avisos/searchV2` con el header
-  `x-site-id: BMAR`. Trae la descripción completa en el listado.
-- **Computrabajo** — sin API ni RSS. Está detrás de **Cloudflare**: se usa
-  `curl_cffi` imitando el TLS de Chrome, que hoy alcanza. Si empezara a
-  bloquear desde las IP de GitHub Actions, la corrida no se rompe (queda
-  `estado: error` para ese portal en el log). Plan B: correr el scraper desde
-  otra IP o sumar un proxy.
-- **WeRemoto** — la mayoría de los avisos son de clientes de EE.UU. que piden
-  inglés C1/C2: el filtro `ingles_alto` descarta casi todo y deja los pocos
-  aptos (típicamente los marcados 🇦🇷).
-- **LinkedIn** — endpoint `jobs-guest` sin login. Funciona hoy pero es frágil
-  (429/999 por IP). Viene sin descripción, así que ahí el filtro sólo mira
-  título y ubicación. Si bloquea de forma persistente, poné `linkedin: false`
-  en `config/busquedas.yml`.
-
-## Portales que se evaluaron y quedaron afuera
-
-- **Upwork** — sin RSS público (lo sacaron en 2023) y la API oficial exige
-  OAuth2 con app aprobada y token de usuario. El HTML está detrás de Cloudflare
-  + PerimeterX y bloquea IPs de datacenter. No es viable sin login y va contra
-  sus términos. Además el perfil es casi idéntico a WeRemoto (clientes de EE.UU.,
-  inglés obligatorio). No se incluyó.
-
-## Ajustes que quizá quieras hacer
-
-- **Términos**: tus términos exactos son angostos en Bumeran (devuelve 0–3 por
-  día). Si querés más volumen, agregá `marketing digital` y `redes sociales`
-  a `terminos` en `config/busquedas.yml`.
-- **Ubicaciones amplias**: `ubicaciones_permitidas` incluye `argentina` y
-  `provincia de buenos aires` para no perder avisos de LinkedIn mal geolocalizados.
-  Si ves demasiado ruido del interior, sacá esos términos.
+MIT — usalo, copialo y modificalo libremente. Ver [LICENSE](LICENSE).
