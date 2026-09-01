@@ -1,0 +1,190 @@
+# ─────────────────────────────────────────────────────────────
+#  Filtro de descarte. Editá las listas; no hace falta tocar código.
+#
+#  El match se hace sobre título + descripción + ubicación,
+#  en minúsculas y sin acentos ("inglés" == "ingles").
+#  Escribí las frases así: en minúsculas y sin acentos.
+# ─────────────────────────────────────────────────────────────
+
+# Si el aviso menciona CUALQUIERA de estas frases, se descarta.
+# La clave (p. ej. "ingles_alto") es sólo la etiqueta que aparece
+# como motivo en data/descartados.json.
+frases_excluyentes:
+
+  ingles_alto:
+    - "ingles avanzado"
+    - "advanced english"
+    - "ingles c1"
+    - "ingles c2"
+    - "nivel c1"
+    - "nivel c2"
+    - "c1/c2"
+    - "c1 o c2"
+    - "fluent english"
+    - "english fluency"
+    - "fully fluent"
+    - "proficient in english"
+    - "bilingue"
+    - "bilingual"
+    - "near-native english"
+    - "native english"
+
+  google_ads:
+    - "google ads"
+    - "google adwords"
+    - "certificacion google ads"
+
+  camara:
+    - "frente a camara"
+    - "frente a la camara"
+    - "presentar a camara"
+    - "presentarse a camara"
+    - "salir en camara"
+    - "grabar videos"
+    - "vlog"
+    - "creador de contenido audiovisual frente a"
+
+  ventas:
+    - "ventas"
+    - "prospeccion"
+    - "generacion de leads"
+    - "generacion de demanda"
+    - "oportunidades comerciales"
+    - "cierre de ventas"
+    - "cartera de clientes"
+    - "cumplimiento de objetivos comerciales"
+
+  titulo_universitario_excluyente:
+    - "titulo universitario excluyente"
+    - "carrera universitaria completa excluyente"
+    - "carrera de grado completa excluyente"
+    - "graduado universitario excluyente"
+    - "profesional graduado excluyente"
+    - "titulo de grado (excluyente)"
+
+# Frases que, si aparecen CERCA de una frase excluyente (± 70 caracteres),
+# anulan el descarte. Ej.: "inglés no excluyente", "ventas: no aplica".
+frases_perdon:
+  - "no excluyente"
+  - "no es excluyente"
+  - "excluyente: no"
+  - "(no excluyente)"
+  - "deseable"
+  - "no requerido"
+  - "no requerimos"
+  - "no es requisito"
+  - "no es necesario"
+  - "sin experiencia en"
+  - "es un plus"
+  - "un diferencial"
+
+# Ubicaciones aceptadas. Si la ubicación del aviso no coincide con
+# ninguna de estas y el aviso NO es remoto, se descarta.
+#
+# Incluye a propósito términos amplios y ambiguos ("argentina", "buenos aires
+# y alrededores"): los portales muchas veces no dan la ciudad exacta, y es
+# preferible mostrar un aviso de más (que se ve de un vistazo en la lista) a
+# esconder uno bueno. Si querés más precisión, sacá los términos amplios.
+ubicaciones_permitidas:
+  - remoto
+  - remote
+  - home office
+  - teletrabajo
+  - capital federal
+  - caba
+  - ciudad autonoma de buenos aires
+  - ciudad de buenos aires
+  - "buenos aires, argentina"
+  # ── amplios / ambiguos ──
+  - argentina
+  - buenos aires
+  - gran buenos aires
+  - amba
+  - zona norte
+  - buenos aires y alrededores
+  - provincia de buenos aires
+  # ── GBA Norte ──
+  - vicente lopez
+  - olivos
+  - la lucila
+  - florida
+  - munro
+  - carapachay
+  - villa martelli
+  - martinez
+  - acassuso
+  - beccar
+  - san isidro
+  - victoria
+  - virreyes
+  - san fernando
+  - tigre
+  - nordelta
+  - benavidez
+  - boulogne
+  - san andres
+  - villa adelina
+
+# Tienen prioridad sobre la lista de arriba: si la ubicación menciona alguna
+# de estas, el aviso se descarta aunque también diga "Argentina" o "Buenos Aires".
+# Sirve para filtrar el interior cuando el portal etiqueta todo como "Argentina".
+ubicaciones_excluidas:
+  - cordoba
+  - rosario
+  - santa fe
+  - mendoza
+  - tucuman
+  - san miguel de tucuman
+  - salta
+  - jujuy
+  - neuquen
+  - "rio negro"
+  - bariloche
+  - chubut
+  - "comodoro rivadavia"
+  - ushuaia
+  - "tierra del fuego"
+  - "mar del plata"
+  - bahia blanca
+  - "la plata"
+  - "san luis"
+  - "san juan"
+  - catamarca
+  - "la rioja"
+  - "santiago del estero"
+  - corrientes
+  - resistencia
+  - chaco
+  - formosa
+  - misiones
+  - posadas
+  - "entre rios"
+  - parana
+  - "concordia"
+  - "santa rosa"
+  # GBA sur/oeste (fuera de "GBA norte")
+  - "la matanza"
+  - lomas de zamora
+  - lanus
+  - avellaneda
+  - quilmes
+  - berazategui
+  - "florencio varela"
+  - moron
+  - ituzaingo
+  - merlo
+  - "moreno, buenos aires"
+  - "san justo"
+  - ezeiza
+
+# Palabras que marcan un aviso como remoto aunque la ubicación diga otra cosa.
+indicadores_remoto:
+  - remoto
+  - remote
+  - "100% remoto"
+  - full remote
+  - home office
+  - teletrabajo
+  - trabajo desde casa
+  - desde cualquier lugar
+  - work from home

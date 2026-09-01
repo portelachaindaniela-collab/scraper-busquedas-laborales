@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────
+#  Qué buscar. Editá este archivo sin tocar código.
+# ─────────────────────────────────────────────────────────────
+
+# Términos que se consultan en Computrabajo, Bumeran y LinkedIn.
+terminos:
+  - community manager
+  - social media manager
+  - analista de marketing digital
+  - content manager
+  - analista de contenidos
+  - comunicación digital
+
+# Ventana de captura, en horas. El scraper corre 1 vez por día;
+# 48 h + deduplicación evita perder avisos que un portal datea sólo
+# como "ayer" sin hora exacta.
+ventana_horas: 48
+
+# Portales activos. Poné false para desactivar uno.
+portales:
+  bumeran: true
+  computrabajo: true
+  weremoto: true
+  linkedin: true          # best-effort: si LinkedIn bloquea, se registra y se sigue
+
+# WeRemoto se navega por categoría, no por término de búsqueda.
+# Se traen estas categorías y después se filtran por las palabras clave de abajo.
+weremoto:
+  categorias:
+    - marketing
+    - contenido
+  palabras_clave:          # el aviso de WeRemoto se conserva si el título/tags/descripción menciona alguna
+    - community
+    - social media
+    - content
+    - contenido
+    - marketing
+    - comunicaci
+    - redes sociales
