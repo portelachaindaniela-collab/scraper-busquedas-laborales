@@ -1,1 +1,38 @@
-{"inicio": null, "fin": null, "publicados": 0, "descartados": 0, "portales": {}}
+{
+  "inicio": "2026-09-01T22:44:00.974664",
+  "ventana_horas": 48,
+  "terminos": [
+    "community manager",
+    "social media manager",
+    "analista de marketing digital",
+    "content manager",
+    "analista de contenidos",
+    "comunicación digital"
+  ],
+  "portales": {
+    "bumeran": {
+      "estado": "ok",
+      "encontrados": 4,
+      "errores": []
+    },
+    "computrabajo": {
+      "estado": "ok",
+      "encontrados": 51,
+      "errores": []
+    },
+    "weremoto": {
+      "estado": "ok",
+      "encontrados": 24,
+      "errores": []
+    },
+    "linkedin": {
+      "estado": "ok",
+      "encontrados": 60,
+      "errores": []
+    }
+  },
+  "fin": "2026-09-01T22:45:33.045008",
+  "nuevos_totales": 52,
+  "publicados": 35,
+  "descartados": 17
+}
