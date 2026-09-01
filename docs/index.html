@@ -2,71 +2,151 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
+<title>Radar Laboral</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Búsquedas laborales</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
   :root {
-    --bg: #f6f7f9; --card: #ffffff; --border: #e3e6ea; --text: #1a1d21;
-    --muted: #656d76; --accent: #2557d6; --ok: #1a7f37; --warn: #9a6700; --err: #cf222e;
-    --chip: #eef1f5;
+    --bg: #f6f7f9;
+    --surface: #ffffff;
+    --surface-2: #eef1f5;
+    --border: #e2e6ec;
+    --ink: #1b1f24;
+    --ink-soft: #5b636e;
+    --ink-faint: #8b93a0;
+    --accent: #2f6f8f;
+    --ok: #3f8f5f;
+    --warn: #b0791f;
+    --err: #c4452f;
+    --focus: #2f6f8f;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #0d1117; --card: #161b22; --border: #2b313a; --text: #e6edf3;
-      --muted: #9198a1; --accent: #4f8cff; --ok: #3fb950; --warn: #d29922; --err: #f85149;
-      --chip: #21262d;
+    :root:not([data-theme="light"]) {
+      --bg: #0f1216; --surface: #171b21; --surface-2: #1e242c; --border: #2b323c;
+      --ink: #e7eaee; --ink-soft: #a3acb8; --ink-faint: #6f7987;
+      --accent: #6fb3cf; --ok: #5cc27f; --warn: #d5a04a; --err: #e2765f; --focus: #6fb3cf;
     }
   }
+  :root[data-theme="dark"] {
+    --bg: #0f1216; --surface: #171b21; --surface-2: #1e242c; --border: #2b323c;
+    --ink: #e7eaee; --ink-soft: #a3acb8; --ink-faint: #6f7987;
+    --accent: #6fb3cf; --ok: #5cc27f; --warn: #d5a04a; --err: #e2765f; --focus: #6fb3cf;
+  }
+
   * { box-sizing: border-box; }
   body {
-    margin: 0; background: var(--bg); color: var(--text);
-    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    font-size: 14px; line-height: 1.5; -webkit-font-smoothing: antialiased;
   }
-  .wrap { max-width: 880px; margin: 0 auto; padding: 24px 16px 64px; }
-  h1 { font-size: 22px; margin: 0 0 4px; }
-  .sub { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
-  .estado { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px; }
-  .pill {
-    font-size: 12px; padding: 3px 9px; border-radius: 999px;
-    background: var(--chip); border: 1px solid var(--border); color: var(--muted);
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 26px 16px 60px; }
+
+  header { margin-bottom: 14px; }
+  h1 {
+    font-family: "Bricolage Grotesque", "IBM Plex Sans", sans-serif;
+    font-weight: 700; font-size: clamp(24px, 4vw, 34px);
+    letter-spacing: -0.02em; line-height: 1.05; margin: 0 0 6px; text-wrap: balance;
   }
-  .pill.ok    { color: var(--ok); }
-  .pill.parcial { color: var(--warn); }
-  .pill.error { color: var(--err); }
-  .controles { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .resumen {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 12px; color: var(--ink-soft); font-variant-numeric: tabular-nums;
+  }
+  .estado { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px; }
+  .chip {
+    font-family: "IBM Plex Mono", monospace; font-size: 11px;
+    padding: 2px 8px; border-radius: 6px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--ink-soft);
+    display: inline-flex; align-items: center; gap: 5px;
+  }
+  .chip::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--ink-faint); }
+  .chip.ok::before { background: var(--ok); }
+  .chip.parcial::before { background: var(--warn); }
+  .chip.error::before { background: var(--err); }
+
+  .controles {
+    position: sticky; top: 0; z-index: 5;
+    display: flex; flex-wrap: wrap; gap: 8px;
+    padding: 10px 0; margin-bottom: 6px;
+    background: linear-gradient(var(--bg) 80%, transparent);
+  }
   input[type="search"], select {
-    padding: 8px 10px; border: 1px solid var(--border); border-radius: 8px;
-    background: var(--card); color: var(--text); font-size: 14px;
+    font: inherit; font-size: 13.5px; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 10px;
   }
-  input[type="search"] { flex: 1 1 200px; }
-  .lista { display: flex; flex-direction: column; gap: 10px; }
+  input[type="search"] { flex: 1 1 200px; min-width: 0; }
+  input[type="search"]::placeholder { color: var(--ink-faint); }
+  select { flex: 0 0 auto; cursor: pointer; }
+  input:focus-visible, select:focus-visible, a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--focus); outline-offset: 2px;
+  }
+
+  .lista {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+    align-items: start;
+  }
+  @media (min-width: 720px) {
+    .lista { grid-template-columns: 1fr 1fr; gap: 8px 10px; }
+  }
   .aviso {
-    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
-    padding: 14px 16px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 11px 13px;
   }
-  .aviso h2 { font-size: 16px; margin: 0 0 4px; }
+  .aviso h2 {
+    font-size: 14.5px; font-weight: 600; line-height: 1.28;
+    margin: 0 0 3px; text-wrap: balance;
+  }
   .aviso h2 a { color: var(--accent); text-decoration: none; }
   .aviso h2 a:hover { text-decoration: underline; }
-  .meta { color: var(--muted); font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 10px; }
-  .badges { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
-  .badge { font-size: 11px; padding: 2px 8px; border-radius: 999px; background: var(--chip); }
-  .desc { margin-top: 10px; font-size: 13px; color: var(--muted); }
+  .meta {
+    font-size: 12px; color: var(--ink-soft);
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 6px;
+  }
+  .meta .sep { color: var(--ink-faint); }
+  .meta time { font-family: "IBM Plex Mono", monospace; font-size: 11px; white-space: nowrap; }
+  .badges { margin-top: 7px; display: flex; flex-wrap: wrap; gap: 5px; }
+  .badge {
+    font-family: "IBM Plex Mono", monospace; font-size: 10.5px; letter-spacing: 0.02em;
+    padding: 1px 7px; border-radius: 5px; background: var(--surface-2); color: var(--ink-soft);
+  }
+  .badge.portal { color: var(--ink); }
+  .toggle {
+    margin-top: 7px; font: inherit; font-size: 12px; color: var(--accent);
+    background: none; border: 0; padding: 0; cursor: pointer;
+  }
+  .toggle:hover { text-decoration: underline; }
+  .desc {
+    margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border);
+    font-size: 12.5px; line-height: 1.55; color: var(--ink-soft);
+    white-space: pre-wrap; max-height: 260px; overflow-y: auto;
+  }
   .desc[hidden] { display: none; }
-  .toggle { margin-top: 8px; font-size: 12px; color: var(--accent); cursor: pointer; background: none; border: 0; padding: 0; }
-  .vacio { color: var(--muted); text-align: center; padding: 40px 0; }
+  .vacio { color: var(--ink-faint); text-align: center; padding: 40px 0; grid-column: 1 / -1; }
+
+  .nota {
+    margin-top: 24px; padding-top: 14px; border-top: 1px solid var(--border);
+    font-size: 11.5px; color: var(--ink-faint); line-height: 1.6;
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>Búsquedas laborales</h1>
-  <div class="sub" id="sub">Cargando…</div>
-  <div class="estado" id="estado"></div>
+  <header>
+    <h1>Radar Laboral</h1>
+    <div class="resumen" id="resumen">Cargando…</div>
+    <div class="estado" id="estado"></div>
+  </header>
 
   <div class="controles">
-    <input type="search" id="q" placeholder="Filtrar por texto (título, empresa)…">
-    <select id="portal"><option value="">Todos los portales</option></select>
-    <select id="modalidad">
+    <input type="search" id="q" placeholder="Filtrar por texto (título, empresa)…" aria-label="Filtrar por texto">
+    <select id="portal" aria-label="Filtrar por portal"><option value="">Todos los portales</option></select>
+    <select id="modalidad" aria-label="Filtrar por modalidad">
       <option value="">Cualquier modalidad</option>
       <option value="remoto">Remoto</option>
       <option value="hibrido">Híbrido</option>
@@ -75,99 +155,114 @@
   </div>
 
   <div class="lista" id="lista"></div>
+
+  <p class="nota" id="nota"></p>
 </div>
 
 <script>
-const fmtFecha = iso => {
-  if (!iso) return "sin fecha";
-  const d = new Date(iso);
-  if (isNaN(d)) return "sin fecha";
-  const diff = (Date.now() - d) / 36e5;
-  if (diff < 1) return "hace menos de 1 h";
-  if (diff < 24) return `hace ${Math.round(diff)} h`;
-  const dias = Math.round(diff / 24);
-  return dias === 1 ? "ayer" : `hace ${dias} días`;
-};
-const esc = s => (s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const esc = s => (s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const fmtRel = iso => {
+    if (!iso) return "sin fecha";
+    const d = new Date(iso);
+    if (isNaN(d)) return "sin fecha";
+    const h = (Date.now() - d) / 36e5;
+    if (h < 1) return "hace <1 h";
+    if (h < 24) return "hace " + Math.round(h) + " h";
+    const dias = Math.round(h / 24);
+    return dias <= 1 ? "ayer" : "hace " + dias + " d";
+  };
 
-let avisos = [];
+  let avisos = [];
 
-function pintarEstado(run) {
-  const cont = document.getElementById("estado");
-  const sub = document.getElementById("sub");
-  if (!run || !run.fin) { sub.textContent = ""; return; }
-  const cuando = new Date(run.fin).toLocaleString("es-AR", { dateStyle: "medium", timeStyle: "short" });
-  sub.textContent = `${run.publicados} avisos · ventana ${run.ventana_horas} h · última corrida ${cuando}`;
-  cont.innerHTML = Object.entries(run.portales || {}).map(([nombre, info]) => {
-    const cls = info.estado === "ok" ? "ok" : info.estado === "parcial" ? "parcial" : "error";
-    return `<span class="pill ${cls}" title="${esc((info.errores || []).join(' | '))}">${nombre}: ${info.estado} (${info.encontrados})</span>`;
-  }).join("");
-}
+  function pintarCabecera(run) {
+    const r = document.getElementById("resumen");
+    const cuando = run && run.fin
+      ? new Date(run.fin).toLocaleString("es-AR", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" })
+      : null;
+    r.textContent = [
+      avisos.length + " avisos",
+      run && run.ventana_horas ? "ventana " + run.ventana_horas + " h" : null,
+      cuando ? "corrida " + cuando : null,
+    ].filter(Boolean).join("  ·  ");
 
-function pintarLista() {
-  const q = document.getElementById("q").value.toLowerCase().trim();
-  const portal = document.getElementById("portal").value;
-  const modalidad = document.getElementById("modalidad").value;
-  const lista = document.getElementById("lista");
-
-  const filtrados = avisos.filter(a => {
-    if (portal && a.portal !== portal) return false;
-    if (modalidad && a.modalidad !== modalidad) return false;
-    if (q && !(`${a.titulo} ${a.empresa || ""} ${a.ubicacion || ""}`.toLowerCase().includes(q))) return false;
-    return true;
-  });
-
-  if (!filtrados.length) {
-    lista.innerHTML = `<div class="vacio">Nada para mostrar todavía.</div>`;
-    return;
+    document.getElementById("estado").innerHTML = Object.entries((run && run.portales) || {}).map(([nombre, info]) => {
+      const cls = info.estado === "ok" ? "ok" : info.estado === "parcial" ? "parcial" : "error";
+      const err = (info.errores || []).join(" | ");
+      return '<span class="chip ' + cls + '"' + (err ? ' title="' + esc(err) + '"' : "") +
+             '>' + esc(nombre) + " · " + esc(info.estado) + " (" + (info.encontrados ?? 0) + ")</span>";
+    }).join("");
   }
 
-  lista.innerHTML = filtrados.map((a, i) => `
-    <div class="aviso">
-      <h2><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titulo)}</a></h2>
-      <div class="meta">
-        <span>${esc(a.empresa || "empresa no informada")}</span>
-        <span>·</span>
-        <span>${esc(a.ubicacion || "ubicación no informada")}</span>
-        <span>·</span>
-        <span>${fmtFecha(a.fecha_publicacion)}</span>
-      </div>
-      <div class="badges">
-        <span class="badge">${esc(a.portal)}</span>
-        ${a.modalidad ? `<span class="badge">${esc(a.modalidad)}</span>` : ""}
-        ${a.salario ? `<span class="badge">${esc(a.salario)}</span>` : ""}
-      </div>
-      ${a.descripcion ? `
-        <button class="toggle" data-i="${i}">Ver descripción</button>
-        <div class="desc" id="desc-${i}" hidden>${esc(a.descripcion.slice(0, 1200))}${a.descripcion.length > 1200 ? "…" : ""}</div>
-      ` : ""}
-    </div>
-  `).join("");
+  function pintarLista() {
+    const q = document.getElementById("q").value.toLowerCase().trim();
+    const portal = document.getElementById("portal").value;
+    const modalidad = document.getElementById("modalidad").value;
 
-  lista.querySelectorAll(".toggle").forEach(btn => {
-    btn.onclick = () => {
-      const d = document.getElementById("desc-" + btn.dataset.i);
-      d.hidden = !d.hidden;
-      btn.textContent = d.hidden ? "Ver descripción" : "Ocultar descripción";
-    };
+    const filtrados = avisos.filter(a => {
+      if (portal && a.portal !== portal) return false;
+      if (modalidad && a.modalidad !== modalidad) return false;
+      if (q && !((a.titulo + " " + (a.empresa || "") + " " + (a.ubicacion || "")).toLowerCase().includes(q))) return false;
+      return true;
+    });
+
+    const lista = document.getElementById("lista");
+    if (!filtrados.length) {
+      lista.innerHTML = '<div class="vacio">No hay avisos que coincidan con el filtro.</div>';
+      return;
+    }
+
+    lista.innerHTML = filtrados.map((a, i) => {
+      const d = (a.descripcion || "").trim();
+      return '' +
+        '<article class="aviso">' +
+          '<h2><a href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.titulo) + '</a></h2>' +
+          '<div class="meta">' +
+            '<span>' + esc(a.empresa || "empresa no informada") + '</span>' +
+            '<span class="sep">·</span>' +
+            '<span>' + esc(a.ubicacion || "ubicación no informada") + '</span>' +
+            '<span class="sep">·</span>' +
+            '<time datetime="' + esc(a.fecha_publicacion || "") + '">' + fmtRel(a.fecha_publicacion) + '</time>' +
+          '</div>' +
+          '<div class="badges">' +
+            '<span class="badge portal">' + esc(a.portal) + '</span>' +
+            (a.modalidad ? '<span class="badge">' + esc(a.modalidad) + '</span>' : "") +
+            (a.salario ? '<span class="badge">' + esc(a.salario) + '</span>' : "") +
+          '</div>' +
+          (d ? '<button class="toggle" data-i="' + i + '" aria-expanded="false">Ver descripción</button>' +
+               '<div class="desc" id="desc-' + i + '" hidden>' + esc(d.slice(0, 1400)) + (d.length > 1400 ? "…" : "") + '</div>' : "") +
+        '</article>';
+    }).join("");
+
+    lista.querySelectorAll(".toggle").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const box = document.getElementById("desc-" + btn.dataset.i);
+        const abrir = box.hidden;
+        box.hidden = !abrir;
+        btn.textContent = abrir ? "Ocultar descripción" : "Ver descripción";
+        btn.setAttribute("aria-expanded", String(abrir));
+      });
+    });
+  }
+
+  Promise.all([
+    fetch("avisos.json").then(r => r.json()).catch(() => []),
+    fetch("ultima_corrida.json").then(r => r.json()).catch(() => null),
+  ]).then(([datos, run]) => {
+    avisos = Array.isArray(datos) ? datos : [];
+    const portales = [...new Set(avisos.map(a => a.portal))].sort();
+    document.getElementById("portal").insertAdjacentHTML("beforeend",
+      portales.map(p => '<option value="' + esc(p) + '">' + esc(p) + "</option>").join(""));
+
+    document.getElementById("nota").textContent =
+      "Se actualiza solo todos los días alrededor de las 8 de la mañana. " +
+      "Configuración editable en config/ del repositorio.";
+
+    pintarCabecera(run);
+    pintarLista();
   });
-}
 
-Promise.all([
-  fetch("avisos.json").then(r => r.json()).catch(() => []),
-  fetch("ultima_corrida.json").then(r => r.json()).catch(() => null),
-]).then(([datos, run]) => {
-  avisos = Array.isArray(datos) ? datos : [];
-  const portales = [...new Set(avisos.map(a => a.portal))].sort();
-  document.getElementById("portal").insertAdjacentHTML(
-    "beforeend", portales.map(p => `<option value="${esc(p)}">${esc(p)}</option>`).join(""));
-  pintarEstado(run);
-  pintarLista();
-  if (!run || !run.fin) document.getElementById("sub").textContent = `${avisos.length} avisos`;
-});
-
-["q", "portal", "modalidad"].forEach(id =>
-  document.getElementById(id).addEventListener("input", pintarLista));
+  ["q", "portal", "modalidad"].forEach(id =>
+    document.getElementById(id).addEventListener("input", pintarLista));
 </script>
 </body>
 </html>
