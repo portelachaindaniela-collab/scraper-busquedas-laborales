@@ -1,10 +1,11 @@
-# ─────────────────────────────────────────────────────────────
-#  Filtro de descarte. Editá las listas; no hace falta tocar código.
+# ═════════════════════════════════════════════════════════════
+#  ESTO ES UN EJEMPLO. Cambiá las listas por tus propias reglas.
+#  Si un aviso menciona alguna de estas frases, se descarta.
 #
 #  El match se hace sobre título + descripción + ubicación,
-#  en minúsculas y sin acentos ("inglés" == "ingles").
-#  Escribí las frases así: en minúsculas y sin acentos.
-# ─────────────────────────────────────────────────────────────
+#  SIEMPRE en minúsculas y sin acentos ("inglés" == "ingles").
+#  Escribí las frases así: minúsculas, sin acentos.
+# ═════════════════════════════════════════════════════════════
 
 # Si el aviso menciona CUALQUIERA de estas frases, se descarta.
 # La clave (p. ej. "ingles_alto") es sólo la etiqueta que aparece

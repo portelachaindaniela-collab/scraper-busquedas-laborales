@@ -1,8 +1,12 @@
-# ─────────────────────────────────────────────────────────────
-#  Qué buscar. Editá este archivo sin tocar código.
-# ─────────────────────────────────────────────────────────────
+# ═════════════════════════════════════════════════════════════
+#  ESTO ES UN EJEMPLO (búsqueda de community manager / marketing).
+#  Cambialo por lo tuyo: son solo términos de búsqueda.
+#  No hace falta tocar nada de código.
+# ═════════════════════════════════════════════════════════════
 
 # Términos que se consultan en Computrabajo, Bumeran y LinkedIn.
+# Poné los de tu rubro (ej: "desarrollador python", "diseñador ux",
+# "contador", "enfermero", lo que busques).
 terminos:
   - community manager
   - social media manager

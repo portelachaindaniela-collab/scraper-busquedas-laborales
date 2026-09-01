@@ -7,23 +7,31 @@ que vos elegís, y arma una **página web** con lo que queda y un link a cada av
 Pensado para búsquedas de **community manager, social media, marketing y contenido**
 en CABA, GBA norte y remoto, pero se cambia a lo que necesites editando dos archivos.
 
-Todo es **gratis** (GitHub Actions + GitHub Pages) y **no hace falta saber programar**
-para usarlo: se configura editando archivos de texto desde la web de GitHub.
+Lo que trae de fábrica (community manager / marketing) es **solo un ejemplo**:
+cada persona lo adapta a su rubro editando dos archivos de texto. No se toca código.
 
 Ejemplo funcionando: <https://portelachaindaniela-collab.github.io/scraper-busquedas-laborales/>
 
+Hay **dos formas de usarlo**. Elegí una:
+
+| | Opción A — en la web | Opción B — en tu compu |
+|---|---|---|
+| Instalar algo | No | Sí, Python (una vez) |
+| Cuenta de GitHub | Sí (gratis) | No |
+| Resultado | Una página online que se actualiza sola cada día | Una página local que ves cuando corrés el programa |
+| Privacidad | El repo es público | Todo queda en tu máquina |
+
 ---
 
-## Cómo armar tu propia copia
+## Opción A — en la web (no instalás nada)
 
 ### 1. Creá tu copia
 
 En la página del repo, botón verde **“Use this template” → “Create a new repository”**.
 Poné un nombre, dejalo **público** (si es privado, GitHub Pages se paga), y creá.
 
-> “Use this template” copia el proyecto a tu cuenta con todo listo, incluido el
-> archivo que lo hace correr solo. (El botón “Download ZIP” también existe, pero
-> con el ZIP tenés que armar todo a mano; conviene el template.)
+> El botón “Download ZIP” también existe, pero con el ZIP tenés que armar todo a
+> mano; para la web conviene el template.
 
 ### 2. Decí qué querés buscar
 
@@ -94,6 +102,23 @@ archivo **`data/descartados.json`** en tu repo.
 
 ---
 
+## Opción B — en tu compu (más privado, sin cuentas)
+
+1. **Instalá Python** desde <https://www.python.org/downloads/>.
+   En el instalador, marcá la casilla **“Add Python to PATH”**.
+2. **Descargá el proyecto**: botón verde **“Code” → “Download ZIP”**, y descomprimilo
+   donde quieras (por ejemplo el Escritorio).
+3. **Editá tus búsquedas y filtros**: abrí `config/busquedas.yml` y `config/filtros.yml`
+   con el **Bloc de notas** (clic derecho → Abrir con) y guardá.
+4. **Doble clic en `correr.bat`**. Va a instalar lo que falta, buscar los avisos
+   (tarda unos minutos) y abrir la página en el navegador.
+5. Cuando termines de mirar, cerrá la ventana negra.
+
+Cada vez que quieras avisos frescos, volvés a hacer doble clic en `correr.bat`.
+Nada sale de tu computadora.
+
+---
+
 ## Qué mira y qué tan confiable es cada portal
 
 | Portal | Cómo lo lee | Nota |
@@ -123,7 +148,7 @@ siguientes.
 
 ---
 
-## Para quien sepa programar
+## Desde la terminal (avanzado)
 
 ```bash
 git clone https://github.com/TU-USUARIO/TU-REPO
@@ -131,7 +156,7 @@ cd TU-REPO
 pip install -r requirements.txt
 python -m scraper.main        # corre el scraper
 pytest                        # pruebas del filtro
-python -m http.server 8000 --directory docs   # ver la página local en localhost:8000
+python -m http.server 8000 --directory docs   # ver la página en localhost:8000
 ```
 
 Estructura: `scraper/portales/` un archivo por portal (cada uno expone
