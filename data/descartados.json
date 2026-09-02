@@ -1,6 +1,91 @@
 [
   {
     "portal": "computrabajo",
+    "portal_id": "A945CAF29C4AF59561373E686DCF3405",
+    "titulo": "Analista de Marketing y Costos",
+    "empresa": "Importante empresa del sector",
+    "ubicacion": "Neuquen, Neuquén",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-02T08:02:05",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-y-costos-en-neuquen-A945CAF29C4AF59561373E686DCF3405",
+    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
+    "capturado": "2026-09-02T15:01:18.135314",
+    "id": "computrabajo:A945CAF29C4AF59561373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Neuquén»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4459945302",
+    "titulo": "Analista de marketing",
+    "empresa": "Aberturas Herfasa",
+    "ubicacion": "Santa Fe, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-02T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-marketing-at-aberturas-herfasa-4459945302",
+    "descripcion": null,
+    "capturado": "2026-09-02T15:01:18.135314",
+    "id": "linkedin:4459945302",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Santa Fe, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4459963296",
+    "titulo": "Responsable de Marketing digital",
+    "empresa": "Dick Costantino S.A.",
+    "ubicacion": "Río Tercero, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-02T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/responsable-de-marketing-digital-at-dick-costantino-s-a-4459963296",
+    "descripcion": null,
+    "capturado": "2026-09-02T15:01:18.135314",
+    "id": "linkedin:4459963296",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Río Tercero, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4459934046",
+    "titulo": "Lead Marketing Data Analyst",
+    "empresa": "Xperteez Technology",
+    "ubicacion": "Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-02T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/lead-marketing-data-analyst-at-xperteez-technology-4459934046",
+    "descripcion": null,
+    "capturado": "2026-09-02T15:01:18.135314",
+    "id": "linkedin:4459934046",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4459918051",
+    "titulo": "Account Management & Copywriting Senior Analyst",
+    "empresa": "Winclap",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-02T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/account-management-copywriting-senior-analyst-at-winclap-4459918051",
+    "descripcion": null,
+    "capturado": "2026-09-02T15:01:18.135314",
+    "id": "linkedin:4459918051",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
     "portal_id": "D58B626227BCC70861373E686DCF3405",
     "titulo": "Analista de Marketing",
     "empresa": "Aberturas Herfasa",
