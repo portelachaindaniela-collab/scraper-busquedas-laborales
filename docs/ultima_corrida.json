@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-09-02T15:01:18.135314",
+  "inicio": "2026-09-03T11:27:10.599669",
   "ventana_horas": 48,
   "terminos": [
     "community manager",
@@ -7,32 +7,36 @@
     "analista de marketing digital",
     "content manager",
     "analista de contenidos",
-    "comunicación digital"
+    "comunicación digital",
+    "comunicación en medios digitales",
+    "comunicador digital",
+    "periodismo digital",
+    "medios digitales"
   ],
   "portales": {
     "bumeran": {
       "estado": "ok",
-      "encontrados": 5,
+      "encontrados": 3,
       "errores": []
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 50,
+      "encontrados": 59,
       "errores": []
     },
     "weremoto": {
       "estado": "ok",
-      "encontrados": 12,
+      "encontrados": 80,
       "errores": []
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 60,
+      "encontrados": 92,
       "errores": []
     }
   },
-  "fin": "2026-09-02T15:02:50.722540",
-  "nuevos_totales": 18,
-  "publicados": 13,
+  "fin": "2026-09-03T11:30:26.016485",
+  "nuevos_totales": 36,
+  "publicados": 31,
   "descartados": 5
 }
