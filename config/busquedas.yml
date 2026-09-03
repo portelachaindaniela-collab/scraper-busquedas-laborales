@@ -14,6 +14,10 @@ terminos:
   - content manager
   - analista de contenidos
   - comunicación digital
+  - comunicación en medios digitales
+  - comunicador digital
+  - periodismo digital
+  - medios digitales
 
 # Ventana de captura, en horas. El scraper corre 1 vez por día;
 # 48 h + deduplicación evita perder avisos que un portal datea sólo
@@ -41,3 +45,5 @@ weremoto:
     - marketing
     - comunicaci
     - redes sociales
+    - medios digitales
+    - periodismo
