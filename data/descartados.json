@@ -1,5 +1,39 @@
 [
   {
+    "portal": "bumeran",
+    "portal_id": "1118431253",
+    "titulo": "Analista Jr. de Marketing y Contenidos",
+    "empresa": "Ecorun",
+    "ubicacion": "Lomas de Zamora, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-09-07T12:01:31",
+    "url": "https://www.bumeran.com.ar/empleos/analista-jr-de-marketing-y-contenidos-ecorun-1118431253.html",
+    "descripcion": "Analista Jr. de Marketing y ContenidosResumen del puestoEn ECORUN buscamos incorporar un/a Analista Jr. de Marketing y Contenidos para sumarse a nuestro equipo de trabajo.La posición está orientada a una persona creativa, organizada, resolutiva y proactiva, que pueda acompañar el día a día del área de Marketing, participando en la gestión de redes sociales, la planificación de contenidos, la coordinación de comunicaciones y el seguimiento de distintas acciones y proyectos de la empresa.Buscamos un perfil con ganas de involucrarse en una empresa en crecimiento, aportar ideas y colaborar en la ejecución de iniciativas vinculadas a nuestra comunicación y posicionamiento.Principales responsabilidades Supervisión de nuestras redes sociales. Creación, calendarización y seguimiento de contenidos. Seguimiento de proyectos, acciones y campañas de marketing. Gestión de comunicaciones internas. Coordinación con proveedores gráficos y audiovisuales. Pedido, recepción y organización de material de los comercios. Propuesta de nuevas ideas, acciones y proyectos para ECORUN.Requisitos Ser heavy user de redes sociales, con interés por tendencias, contenidos y nuevos formatos. Preferentemente contar con manejo de herramientas de edición como Canva, CapCut o similares. Buena redacción y criterio estético. Organización, autonomía y proactividad. Ganas de aprender, proponer y crecer junto al proyecto. Se valorará experiencia previa en tareas similares. Se valorarán estudios en Marketing, Comunicación, Publicidad o carreras afines.Modalidad Jornada part-time. Trabajo 100% presencial. Lunes a viernes de 10 a 15 hs. Lugar de trabajo: Lomas de Zamora.",
+    "capturado": "2026-09-07T16:19:50.429264",
+    "id": "bumeran:1118431253",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4462227122",
+    "titulo": "Analista de Marketing Jr.",
+    "empresa": "Piedra Grande | Industria Minera",
+    "ubicacion": "Avellaneda, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-07T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-marketing-jr-at-piedra-grande-industria-minera-4462227122",
+    "descripcion": null,
+    "capturado": "2026-09-07T16:19:50.429264",
+    "id": "linkedin:4462227122",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Avellaneda, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
     "portal": "computrabajo",
     "portal_id": "889FDE0E292E39BF61373E686DCF3405",
     "titulo": "Content Growth Manager",
@@ -120,6 +154,40 @@
     "motivos_descarte": [
       "google_ads: «google ads»",
       "ubicacion fuera de zona: «Villa Nueva, Mendoza»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4461855125",
+    "titulo": "Creador de contenidos para redes sociales (Instagram y TikTok)",
+    "empresa": "Contakto - Soluciones empresariales para Pymes",
+    "ubicacion": "Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-06T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/creador-de-contenidos-para-redes-sociales-instagram-y-tiktok-at-contakto-soluciones-empresariales-para-pymes-4461855125",
+    "descripcion": null,
+    "capturado": "2026-09-07T16:19:50.429264",
+    "id": "linkedin:4461855125",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4461831475",
+    "titulo": "Paid media",
+    "empresa": "Monky Force",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-06T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/paid-media-at-monky-force-4461831475",
+    "descripcion": null,
+    "capturado": "2026-09-07T16:19:50.429264",
+    "id": "linkedin:4461831475",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
     ]
   },
   {
