@@ -1,5 +1,73 @@
 [
   {
+    "portal": "computrabajo",
+    "portal_id": "F6DB0FDF0148842761373E686DCF3405",
+    "titulo": "Analista de Marketing",
+    "empresa": "PROPIETARIAN SA",
+    "ubicacion": "Córdoba, Córdoba",
+    "modalidad": null,
+    "salario": "$ 2.000",
+    "fecha_publicacion": "2026-09-11T13:56:38",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-full-time-en-cordoba-F6DB0FDF0148842761373E686DCF3405",
+    "descripcion": "¡GNI está en búsqueda de un/a Analista de Marketing! Buscamos a alguien que se sume al equipo siendo quien traduce la planificación del área en ejecución concreta: trabajando junto a las agencias y proveedores, llevando adelante las campañas y el contenido mes a mes, y aportando el análisis necesario para tomar mejores decisiones. Modalidad: Full – time. Responsabilidades Trabajo en conjunto con agencias y proveedores • Trabajo junto con el área de diseño, Community Manager, Agencia de Paid Media y Agencias de Producción Audiovisual. • Seguimiento del trabajo de las agencias según la planificación establecida: cumplimiento de tiempos, objetivos y corrección de entregables. • Registro y control administrativo de pagos a proveedores. Planificación y producción de campañas • Gestión de contenido mensual orgánico y pago en redes sociales. • Organización y coordinación de producciones audiovisuales junto al equipo. • Revisión y corrección de piezas gráficas y audiovisuales. • Armado y seguimiento del calendario y cronograma general del área. Análisis y gestión comercial • Elaboración de reportes mensuales de métricas y KPIs del área. • Seguimiento de leads. • Manejo de CRM. Soporte al área • Soporte directo a la Jefatura de Marketing en la planificación y estrategia del área. Perfil que buscamos • Persona organizada y resolutiva.. • Mirada analítica, con foco en resultados y mejora continua de procesos. • Buena comunicación y facilidad para el trabajo en equipo con áreas comerciales y agencias externas. • Proactividad y creatividad para la mejora del contenido y posicionamiento de la empresa. • Compromiso con los tiempos y la calidad de las entregas. Requisitos • Formación universitaria en Marketing, Comunicación, Publicidad o carreras afines. • Mínimo 3 años de experiencia en posiciones similares. • Conocimiento en planificación y ejecución de calendarios de contenido mensual. • Manejo de reportería y análisis de métricas (KPIs de redes, campañas y leads). • Conocimientos de herramientas de gestión de campañas digitales (Meta Ads) y de CRM. Se valorará • Experiencia previa en el sector inmobiliario, real estate o afines. • Manejo de herramientas de diseño (Canva, Illustrator). • Manejo de herramientas de edición audiovisual (CapCut, Premiere u otras). • Manejo de herramientas de inteligencia artificial (Claude, Gemini, Chatgpt) Ofrecemos • Incorporación a un equipo de marketing consolidado, con proveedores y procesos ya en marcha. • Participación activa en la planificación y estrategia del área. • Cobertura de obra social.-Requerimientos- Educación mínima: Universitario 3 años de experiencia Disponibilidad de viajar: Si Palabras clave: analyst, mercadotecnia, marketing, mercadeo",
+    "capturado": "2026-09-11T14:55:47.741987",
+    "id": "computrabajo:F6DB0FDF0148842761373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4463974795",
+    "titulo": "COMMUNITY MANAGER",
+    "empresa": "Randstad Argentina",
+    "ubicacion": "Santo Tomé, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/community-manager-at-randstad-argentina-4463974795",
+    "descripcion": null,
+    "capturado": "2026-09-11T14:55:47.741987",
+    "id": "linkedin:4463974795",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Santo Tomé, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4463942141",
+    "titulo": "Responsable de comunicación",
+    "empresa": "PLUMARI S.A.",
+    "ubicacion": "Lanús, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/responsable-de-comunicaci%C3%B3n-at-plumari-s-a-4463942141",
+    "descripcion": null,
+    "capturado": "2026-09-11T14:55:47.741987",
+    "id": "linkedin:4463942141",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Lanús, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4464831728",
+    "titulo": "EJECUTIVO/A DE CUENTAS - CÓRDOBA",
+    "empresa": "Radio Mitre",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-a-de-cuentas-c%C3%B3rdoba-at-radio-mitre-4464831728",
+    "descripcion": null,
+    "capturado": "2026-09-11T14:55:47.741987",
+    "id": "linkedin:4464831728",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
     "portal": "weremoto",
     "portal_id": "id-marketing-coordinator-bionic-talent-2",
     "titulo": "Marketing Coordinator",
@@ -15,6 +83,23 @@
     "motivos_descarte": [
       "google_ads: «google ads»",
       "ventas: «generacion de leads»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4464569846",
+    "titulo": "Ejecutivo de Ventas de Campañas de Influencer Marketing",
+    "empresa": "Global Media Review",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-de-ventas-de-campa%C3%B1as-de-influencer-marketing-at-global-media-review-4464569846",
+    "descripcion": null,
+    "capturado": "2026-09-11T14:55:47.741987",
+    "id": "linkedin:4464569846",
+    "motivos_descarte": [
+      "ventas: «ventas»"
     ]
   },
   {
