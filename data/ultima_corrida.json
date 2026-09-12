@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-09-11T14:55:47.741987",
+  "inicio": "2026-09-12T13:56:17.360455",
   "ventana_horas": 48,
   "terminos": [
     "community manager",
@@ -21,7 +21,7 @@
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 66,
+      "encontrados": 63,
       "errores": []
     },
     "weremoto": {
@@ -35,8 +35,8 @@
       "errores": []
     }
   },
-  "fin": "2026-09-11T14:58:01.933616",
-  "nuevos_totales": 37,
-  "publicados": 32,
+  "fin": "2026-09-12T13:58:28.058542",
+  "nuevos_totales": 30,
+  "publicados": 25,
   "descartados": 5
 }
