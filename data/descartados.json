@@ -17,6 +17,23 @@
     ]
   },
   {
+    "portal": "linkedin",
+    "portal_id": "4466705986",
+    "titulo": "Paid Media y Creador de contenido",
+    "empresa": "Expend Matic SRL",
+    "ubicacion": "Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/paid-media-y-creador-de-contenido-at-expend-matic-srl-4466705986",
+    "descripcion": null,
+    "capturado": "2026-09-13T14:52:14.762020",
+    "id": "linkedin:4466705986",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Argentina»"
+    ]
+  },
+  {
     "portal": "bumeran",
     "portal_id": "2189851",
     "titulo": "Community Manager",
