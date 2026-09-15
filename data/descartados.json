@@ -1,6 +1,74 @@
 [
   {
     "portal": "weremoto",
+    "portal_id": "id-digital-marketing-specialist---email-paid-media-lead-generation-pavago",
+    "titulo": "Digital Marketing Specialist - Email, Paid Media & Lead Generation",
+    "empresa": "Pavago",
+    "ubicacion": "Brasil, Argentina, Perú, Chile, Ecuador",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-09-15T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-digital-marketing-specialist---email-paid-media-lead-generation-pavago",
+    "descripcion": "📌 Rol: Digital Marketing Specialist – Email, Paid Media & Lead Generation 🌎 Ubicación: Remoto – Brasil, Argentina, Perú, Chile y Ecuador 💼 Tipo de Contrato: Full-time 🕐 Horario: Horario laboral de EE. UU. 📋 Descripción General Pavago busca un/a Digital Marketing Specialist para ejecutar campañas multicanal enfocadas en generar leads, mejorar conversiones e impulsar el crecimiento. El rol combina email marketing, publicidad paga, redes sociales, landing pages, automatización y analytics. 📋 Responsabilidades Principales • Planificar, lanzar y optimizar campañas de marketing digital. • Gestionar email marketing y campañas de lead nurturing. • Apoyar campañas de paid search y paid social. • Crear y optimizar landing pages y assets de campaña. • Coordinar contenido para redes sociales. • Mantener workflows de automatización de marketing. • Analizar tráfico, leads, conversiones y resultados de campañas. • Trabajar con ventas para mejorar la calidad y conversión de leads. • Realizar pruebas de mensajes, campañas y funnels. 🎯 Requisitos • 2+ años de experiencia en marketing digital. • Experiencia práctica en email marketing, social media, paid advertising y digital analytics. • Familiaridad con Google Analytics y herramientas de marketing automation. • Conocimiento de lead generation y conversion funnels. • Buenas habilidades analíticas y de copywriting. • Capacidad para tomar decisiones basadas en datos y trabajar de manera independiente. • Inglés sólido, escrito y verbal.",
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "weremoto:id-digital-marketing-specialist---email-paid-media-lead-generation-pavago",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "weremoto",
+    "portal_id": "id-influencer-marketing-account-manager-remote-talent-latam-1",
+    "titulo": "Influencer Marketing Account Manager",
+    "empresa": "Remote Talent Latam",
+    "ubicacion": "Brazil, Argentina, Mexico",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-09-15T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-influencer-marketing-account-manager-remote-talent-latam-1",
+    "descripcion": "📌 Rol: Influencer Marketing Account Manager 🌎 Ubicación: 100% remoto – LATAM 💼 Tipo de Contrato: Full-time 🕐 Horario: Lunes a viernes, 8:00 AM – 5:00 PM EDT 💰 Salario: USD $3,000 mensuales, con flexibilidad para aumentar según experiencia y fit 📋 Descripción General Remote Talent LATAM busca un/a Influencer Marketing Account Manager para gestionar la estrategia, ejecución y relación con clientes en campañas de influencers. El rol abarca todo el ciclo de las campañas, desde discovery y negociación con creators hasta aprobación de contenido y análisis de resultados. 📋 Responsabilidades Principales • Gestionar campañas de influencer marketing de principio a fin. • Supervisar discovery, negociaciones con creators, aprobación de contenido y análisis de performance. • Gestionar múltiples cuentas y campañas complejas. • Actuar como enlace entre la visión del cliente y la ejecución de los creators. • Colaborar con equipos de creatividad, estrategia y media. • Construir relaciones a largo plazo con clientes y generar resultados medibles. 🎯 Requisitos • 5+ años de experiencia profesional en influencer marketing. • Experiencia previa trabajando en una agencia de EE. UU. o con clientes de EE. UU. • Experiencia gestionando múltiples cuentas simultáneamente. • Experiencia con cuentas grandes y campañas complejas. • Historial comprobable de relaciones sólidas con clientes, retención y crecimiento de cuentas. • Experiencia práctica desarrollando y ejecutando campañas de influencer marketing. • Manejo de plataformas como CreatorIQ, Modash, Upfluence o equivalentes. • Inglés avanzado escrito y verbal. 🏖️ Beneficios • Unlimited PTO. • U.S. holidays.",
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "weremoto:id-influencer-marketing-account-manager-remote-talent-latam-1",
+    "motivos_descarte": [
+      "ingles_alto: «ingles avanzado»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4465531832",
+    "titulo": "Comunicador Digital",
+    "empresa": "Marea SRL",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-15T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/comunicador-digital-at-marea-srl-4465531832",
+    "descripcion": null,
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "linkedin:4465531832",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "42686D131CE790A261373E686DCF3405",
+    "titulo": "Analista de marketing",
+    "empresa": "Importante empresa del sector",
+    "ubicacion": "Rosario, Santa Fe",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-14T20:30:13",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-en-rosario-42686D131CE790A261373E686DCF3405",
+    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "computrabajo:42686D131CE790A261373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe»"
+    ]
+  },
+  {
+    "portal": "weremoto",
     "portal_id": "id-performance-marketing-manager---google-ads-meta-ads-paid-acquisition-pavago",
     "titulo": "Performance Marketing Manager - Google Ads, Meta Ads & Paid Acquisition",
     "empresa": "Pavago",
@@ -32,6 +100,58 @@
     "id": "weremoto:id-project-manager-social-media-and-algorithmic-strategy-lead-deinsa-global",
     "motivos_descarte": [
       "ingles_alto: «bilingual»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4465238383",
+    "titulo": "Encargado de redes sociales",
+    "empresa": "Proyecto Beta",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-14T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/encargado-de-redes-sociales-at-proyecto-beta-4465238383",
+    "descripcion": null,
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "linkedin:4465238383",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4465239821",
+    "titulo": "Affiliate Manager - Influencer and Creator Partnerships",
+    "empresa": "Solvo Global Careers",
+    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-14T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/affiliate-manager-influencer-and-creator-partnerships-at-solvo-global-careers-4465239821",
+    "descripcion": null,
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "linkedin:4465239821",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4467239092",
+    "titulo": "Especialista en marketing - Prospección B2B",
+    "empresa": "America Digital",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-14T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-en-marketing-prospecci%C3%B3n-b2b-at-ai-world-congress-4467239092",
+    "descripcion": null,
+    "capturado": "2026-09-15T15:29:25.234889",
+    "id": "linkedin:4467239092",
+    "motivos_descarte": [
+      "ventas: «prospeccion»",
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
     ]
   },
   {

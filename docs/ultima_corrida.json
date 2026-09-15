@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-09-14T16:52:58.727035",
+  "inicio": "2026-09-15T15:29:25.234889",
   "ventana_horas": 48,
   "terminos": [
     "community manager",
@@ -21,7 +21,7 @@
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 57,
+      "encontrados": 54,
       "errores": []
     },
     "weremoto": {
@@ -31,12 +31,12 @@
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 99,
+      "encontrados": 100,
       "errores": []
     }
   },
-  "fin": "2026-09-14T16:55:00.314494",
-  "nuevos_totales": 34,
-  "publicados": 30,
-  "descartados": 4
+  "fin": "2026-09-15T15:31:22.990443",
+  "nuevos_totales": 27,
+  "publicados": 20,
+  "descartados": 7
 }
