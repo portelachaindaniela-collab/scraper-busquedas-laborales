@@ -1,6 +1,127 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4466908215",
+    "titulo": "Communications Specialist - Member Experience and Events",
+    "empresa": "Parlor Social Club",
+    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/communications-specialist-member-experience-and-events-at-parlor-social-club-4466908215",
+    "descripcion": null,
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "linkedin:4466908215",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4466697079",
+    "titulo": "Creador de Contenidos Digitales",
+    "empresa": "RED MUTUAL",
+    "ubicacion": "Paraná, Provincia de Entre Ríos, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/creador-de-contenidos-digitales-at-red-mutual-4466697079",
+    "descripcion": null,
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "linkedin:4466697079",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Paraná, Provincia de Entre Ríos, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4466694335",
+    "titulo": "Community Manager | Content Creator",
+    "empresa": "Sandos Agency",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/community-manager-content-creator-at-sandos-agency-4466694335",
+    "descripcion": null,
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "linkedin:4466694335",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "D9320610ACBCE82D61373E686DCF3405",
+    "titulo": "Especialista en Performance Marketing",
+    "empresa": "MUNDOAUTO MULTIMARCAS SA",
+    "ubicacion": "Córdoba, Córdoba",
+    "modalidad": null,
+    "salario": "$ 2.000.000",
+    "fecha_publicacion": "2026-09-17T20:53:02",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-performance-marketing-en-cordoba-D9320610ACBCE82D61373E686DCF3405",
+    "descripcion": "Importante agencia de la ciudad de Cordoba busqueda de un un perfil técnico dentro del área de marketing digital, Especialista en Performance Marketing para unirse a nuestro equipo en MUNDOAUTO MULTIMARCAS SA, enfocado exclusivamente en performance y generación de leads. No es un community manager ni un creativo. Especialista en Performance Marketing Objetivo del puesto: Generar leads calificados a través de campañas digitales optimizadas, asegurando el volumen, la calidad y la trazabilidad de cada contacto hasta que lo toma el equipo comercial. Tareas: *Planificación, ejecución y optimización de campañas de publicidad digital en Meta Ads (Facebook e Instagram) y Google Ads. *Creación de públicos segmentados y remarketing. *Gestión y análisis de conversiones: formularios, mensajes, WhatsApp, llamadas. *Coordinación directa con el equipo comercial: envío de leads, seguimiento de calidad, trazabilidad y feedback. *Monitoreo de KPIs: CTR, CPL, tasa de conversión, ROAS. *Propuesta de mejoras continuas en segmentación, presupuesto y canales. *Reportes semanales/mensuales de resultados y recomendaciones de mejora. En esta posición, serás responsable de diseñar, implementar y supervisar campañas de marketing digital que aumenten la visibilidad y el engagement de nuestros productos y servicios. Tu experiencia en estrategias de marketing digital, análisis de datos y optimización de campañas será crucial para alcanzar nuestros objetivos de crecimiento. Tus responsabilidades incluirán el desarrollo de campañas de pago por clic (PPC), gestión de redes sociales, análisis de rendimiento y optimización continua de las estrategias de marketing. Deberás trabajar en conjunto con el equipo de marketing para asegurar que todas las campañas estén alineadas con los objetivos generales de la empresa. Requisitos clave para este rol incluyen una sólida formación en marketing digital, experiencia demostrable en gestión de campañas de PPC y redes sociales, y habilidades analíticas avanzadas. Se valorará experiencia previa en el sector automotriz o industrias similares. Buscamos un profesional proactivo, creativo y con un enfoque en los resultados. Si tienes un historial de éxito en el desarrollo y ejecución de campañas de marketing digital, y estás buscando un desafío emocionante en un entorno dinámico, esta posición podría ser ideal para ti. Esperamos tu postulacion!. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Licencias de conducir: B1 Palabras clave: specialist, especialista, productividad, productivity, yield, rendimiento, mercadotecnia, marketing, mercadeo",
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "computrabajo:D9320610ACBCE82D61373E686DCF3405",
+    "motivos_descarte": [
+      "google_ads: «google ads»",
+      "ventas: «generacion de leads»",
+      "ubicacion fuera de zona: «Córdoba, Córdoba»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "7391FD4DA6192AF661373E686DCF3405",
+    "titulo": "Community Manager",
+    "empresa": "ADN - Recursos Humanos",
+    "ubicacion": "Lomas de Zamora, Buenos Aires-GBA",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-17T20:52:14",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-lomas-de-zamora-prov-bs-as-en-lomas-de-zamora-7391FD4DA6192AF661373E686DCF3405",
+    "descripcion": "Nombre del puesto a cubrir: Community Manager Años de experiencia: Mínimo 3 años de experiencia comprobable Fecha prevista de ingreso: Inmediata Modalidad: Presencial Lugar y Horario de trabajo: Lunes a sábado de 09:00 a 18:00 hs, en LOMAS DE ZAMORA Detallar Tareas, Funciones y Responsabilidades: - Administrar las redes sociales: planificar publicaciones, responder consultas y acompañar a la comunidad. - Crear contenido para redes sociales, incluidos textos, fotografías y videos, de acuerdo con las novedades y campañas de la marca. - Coordinar el calendario de contenidos y analizar métricas para proponer mejoras. Conocimientos excluyentes: - Experiencia comprobable mínima de 3 años en gestión de redes sociales. - Detallar las cuentas administradas y presentar ejemplos de trabajos realizados. - Experiencia en generación de contenido para redes sociales. Conocimientos deseables: - Diseño y edición de contenido: manejo de herramientas como Canva y CapCut para crear piezas gráficas, fotografías y videos para redes sociales. - Análisis de redes sociales: conocimiento de métricas, programación de publicaciones y uso de los resultados para mejorar el contenido. - Contenido para sucursales: experiencia creando contenido en comercios, con capacidad para mostrar productos, promociones y novedades del día a día. Competencias Educación requerida: Secundario Completo Titulo/carrera: Terciario o cursos de Community Management, Marketing Digital o Comunicación (DESEABLE) Lugar de residencia (preferentemente): Zona Sur GBA Otros conocimientos o competencias requeridas para el puesto: Creatividad, buena redacción, organización, autonomía y capacidad para generar contenido diariamente en las sucursales. -Requerimientos- Educación mínima: Universitario 3 años de experiencia Conocimientos: Diseño, Estrategia de marketing, Facebook ads, Fotografía, Gestión de redes sociales, Marketing digital, Métrica, Redes sociales, Video, Consulta Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente",
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "computrabajo:7391FD4DA6192AF661373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires-GBA»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "E4819ABE91830DB461373E686DCF3405",
+    "titulo": "Community Manager / Lomas de Zamora Prov. Bs As",
+    "empresa": "ADN - Recursos Humanos",
+    "ubicacion": "Lomas de Zamora, Buenos Aires-GBA",
+    "modalidad": null,
+    "salario": "$ 111.111",
+    "fecha_publicacion": "2026-09-17T20:52:14",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-lomas-de-zamora-prov-bs-as-adn-recursos-humanos-en-lomas-de-zamora-E4819ABE91830DB461373E686DCF3405",
+    "descripcion": "En ADN recursos humanos estamos en la búsqueda de un Community Manager para una empresa ubicada en la zona de Lomas de Zamora. Modalidad de trabajo: Presencial. Lugar de trabajo: Lomas de Zamora. Horarios de trabajo: Lunes a sábado de 09:00 a 18:00 hs Tareas / Funciones / Responsabilidades: -Administrar las redes sociales: planificar publicaciones, responder consultas y acompañar a la comunidad. -Crear contenido para redes sociales, incluidos textos, fotografías y videos, de acuerdo con las novedades y campañas de la marca. -Coordinar el calendario de contenidos y analizar métricas para proponer mejoras. Requerimientos para el puesto: -Formación terciaria en Community Management, Marketing Digital o Comunicación -Experiencia comprobable mínima de 3 años en gestión de redes sociales. -Experiencia en generación de contenido para redes sociales. -Diseño y edición de contenido. -Análisis de redes sociales. -Requerimientos- Educación mínima: Terciario 3 años de experiencia Conocimientos: Fotografía, Marketing digital, Métrica, Microsoft project, Redes sociales, Video, Desarrollo de estrategia Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente, resources, human",
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "computrabajo:E4819ABE91830DB461373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires-GBA»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4468676542",
+    "titulo": "Social Media",
+    "empresa": "Municipalidad de San Miguel",
+    "ubicacion": "San Antonio Oeste, Provincia de Río Negro, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-17T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/social-media-at-municipalidad-de-san-miguel-4468676542",
+    "descripcion": null,
+    "capturado": "2026-09-18T14:52:13.424937",
+    "id": "linkedin:4468676542",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4468343019",
     "titulo": "Gerente de marketing",
     "empresa": "Universo",
@@ -1284,59 +1405,6 @@
     ]
   },
   {
-    "portal": "computrabajo",
-    "portal_id": "0BAAFC5F2DC45C8961373E686DCF3405",
-    "titulo": "Analista de Comunicación // Eventual // Neuquén Capital",
-    "empresa": "ManpowerGroup",
-    "ubicacion": "Neuquen, Neuquén",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-09-04T13:53:53",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-comunicacion-eventual-neuquen-capital-sin-id-en-neuquen-0BAAFC5F2DC45C8961373E686DCF3405",
-    "descripcion": "Estamos seleccionando para importante empresa del rubro energía. Zona de Trabajo: Neuquén Capital, Neuquén. Jornada Laboral: Lunes a viernes de 8:30 a 17:30 hs. Esquema de Empleo: Híbrido. Modalidad de Contratación: Eventual por proyecto (6 meses). Las principales funciones del puesto serán: Participar en la planificación, coordinación e implementación de acciones de comunicación para el negocio de Upstream y otros proyectos estratégicos de la compañía. Generar contenidos para canales internos y externos en diferentes formatos, adaptados a diversas audiencias y objetivos de comunicación. Acompañar el relacionamiento con medios de comunicación y periodistas locales, nacionales y especializados. Coordinar eventos institucionales, visitas de autoridades, recorridas de prensa y otras iniciativas de posicionamiento corporativo. Colaborar en acciones vinculadas a la gestión de marca, imagen y reputación corporativa. Realizar el seguimiento de proveedores, contratos y proyectos asociados al área de Comunicación. Requisitos: Graduados/as o estudiantes avanzados/as de Comunicación Social, Periodismo, Marketing, Relaciones Institucionales o carreras afines. Experiencia de entre 2 y 5 años en comunicación corporativa, comunicación institucional, generación de contenidos, medios de comunicación, organización de eventos o posiciones similares. Excelente capacidad de redacción, planificación y gestión de múltiples proyectos en simultáneo. Manejo de herramientas digitales y de comunicación. Contar con licencia de conducir vigente y experiencia de manejo (requisito excluyente). Disponibilidad para trabajar en modalidad híbrida en las oficinas ubicadas en Neuquén Capital. · Al postularte o avanzar en este proceso, aceptás el tratamiento de tus datos personales conforme a nuestra Política de Privacidad, en cumplimiento de la Ley 25.326. ManpowerGroup Argentina tratará tu información exclusivamente con fines de evaluación y contacto en relación con oportunidades laborales. Podés ejercer tus derechos de acceso, rectificación o supresión cuando lo desees. · En ManpowerGroup promovemos una cultura inclusiva y diversa basada en el respeto y en la igualdad de oportunidades.-Requerimientos- Educación mínima: Universitario 2 años de experiencia Palabras clave: analyst, communication",
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "computrabajo:0BAAFC5F2DC45C8961373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Neuquén»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "4EB75CEFAAE9FBA261373E686DCF3405",
-    "titulo": "Analista Sr. de Marketing",
-    "empresa": "Neverland",
-    "ubicacion": "Vicente López, Buenos Aires-GBA",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-04T13:53:13",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-sr-de-marketing-vicente-lopez-en-vicente-lopez-4EB75CEFAAE9FBA261373E686DCF3405",
-    "descripcion": "Analista Sr. de Marketing | Vicente López · En Neverland, empresa líder en entretenimiento familiar, nos encontramos en la búsqueda de un/a Analista Semi Senior de Marketing para sumarse a nuestro equipo en Vicente López, Buenos Aires. Buscamos una persona analítica, proactiva y orientada a resultados, con experiencia en Marketing Digital, análisis de datos y seguimiento de campañas, que pueda transformar información en oportunidades y contribuir al crecimiento de nuestro negocio. El desafío será participar en la planificación, implementación y medición de las acciones de Marketing de Neverland, contribuyendo a la generación de tráfico y ventas, el crecimiento de la marca y la mejora de la experiencia del cliente. ¿Cuáles serán tus principales desafíos? Participar en la planificación y ejecución del calendario de Marketing y acciones comerciales. Coordinar y realizar el seguimiento de campañas digitales junto con agencias y proveedores. Analizar el desempeño de redes sociales, sitio web, e-commerce, WebApp y otros canales digitales. Realizar seguimiento y análisis de indicadores como tráfico, CTR, conversión, ROAS, engagement, NPS y satisfacción del cliente. Elaborar reportes e informes de gestión, identificando tendencias, oportunidades y desvíos. Participar en la implementación de estrategias de CRM, fidelización y comunicación con clientes. Analizar información de clientes y consumidores para detectar comportamientos, tendencias y oportunidades comerciales. Realizar análisis de mercado, competencia y comportamiento del consumidor. Dar soporte en la implementación y seguimiento de acciones de Marketing en las distintas salas de Neverland. Medir los resultados de las acciones implementadas y generar propuestas de mejora continua basadas en datos. Trabajar transversalmente con diferentes áreas de la compañía para llevar adelante iniciativas comerciales y de Marketing. ¿Qué buscamos? Graduados/as o estudiantes avanzados/as de Marketing, Comercialización, Administración de Empresas, Publicidad, Comunicación, Economía o carreras afines. Experiencia mínima de 2/3 años en posiciones de Marketing, preferentemente en Marketing Digital, Performance, E-commerce, CRM o Marketing Analytics. Experiencia en análisis de métricas y KPIs de Marketing. Manejo de herramientas como Google Analytics 4, Google Ads y Meta Ads. Muy buen manejo de Excel/Google Sheets y capacidad para analizar información. Será valorada la experiencia con CRM, plataformas de e-commerce, herramientas de automatización y/o Business Intelligence. Capacidad para coordinar y realizar seguimiento de agencias, proveedores y equipos internos. Perfil analítico, organizado, autónomo, proactivo y orientado a resultados. Capacidad para interpretar datos y convertirlos en acciones y propuestas concretas. Será un plus Experiencia en retail, consumo masivo, entretenimiento, gastronomía, e-commerce o empresas con múltiples puntos de venta. Experiencia en CRM y programas de fidelización. Manejo de Power BI, Looker Studio u otras herramientas de visualización de datos. Conocimientos de Customer Experience, Customer Journey y NPS. Experiencia en campañas orientadas a conversión, adquisición y ventas. ¿Qué te ofrecemos? La posibilidad de formar parte de una empresa líder en entretenimiento familiar, en un entorno dinámico y desafiante, participando en proyectos de Marketing con impacto directo en el crecimiento del negocio y la experiencia de nuestros clientes. Lugar de trabajo: Vicente López Buenos Aires Modalidad: Full Time. -Requerimientos- Educación mínima: Universitario 3 años de experiencia Edad: A partir de 30 años Disponibilidad de viajar: Si Palabras clave: analyst, senior, sr, mercadotecnia, marketing, mercadeo",
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "computrabajo:4EB75CEFAAE9FBA261373E686DCF3405",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "D6C51087445859F661373E686DCF3405",
-    "titulo": "Analista Sr. de Marketing B2B y Comunicación",
-    "empresa": "Cat-Technologies",
-    "ubicacion": "San Nicolás, Capital Federal",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-09-04T12:53:13",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-sr-de-marketing-b2b-y-comunicacion-en-san-nicolas-D6C51087445859F661373E686DCF3405",
-    "descripcion": "Somos la compañía líder en Servicios Next Gen de Contact Center, Business Process Outsourcing (BPO) y Customer Experience (CX). Contamos con tres centros de operaciones en Capital Federal y La Punta, San Luis. En CAT somos una comunidad de más de 3.000 colaboradores y vos podés sumarte. Nos encontramos en la búsqueda de un/a Analista Senior de Marketing B2B y Comunicación para el área de Marketing. Buscamos un perfil de Comunicación con experiencia en Marketing, que se destaque por su capacidad para construir vínculos, coordinar iniciativas con distintas áreas y stakeholders (internos y externos) y traducir necesidades de negocio en acciones de comunicación y marketing de alto impacto. Valoramos perfiles dinámicos, proactivos, orientados a resultados de negocio y con marcadas habilidades de comunicación oral y escrita. Principales Objetivos de la Posición: El/la Analista Sr. de Marketing B2B y Comunicación será el nexo estratégico entre Marketing y Comercial en CAT Technologies, impulsando iniciativas de marketing y comunicación alineadas a los objetivos de negocio de la compañía. Trabajará en conjunto con el equipo comercial para contribuir a la generación de demanda, fortalecer el posicionamiento de marca y acompañar el desarrollo de oportunidades comerciales. En paralelo, participa en la comunicación de la compañía hacia afuera - fortaleciendo el posicionamiento de marca - y hacia adentro, con acciones de comunicación interna y endomarketing junto a Clima y Cultura. Es un puesto que combina ejecución con criterio estratégico, incorporando la inteligencia artificial como palanca para potenciar la productividad, la generación de insights y la optimización de procesos. Responsabilidades: Ser el nexo estratégico entre las áreas de Marketing y Comercial, para entender el estado del pipeline, identificar oportunidades y ajustar las iniciativas de marketing en consecuencia. Traducir los objetivos de negocio en planes de acción concretos e integrados. Impulsar la generación de demanda y el desarrollo de oportunidades comerciales, asegurando el correcto funcionamiento del funnel de marketing y ventas a través de acciones alineadas a los objetivos de crecimiento de la compañía y de la generación de leads cualificados para el equipo Comercial. Dar soporte en el diseño y gestión del plan de marketing y comunicación, alineado a los objetivos comerciales de CAT. Gestionar y supervisar el correcto funcionamiento de las campañas en plataformas de pauta digital (Google, Meta, LinkedIn) junto a la agencia. Gestionar campañas de email marketing mediante herramientas de automatización y mailing masivo. (Mailchimp u otras). Planificar el calendario y gestionar las redes sociales corporativas de CAT (LinkedIn, Instagram y Facebook). Asegurar la consistencia de marca y la coherencia de la comunicación en todos los canales de contacto. Medir y reportar el impacto de las iniciativas de marketing sobre los indicadores de negocio, incluyendo generación de leads, oportunidades, contribución al pipeline y ventas atribuidas a Marketing. Desarrollar materiales de soporte comercial (presentaciones, brochures, casos de éxito, propuestas comerciales y activos digitales), definiendo contenidos y coordinando su producción (en tiempo y forma) junto al equipo de Diseño. Diseñar y ejecutar acciones de comunicación interna y endomarketing junto al área de Clima y Cultura. Participar en la organización y ejecución de eventos corporativos, institucionales y comerciales. Participar en iniciativas de employer branding para fortalecer el posicionamiento de CAT como empleador de referencia. Trabajar coordinadamente con las distintas áreas de la compañía para optimizar la performance del área y asegurar el cumplimiento de objetivos. Identificar, evaluar e implementar herramientas de automatización y mejora continua mediante inteligencia artificial aplicada a marketing y comunicación. Requisitos Graduados/as de carreras de Comunicación, Marketing, Administración de Empresas o afines. Al menos 3 años de experiencia en roles de marketing y comunicación, orientados a coordinación estratégica y/o gestión de proyectos, preferentemente en empresas de IT. Se valorará especialmente experiencia en marketing B2B y comercialización de servicios. Comprensión del ciclo de venta y del rol de Marketing en cada etapa del proceso comercial. Fuerte orientación a resultados de negocio (pipeline, revenue y generación de demanda). Experiencia en HubSpot o CRM similares para seguimiento de leads, gestión de campañas, análisis de pipeline y reporting. Manejo de herramientas de marketing automation. Manejo de Excel, Google Analytics y herramientas de visualización de datos para la generación de reportes. Conocimiento y gestión de plataformas de pauta digital (Google Ads, Meta y LinkedIn). Excelentes habilidades de redacción y comunicación. Capacidad de planificación, organización y trabajo por objetivos. Capacidad para gestionar múltiples proyectos y coordinar stakeholders internos y externos. Se valorará experiencia utilizando herramientas de IA aplicadas a marketing, automatización, generación de contenido y análisis de datos. Propuesta de Valor Oportunidad de desarrollo en una organización a la vanguardia tecnológica Participar en desafíos de alto impacto y visibilidad Capacitación continua. Cultura colaborativa con beneficios diseñados para el bienestar del equipo. Descuentos en gimnasio, en formación en idiomas y otros beneficios corporativos Cobertura médica de primer nivel. Modalidad híbrida Jornada: lunes a viernes de 9 a 18 hs. Lugar de trabajo: San Nicolás, CABA.-Requerimientos- Educación mínima: Universitario 3 años de experiencia Palabras clave: analyst, senior, sr, mercadotecnia, marketing, mercadeo, negocio, negocio, communication",
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "computrabajo:D6C51087445859F661373E686DCF3405",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «ventas»"
-    ]
-  },
-  {
     "portal": "weremoto",
     "portal_id": "id-marketer-pavago",
     "titulo": "Marketer",
@@ -1354,40 +1422,6 @@
     ]
   },
   {
-    "portal": "computrabajo",
-    "portal_id": "906E2CA3C917E59D61373E686DCF3405",
-    "titulo": "Community manager",
-    "empresa": "Nippon car srl",
-    "ubicacion": "Neuquen, Neuquén",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-04T07:52:27",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-en-neuquen-906E2CA3C917E59D61373E686DCF3405",
-    "descripcion": "¡Estamos buscando! En Nippon Car estamos sumando un/a Community Manager para formar parte de nuestro equipo de Marketing. Buscamos una persona creativa, proactiva y orientada a resultados, con iniciativa para generar contenido, conectar con nuestra comunidad y fortalecer la presencia digital de la organización, transmitiendo una comunicación cercana, auténtica y profesional. ¿Cuál será tu desafío? Ser protagonista en la comunicación de nuestras marcas, generando contenido que nos permita conectar con nuestros clientes, mostrar el día a día de la empresa y construir una comunidad activa alrededor la marca. Principales responsabilidades Gestionar la identidad y el tono de comunicación de la marca. Crear contenido de valor para redes sociales y diferentes acciones de Marketing. Mostrar el detrás de escena y el día a día de la concesionaria. Realizar la cobertura de eventos, lanzamientos y acciones especiales. Generar informes y analizar métricas de redes sociales. Trabajar en conjunto con el equipo de Marketing para desarrollar las distintas acciones de comunicación. ¿Qué buscamos? Estudiantes avanzados o graduados de Comunicación Social, Periodismo, Marketing, Artes Visuales o Diseño Multimedial. (Excluyente) Experiencia de 2 a 3 años en posiciones similares de Marketing o Comunicación. (Excluyente) Manejo intermedio de herramientas de diseño y edición: Adobe, Premiere Pro, After Effects, CapCut, Edits y Canva. Capacidad analítica y orientación a resultados. Excelentes habilidades de comunicación. Proactividad, autonomía e iniciativa. Creatividad y capacidad de adaptación. Buen manejo de las relaciones interpersonales y trabajo en equipo. Si te apasiona la comunicación, la creación de contenido y las redes sociales no dudes en enviarnos tu CV.-Requerimientos- Educación mínima: Universitario 2 años de experiencia Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente",
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "computrabajo:906E2CA3C917E59D61373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Neuquén»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "715304ADE23F382961373E686DCF3405",
-    "titulo": "comunicador social",
-    "empresa": "ANDRADA FERNANDO DAVID",
-    "ubicacion": "Luján De Cuyo, Mendoza",
-    "modalidad": null,
-    "salario": "$ 400.000",
-    "fecha_publicacion": "2026-09-04T00:54:15",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-comunicador-social-periodista-en-lujan-de-cuyo-715304ADE23F382961373E686DCF3405",
-    "descripcion": "¡Sumate a nuestro equipo! Nos encontramos en la búsqueda de un/a Locutor/a, Periodista o Comunicador/a Social con residencia exclusiva en Luján de Cuyo, para sumarse a nuestros proyectos en radio y plataformas digitales. ¿Cuáles serán tus principales responsabilidades? Conducir y participar activamente en la programación radial y coberturas al aire. Realizar móviles en vivo desde Luján de Cuyo y coberturas periodísticas de eventos de la zona. Conducir entrevistas y participar en la producción de contenidos para nuestros medios. ¿Qué perfil buscamos? Excelente dicción, presencia y marcadas habilidades de locución. Capacidad de investigación, entrevista y producción de contenidos ágiles. Perfil versátil, proactivo/a y con gran capacidad de adaptación para trabajar tanto en estudio como en exteriores y formatos digitales. Muy buena predisposición para el trabajo en equipo y compromiso con la dinámica diaria. Si cumplís con los requisitos y vivís en Luján de Cuyo, ¡queremos conocerte! Envianos tu CV y material de muestra.-Requerimientos- Educación mínima: Universitario años de experiencia Edad: A partir de 18 años Conocimientos: Comunicación, Conducción, Periodismo, Plataformas digitales, Radio Disponibilidad de viajar: Si Palabras clave: smo, social, red, community, journalist, periodista",
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "computrabajo:715304ADE23F382961373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Luján De Cuyo, Mendoza»"
-    ]
-  },
-  {
     "portal": "linkedin",
     "portal_id": "4461403303",
     "titulo": "Responsable de marketing",
@@ -1402,40 +1436,6 @@
     "id": "linkedin:4461403303",
     "motivos_descarte": [
       "ubicacion fuera de zona: «San Francisco, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4461175134",
-    "titulo": "Community Manager",
-    "empresa": "Gēurban Branding",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-04T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/community-manager-at-g%C4%93urban-branding-4461175134",
-    "descripcion": null,
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "linkedin:4461175134",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4461928116",
-    "titulo": "Analista Senior de Marketing",
-    "empresa": "Imcofue",
-    "ubicacion": "Ushuaia, Provincia de Tierra del Fuego, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-03T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-senior-de-marketing-at-imcofue-4461928116",
-    "descripcion": null,
-    "capturado": "2026-09-04T14:52:25.546126",
-    "id": "linkedin:4461928116",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Ushuaia, Provincia de Tierra del Fuego, Argentina»"
     ]
   }
 ]
