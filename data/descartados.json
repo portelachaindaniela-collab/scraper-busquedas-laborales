@@ -1,6 +1,125 @@
 [
   {
     "portal": "weremoto",
+    "portal_id": "id-marketing-and-revops-manager-remote-talent-latam",
+    "titulo": "Marketing and RevOps Manager",
+    "empresa": "Remote Talent Latam",
+    "ubicacion": "Remoto",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-09-30T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-marketing-and-revops-manager-remote-talent-latam",
+    "descripcion": "📌 Rol: Marketing & RevOps Manager – 90002 🌎 Ubicación: Latinoamérica – 100% remoto 💼 Tipo de Contrato: Full-Time 📋 Descripción General Empresa global de freight forwarding y supply chain busca un/a Marketing & RevOps Manager para diseñar y optimizar un sistema de generación de revenue basado en datos. El rol estará enfocado en integrar Marketing, Sales y Data dentro de HubSpot, estructurando el ciclo de leads, automatizaciones, campañas de demand generation y reporting del funnel. 📋 Responsabilidades Principales • Diseñar e implementar un sistema predecible de generación de revenue. • Alinear Marketing, Sales y Data dentro de HubSpot. • Construir y gestionar un ciclo estructurado de leads. • Gestionar campañas TOFU de demand generation. • Automatizar seguimientos comerciales. • Desarrollar reporting para obtener visibilidad completa del funnel. • Diseñar campañas de email y landing pages orientadas a perfiles ICP. • Optimizar mensajes personalizados y campañas para generar crecimiento medible de ingresos. 🎯 Requisitos • 2+ años de experiencia en CRM Management, RevOps y B2B Demand Generation. • Experiencia práctica gestionando arquitectura, workflows, lead scoring y lifecycle mapping en HubSpot. • Experiencia utilizando HubSpot para campañas TOFU de email, landing pages y mensajes personalizados. • Capacidad comprobable para diseñar y ejecutar campañas de marketing orientadas al crecimiento de ingresos. • Inglés avanzado, oral y escrito. • Experiencia en logística, supply chain o freight forwarding es preferida. • Disponibilidad de lunes a viernes de 8:00 AM a 5:00 PM EDT. 💰 Salario: USD 3,000 🏖️ Beneficios • Feriados de Estados Unidos.",
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "weremoto:id-marketing-and-revops-manager-remote-talent-latam",
+    "motivos_descarte": [
+      "ingles_alto: «ingles avanzado»"
+    ]
+  },
+  {
+    "portal": "weremoto",
+    "portal_id": "id-digital-marketing-lead-generation-coordinator-freelance-latin-america",
+    "titulo": "Digital Marketing & Lead Generation Coordinator",
+    "empresa": "Freelance Latin America",
+    "ubicacion": "Nicaragua, Honduras, Colombia, Argentina, Venezuela, El Salvador",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-09-30T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-digital-marketing-lead-generation-coordinator-freelance-latin-america",
+    "descripcion": "📌 Rol: Digital Marketing & Lead Generation Coordinator 🌎 Ubicación: Remoto – Nicaragua, Honduras, Colombia, Argentina, Venezuela y El Salvador 💼 Tipo de Contrato: Part-Time 🎓 Formación: Título universitario en Marketing, Communications o área relacionada es preferido. 📋 Descripción General Empresa estadounidense en crecimiento busca un/a Digital Marketing & Lead Generation Coordinator semi-senior para fortalecer su presencia digital y generar oportunidades B2B. El rol combina creación de contenido, SEO, redes sociales, investigación de prospectos, email marketing y análisis de resultados. 📋 Responsabilidades Principales • Crear y gestionar el calendario de contenido para LinkedIn e Instagram. • Transformar proyectos y servicios en publicaciones, casos de estudio, contenido web y piezas visuales. • Gestionar y optimizar Google Business Profile y realizar investigación SEO y de keywords. • Coordinar actualizaciones de contenido, landing pages y páginas de proyectos. • Investigar y calificar prospectos B2B y oportunidades comerciales o de licitación. • Apoyar campañas de email marketing para prospección, adquisición y nutrición de leads. • Crear y editar piezas digitales y contenido visual. • Monitorear resultados de social media, SEO, website, email y lead generation. • Mantener actualizada la información de leads y oportunidades en el CRM. • Preparar reportes de performance, analizar competidores y recomendar mejoras basadas en datos. 🎯 Requisitos • 3+ años de experiencia profesional en Digital Marketing, con fuerte enfoque en B2B Lead Generation. • Experiencia gestionando cuentas profesionales de LinkedIn e Instagram y creando contenido para estas plataformas. • Conocimientos sólidos de SEO, analytics y optimización de Google Business Profile. • Experiencia en investigación y calificación de prospectos B2B. • Experiencia con herramientas de creación de contenido y edición básica de foto/video. • Experiencia con CRM y plataformas de email marketing. • Sólidas habilidades de investigación, análisis y marketing copywriting. • Excelente comunicación oral y escrita en inglés. • Perfil organizado, proactivo y autónomo. • Internet confiable y espacio de trabajo remoto adecuado. • Disponibilidad de lunes a viernes de 8:00 AM a 12:00 PM EST. 🏖️ Beneficios • Trabajo 100% remoto. • Colaboración estable y a largo plazo. • Capacitación y soporte durante el onboarding. • Oportunidad de trabajar con equipos internacionales. • Exposición a herramientas y procesos profesionales modernos. • Cultura de trabajo colaborativa. • Oportunidades de desarrollo y crecimiento profesional.",
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "weremoto:id-digital-marketing-lead-generation-coordinator-freelance-latin-america",
+    "motivos_descarte": [
+      "ventas: «prospeccion»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4472315132",
+    "titulo": "Analista Senior de Relaciones Comunitarias",
+    "empresa": "Vicuña",
+    "ubicacion": "San Juan, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-30T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-senior-de-relaciones-comunitarias-at-vicu%C3%B1a-4472315132",
+    "descripcion": null,
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "linkedin:4472315132",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Juan, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4472603106",
+    "titulo": "Analista de Ecommerce & Diseño",
+    "empresa": "Epsa Moto Oficial",
+    "ubicacion": "Villa Gobernador Gálvez, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-30T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-ecommerce-dise%C3%B1o-at-epsa-moto-oficial-4472603106",
+    "descripcion": null,
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "linkedin:4472603106",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Villa Gobernador Gálvez, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4473902655",
+    "titulo": "Communications Specialist",
+    "empresa": "Talent Ferry1",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-30T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/communications-specialist-at-talent-ferry1-4473902655",
+    "descripcion": null,
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "linkedin:4473902655",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "7510C6E0E6EEA85261373E686DCF3405",
+    "titulo": "community manager  manejo de redes y meta ads",
+    "empresa": "SO Comunicaciones SA",
+    "ubicacion": "San Salvador de Jujuy, Jujuy",
+    "modalidad": null,
+    "salario": "$ 1.500.000",
+    "fecha_publicacion": "2026-09-29T19:44:24",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-manejo-de-redes-y-meta-ads-jornada-laboral-30-hs-en-san-salvador-de-jujuy-7510C6E0E6EEA85261373E686DCF3405",
+    "descripcion": "Somos una empresa de telecomunicaciones, buscamos incorporar a nuestro equipo un/a Community Manager creativo/a, proactivo/a y con orientación comercial, para gestionar nuestras redes sociales y potenciar la comunicación digital de la empresa. Buscamos una persona que no solo publique contenidos, sino que pueda generar ideas, planificar campañas y utilizar las redes sociales como una herramienta para acompañar nuestros objetivos comerciales. PRINCIPALES RESPONSABILIDADES • Gestionar las cuentas de Instagram y Facebook de la empresa. • Planificar y organizar el calendario mensual de contenidos. • Crear, programar y publicar posts, historias y Reels. • Proponer ideas de contenido relacionadas con nuestros productos, promociones y objetivos comerciales. • Redactar copies y elaborar guiones para Reels y videos. • Preparar briefs para jornadas de fotografía y filmación. • Crear y adaptar piezas gráficas utilizando Canva u otras herramientas similares. • Crear y administrar campañas en Meta Ads: públicos, segmentación, presupuesto, seguimiento y optimización. • Analizar métricas y resultados de redes y campañas. • Elaborar informes periódicos y proponer acciones de mejora. • Trabajar en coordinación directa con la responsable del negocio digital. REQUISITOS • Experiencia comprobable como Community Manager o en posiciones similares. • Manejo de Instagram y Facebook. • Experiencia práctica en Meta Ads. • Manejo de Canva. • Muy buena redacción y ortografía. • Capacidad para crear contenidos e ideas. • Capacidad para elaborar guiones para videos y Reels. • Organización y manejo de calendarios de publicaciones. • Perfil creativo, proactivo y autónomo. • Orientación comercial y a resultados. • Capacidad para interpretar métricas y utilizarlas para mejorar las acciones digitales. JORNADA LABORAL Lunes a viernes – 30 horas semanales. Modalidad a definir según el perfil seleccionado. Se requiere disponibilidad para reuniones de planificación y para coordinar jornadas de producción de contenido. PARA POSTULARTE • CV actualizado. • Portfolio o ejemplos de trabajos realizados. • Ejemplos de cuentas o redes sociales que hayas gestionado. Si te apasionan las redes sociales, tenés creatividad y además entendés que una buena estrategia digital debe contribuir a generar resultados comerciales, queremos conocerte. -Requerimientos- Educación mínima: Terciario 2 años de experiencia Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente, labour, gremial, sindical, laboral",
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "computrabajo:7510C6E0E6EEA85261373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Salvador de Jujuy, Jujuy»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "744C1CD24314383C61373E686DCF3405",
+    "titulo": "analista de marketing",
+    "empresa": "GREEN & FIVE GROUP S.A.",
+    "ubicacion": "Neuquen, Neuquén",
+    "modalidad": null,
+    "salario": "$ 1.200.000",
+    "fecha_publicacion": "2026-09-29T18:45:09",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-horario-rotativo-en-neuquen-744C1CD24314383C61373E686DCF3405",
+    "descripcion": "Diseñador & Community Manager/ Principales tareas y responsabilidades: Gestión diaria de las redes sociales de las diferentes marcas. Además de administrar y dinamizar las comunidades, tendrá un rol activo en la producción y adaptación de contenidos digitales. Deberá poder recibir piezas, campañas y realizar de manera autónoma bajadas y adaptaciones para redes sociales: stories, feeds, reels, placas informativas, cambios, fechas, horarios, precios, sponsors, etc. Publicación y programación de contenidos, cobertura de eventos y shows, generación de contenido, interacción con las comunidades y seguimiento constante de tendencias y oportunidades de contenido. Conocimientos técnicos: Adobe Photoshop: manejo avanzado/intermedio alto. Adobe Illustrator: manejo intermedio. CapCut o similar: buen manejo de edición de video vertical. Manejo de Meta Business Suite y herramientas de publicación/programación. Capacidad para trabajar respetando manuales de marca, tipografías, colores, grillas y sistemas gráficos. Capacidad para redimensionar y adaptar piezas a diferentes formatos sin perder calidad ni identidad visual. Se valorará conocimiento de Premiere, After Effects, Canva y otras herramientas de producción de contenido. Perfil que buscamos Una persona muy digital, resolutiva y rápida, que entienda el lenguaje de Instagram y TikTok y tenga afinidad con música, entretenimiento, radio, eventos y cultura digital. -Requerimientos- Educación mínima: Universitario 1 año de experiencia Edad: entre 20 y 50 años Licencias de conducir: B2 Disponibilidad de viajar: Si Palabras clave: analyst, mercadotecnia, marketing, mercadeo",
+    "capturado": "2026-09-30T16:44:23.711078",
+    "id": "computrabajo:744C1CD24314383C61373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Neuquén»"
+    ]
+  },
+  {
+    "portal": "weremoto",
     "portal_id": "id-remote-marketing-intern-mandarin-required-think-academy-us-2",
     "titulo": "Remote Marketing Intern (Mandarin Required)",
     "empresa": "Think Academy US",
@@ -998,74 +1117,6 @@
     "id": "linkedin:4466218387",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Ciudad de Mendoza, Mendoza, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "ABFABAD63E7B919161373E686DCF3405",
-    "titulo": "Especialista en email marketing y marketing automation",
-    "empresa": "NewSport",
-    "ubicacion": "Córdoba, Córdoba",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-15T19:22:47",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-email-marketing-y-marketing-automation-en-cordoba-ABFABAD63E7B919161373E686DCF3405",
-    "descripcion": "En ZKN Group nos encontramos en la búsqueda de un/a Especialista en Email Marketing & Marketing Automation para sumarse al equipo digital y potenciar la comunicación de nuestras marcas: Newsport, El Templo del Fútbol, Cero26 y Tienda Fuencarral. Buscamos un perfil creativo, analítico y orientado a resultados, con experiencia en plataformas de automatización y estrategias de CRM, capaz de desarrollar campañas que mejoren la conversión, fidelización y experiencia del cliente. Principales responsabilidades Configuración y ejecución de campañas Planificar, diseñar y ejecutar campañas de Email Marketing, automatizaciones y comunicaciones utilizando plataformas como Connectif, Icomm y WhatsApp. Marketing Automation & CRM Crear workflows automatizados como bienvenida, carritos abandonados, winback, post compra, fidelizacion, notificaciones push y onsite Diseño y adaptación de piezas Crear y adaptar piezas gráficas para campañas utilizando Adobe Illustrator y Photoshop, respetando la identidad visual de cada marca. Análisis y optimización Analizar bases de datos, segmentaciones y métricas clave para optimizar aperturas, CTR, conversiones y revenue generado por canal. Seguimiento de KPIs Monitorear resultados de campañas y automatizaciones mediante reportes periódicos. Formularios, encuestas y captación Crear formularios, encuestas, pop ups, códigos QR y acciones de captación de leads para eventos y campañas especiales. Estrategias UX/UI & Omnicanalidad Trabajar junto al equipo digital y UX/UI en estrategias de personalización onsite, webpush, recomendaciones y experiencias omnicanal. Gestión de base de datos Mantener y optimizar la calidad de las bases de datos, segmentaciones y preferencias de usuarios. · Objetivo del puesto Diseñar y ejecutar estrategias de Email Marketing y Marketing Automation que impulsen la conversión, fidelización y experiencia del cliente, optimizando continuamente campañas, audiencias y flujos automatizados para maximizar resultados. · Requisitos * Experiencia en Email Marketing, CRM o Marketing Automation. * Conocimiento de plataformas como Connectif, ICOMM, Figma, Klaviyo, Emarsys, HubSpot, Salesforce o similares. * Experiencia creando workflows automatizados y segmentaciones. * Manejo de métricas y análisis de performance. * Conocimientos de diseño gráfico (Illustrator y Photoshop). * Perfil analítico, organizado y orientado a resultados. * Se valorará experiencia en Ecommerce y Retail. · Valoramos especialmente * Experiencia en Ecommerce. * Conocimientos de personalización y customer journey. * Capacidad para trabajar con grandes bases de datos. * Pensamiento estratégico y orientación a mejora continua. * Interés por moda, deporte y tendencias digitales. · Modalidad Presencial (Zona Norte, Córdoba). -Requerimientos- Educación mínima: Secundaria 1 año de experiencia Palabras clave: specialist, especialista, mercadotecnia, marketing, mercadeo",
-    "capturado": "2026-09-16T15:21:55.979113",
-    "id": "computrabajo:ABFABAD63E7B919161373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466562449",
-    "titulo": "Assistant Community Manager",
-    "empresa": "Avanath Capital Management, LLC",
-    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-15T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/assistant-community-manager-at-avanath-capital-management-llc-4466562449",
-    "descripcion": null,
-    "capturado": "2026-09-16T15:21:55.979113",
-    "id": "linkedin:4466562449",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4465907115",
-    "titulo": "Responsable de marketing",
-    "empresa": "LUMINA   Consultora de Talento",
-    "ubicacion": "San Francisco, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-15T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/responsable-de-marketing-at-lumina-consultora-de-talento-4465907115",
-    "descripcion": null,
-    "capturado": "2026-09-16T15:21:55.979113",
-    "id": "linkedin:4465907115",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Francisco, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4464782157",
-    "titulo": "Paidmedia freelancer Junior / Semi Senior",
-    "empresa": "Visión Digital Argentina",
-    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-15T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/paidmedia-freelancer-junior-semi-senior-at-visi%C3%B3n-digital-argentina-4464782157",
-    "descripcion": null,
-    "capturado": "2026-09-16T15:21:55.979113",
-    "id": "linkedin:4464782157",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
     ]
   }
 ]
