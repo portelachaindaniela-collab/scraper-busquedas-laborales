@@ -1,5 +1,107 @@
 [
   {
+    "portal": "linkedin",
+    "portal_id": "4474198862",
+    "titulo": "Coordinador de Mercadeo y Servicio al Cliente",
+    "empresa": "Grupo Q",
+    "ubicacion": "Villa Fontana, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/coordinador-de-mercadeo-y-servicio-al-cliente-at-grupo-q-4474198862",
+    "descripcion": null,
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "linkedin:4474198862",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Villa Fontana, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4472931308",
+    "titulo": "Especialista en Marketing, Performance & Data",
+    "empresa": "María Celeste Ludueña",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-en-marketing-performance-data-4472931308",
+    "descripcion": null,
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "linkedin:4472931308",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4474178837",
+    "titulo": "Especialista en Google Ads (PPC) - 100% remoto",
+    "empresa": "SEM Consulting Bcn",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-en-google-ads-ppc-100%25-remoto-at-sem-consulting-bcn-4474178837",
+    "descripcion": null,
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "linkedin:4474178837",
+    "motivos_descarte": [
+      "google_ads: «google ads»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4472385779",
+    "titulo": "EJECUTIVO/A DE CUENTAS - CÓRDOBA",
+    "empresa": "Radio Mitre",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-a-de-cuentas-c%C3%B3rdoba-at-radio-mitre-4472385779",
+    "descripcion": null,
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "linkedin:4472385779",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4472170357",
+    "titulo": "Reporter",
+    "empresa": "Expreso Biletta SRL",
+    "ubicacion": "Río Tercero, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/reporter-4472170357",
+    "descripcion": null,
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "linkedin:4472170357",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Río Tercero, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "92D3B75845A4B7A061373E686DCF3405",
+    "titulo": "Community manager",
+    "empresa": "Liqui",
+    "ubicacion": "Rosario, Santa Fe",
+    "modalidad": null,
+    "salario": "$ 800.000",
+    "fecha_publicacion": "2026-09-30T23:18:47",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-con-experiencia-en-rosario-92D3B75845A4B7A061373E686DCF3405",
+    "descripcion": "Tareas a realizar: Planificar, grabar, editar y publicar imágenes y videos diarios adaptados al formato de cada red social. Crear contenido que acompañe y potencie los objetivos comerciales de la empresa. Interactuar activamente con los seguidores para mantener la comunidad activa y responder consultas de manera dinámica. Investigar continuamente nuevos trends, audios virales y herramientas tecnológicas (como IA) para aplicarlos de forma ágil a la marca. Requisitos del perfil: Ser estudiante avanzado/a o próximo/a a recibirse de carreras afines a Marketing, Comunicación o Publicidad. Tener manejo fluido de herramientas de diseño y edición de imagen/video. Estar actualizado/a con las tendencias y lenguajes de TikTok e Instagram (especialmente Reels y formatos de video corto). Saber integrar herramientas de Inteligencia Artificial para la generación de contenido y optimización del trabajo diario. Poseer una actitud proactiva. Buscamos a alguien con iniciativa propia, que proponga ideas frescas y no espere indicaciones para accionar.-Requerimientos- Educación mínima: Universitario 1 año de experiencia Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente",
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "computrabajo:92D3B75845A4B7A061373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe»"
+    ]
+  },
+  {
     "portal": "weremoto",
     "portal_id": "id-marketing-and-revops-manager-remote-talent-latam",
     "titulo": "Marketing and RevOps Manager",
@@ -31,6 +133,23 @@
     "id": "weremoto:id-digital-marketing-lead-generation-coordinator-freelance-latin-america",
     "motivos_descarte": [
       "ventas: «prospeccion»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4473911934",
+    "titulo": "Analista Jr. de Marketing",
+    "empresa": "Grupo Elcor",
+    "ubicacion": "Villa María, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-09-30T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-jr-de-marketing-at-grupo-elcor-4473911934",
+    "descripcion": null,
+    "capturado": "2026-10-01T17:18:45.997093",
+    "id": "linkedin:4473911934",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Villa María, Córdoba, Argentina»"
     ]
   },
   {
@@ -981,142 +1100,6 @@
     "id": "linkedin:4468676542",
     "motivos_descarte": [
       "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4468343019",
-    "titulo": "Gerente de marketing",
-    "empresa": "Universo",
-    "ubicacion": "Santa Fe, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-17T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/gerente-de-marketing-at-universo-4468343019",
-    "descripcion": null,
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "linkedin:4468343019",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Santa Fe, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466244686",
-    "titulo": "Editor/a de Contenido Audiovisual para Redes Sociales",
-    "empresa": "OIKOS",
-    "ubicacion": "Ciudad de Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-17T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/editor-a-de-contenido-audiovisual-para-redes-sociales-4466244686",
-    "descripcion": null,
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "linkedin:4466244686",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Ciudad de Mendoza, Mendoza, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466257921",
-    "titulo": "Project Manager Digital",
-    "empresa": "Alma",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-17T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/project-manager-digital-at-alma-4466257921",
-    "descripcion": null,
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "linkedin:4466257921",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-digital-marketing-performance-marketing-manager-pavago",
-    "titulo": "Digital Marketing / Performance Marketing Manager",
-    "empresa": "Pavago",
-    "ubicacion": "Colombia, Argentina, México, Costa Rica, Perú",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-09-16T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-digital-marketing-performance-marketing-manager-pavago",
-    "descripcion": "📌 Rol: Digital Marketing / Performance Marketing Manager 🌎 Ubicación: Remoto – Colombia, Argentina, México, Costa Rica y Perú 💼 Tipo de Contrato: Full-time 🕐 Horario: Horario laboral de EE. UU. 📋 Descripción General Pavago busca un/a Digital Marketing / Performance Marketing Manager para planificar, ejecutar y optimizar campañas digitales enfocadas en generar leads, clientes e ingresos medibles. Es un rol hands-on y orientado a datos, con responsabilidad sobre métricas como CPL, CAC, CPA, ROAS y conversiones. 📋 Responsabilidades Principales • Gestionar y optimizar campañas en Google Ads, Meta Ads, LinkedIn Ads y otros canales. • Administrar presupuestos, targeting, bids y estructuras de campañas. • Analizar métricas de performance e identificar oportunidades de mejora. • Realizar research de audiencias, keywords, competidores y mercado. • Colaborar en creatividades, messaging, ofertas y optimización de landing pages. • Supervisar conversion tracking y attribution. • Diseñar y ejecutar A/B tests de audiencias, creatividades, mensajes, ofertas y canales. • Preparar reportes y convertir los datos en recomendaciones accionables. 🎯 Requisitos • 2+ años de experiencia en digital marketing o performance marketing. • Experiencia práctica gestionando paid advertising. • Manejo de Google Ads, Meta Ads, LinkedIn Ads o plataformas similares. • Conocimiento de CPL, CAC, CPA, ROAS, CTR y conversion rates. • Experiencia administrando presupuestos y optimizando campañas según resultados. • Conocimientos de audience targeting y campaign testing. • Buenas habilidades de comunicación y reporting. • Inglés profesional. • Capacidad para trabajar de forma remota. ⭐ Deseable • Google Analytics y herramientas de tracking. • Conversion tracking y attribution. • Optimización de landing pages y funnels. • CRM y marketing automation. • Experiencia en B2B, SaaS, e-commerce, agencias o lead generation.",
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "weremoto:id-digital-marketing-performance-marketing-manager-pavago",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-senior-paid-social-media-buyer-freelance-latin-america-3",
-    "titulo": "Senior Paid Social Media Buyer",
-    "empresa": "Freelance Latin America",
-    "ubicacion": "México, Argentina, Honduras, Nicaragua, Colombia, Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-09-16T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-senior-paid-social-media-buyer-freelance-latin-america-3",
-    "descripcion": "📌 Rol: Senior Paid Social Media Buyer 🌎 Ubicación: Remoto – México, Argentina, Honduras, Nicaragua, Colombia y Chile 💼 Tipo de Contrato: Part-time 🕐 Horario: Lunes a viernes, 9:00 AM – 1:00 PM EST 📋 Descripción General Freelance Latin America busca un/a Senior Paid Social Media Buyer para gestionar campañas de performance para marcas en crecimiento. El rol combina paid social, creative testing, estrategia full-funnel y análisis de resultados, con Meta como plataforma principal. 📋 Responsabilidades Principales • Planificar, lanzar y optimizar campañas en Meta, TikTok, Pinterest y Reddit. • Gestionar presupuestos, audiencias, segmentación del funnel y estrategias de testing. • Crear frameworks de creative testing y briefs para contenido estático, video, UGC y motion. • Configurar y validar conversion tracking, pixels, CAPI y eventos. • Analizar datos publicitarios y de CRM para detectar oportunidades de optimización y escalabilidad. • Preparar reportes de performance y recomendaciones. • Colaborar con equipos de Creative, CRO, SEO y Strategy. • Apoyar campañas de Google Ads cuando sea necesario. 🎯 Requisitos • 4–7 años de experiencia práctica gestionando campañas de paid social. • Experiencia avanzada con Meta Ads Manager. • Experiencia con al menos una plataforma adicional: TikTok, Pinterest o Reddit. • Experiencia en creative testing y estrategias TOF, MOF y BOF. • Manejo de métricas como CPA, ROAS y MER. • Experiencia con CRM como HubSpot, Zoho o GoHighLevel. • Fuertes habilidades analíticas, de reporting y comunicación. • Experiencia previa en agencia gestionando múltiples cuentas, preferida. ⭐ Deseable • Triple Whale, Northbeam o Wicked Reports. • Google Ads: Search, Performance Max, Demand Gen y/o Shopping. • GA4, Google Tag Manager y Shopify o plataformas eCommerce similares. • Interés en utilizar herramientas de AI para media planning y buying. 🏖️ Beneficios • Trabajo 100% remoto. • Colaboración estable y a largo plazo. • Training y onboarding. • Trabajo con equipos internacionales. • Desarrollo profesional y oportunidades de crecimiento.",
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "weremoto:id-senior-paid-social-media-buyer-freelance-latin-america-3",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466232767",
-    "titulo": "Analista Ssr de Paid Media",
-    "empresa": "La Anónima",
-    "ubicacion": "Ituzaingó, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-16T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-ssr-de-paid-media-at-la-an%C3%B3nima-4466232767",
-    "descripcion": null,
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "linkedin:4466232767",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Ituzaingó, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4467993850",
-    "titulo": "Especialista en email marketing y marketing automation",
-    "empresa": "Grupo Newsport",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-16T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/especialista-en-email-marketing-y-marketing-automation-at-grupo-newsport-4467993850",
-    "descripcion": null,
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "linkedin:4467993850",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466218387",
-    "titulo": "CREADOR/A DE CONTENIDO AUDIOVISUAL",
-    "empresa": "OIKOS",
-    "ubicacion": "Ciudad de Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-16T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/creador-a-de-contenido-audiovisual-4466218387",
-    "descripcion": null,
-    "capturado": "2026-09-17T15:28:37.215653",
-    "id": "linkedin:4466218387",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Ciudad de Mendoza, Mendoza, Argentina»"
     ]
   }
 ]
