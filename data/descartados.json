@@ -1,5 +1,143 @@
 [
   {
+    "portal": "weremoto",
+    "portal_id": "id-crm-consultant-massive-rocket",
+    "titulo": "CRM Consultant",
+    "empresa": "Massive Rocket",
+    "ubicacion": "Remoto",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-10-02T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-crm-consultant-massive-rocket",
+    "descripcion": "📌 Rol: CRM Consultant 🌎 Ubicación: Latinoamérica – 100% remoto 💼 Tipo de Contrato: Contractor 📋 Descripción General Massive Rocket, agencia especializada en Braze y Snowflake, busca un/a CRM Consultant para planificar, ejecutar y optimizar campañas de CRM en canales como email, SMS, push notifications, content cards y WhatsApp. El rol estará enfocado en implementar estrategias definidas por clientes o por el equipo de Strategy, gestionar campañas en Braze y colaborar directamente con clientes y equipos internos. 📋 Responsabilidades Principales • Ejecutar iniciativas y campañas de CRM multicanal dentro de Braze. • Configurar y personalizar Braze según las estrategias y campañas acordadas. • Crear campañas segmentadas utilizando herramientas de messaging, personalización y segmentación. • Trabajar con clientes para comprender sus necesidades y desarrollar soluciones adaptadas. • Colaborar con Strategy y otros equipos para garantizar una correcta ejecución. • Gestionar y analizar grandes volúmenes de datos para comprender comportamientos y tendencias de clientes. • Crear documentación y reportes de performance de las campañas. • Guiar al equipo de proyecto para asegurar una ejecución eficiente y una buena experiencia del cliente. 🎯 Requisitos • 5+ años de experiencia como Marketing Automation Specialist dentro del área de CRM. • Experiencia sólida con Braze, Salesforce Marketing Cloud o HubSpot. • Experiencia realizando QA de campañas de CRM, integraciones y documentación. • Sólidos conocimientos de Digital Marketing. • Conocimiento de bases de datos relacionales y estructuras de datos. • Experiencia trabajando en agencias o roles client-facing. • Excelentes habilidades interpersonales y de comunicación. • Capacidad para trabajar de manera proactiva con equipos cross-functional. • Inglés C1. • Certificaciones de Braze son un plus. • Experiencia con SQL y Data Analysis es un plus. 🏖️ Beneficios • Modalidad Remote-First. • Trabajo con un equipo internacional. • Oportunidades de crecimiento y desarrollo profesional. • Meetups, eventos y experiencias de equipo.",
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "weremoto:id-crm-consultant-massive-rocket",
+    "motivos_descarte": [
+      "ingles_alto: «ingles c1»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4473142903",
+    "titulo": "Community Manager (Córdoba, Argentina)",
+    "empresa": "MundoJob.",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-02T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/community-manager-c%C3%B3rdoba-argentina-at-mundojob-4473142903",
+    "descripcion": null,
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "linkedin:4473142903",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "1118464942",
+    "titulo": "Analista de Marketing Digital y Contenidos",
+    "empresa": null,
+    "ubicacion": "Córdoba, Córdoba",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T19:36:26",
+    "url": "https://www.bumeran.com.ar/empleos/analista-de-marketing-digital-y-contenidos-1118464942.html",
+    "descripcion": "Somos una empresa de tecnología con alcance internacional y estamos buscando un/a Analista de Marketing Digital y Contenidos para sumarse a nuestro equipo.Buscamos una persona generalista, creativa, resolutiva y con fuerte orientación a la ejecución, que pueda involucrarse de manera integral en contenidos, redes sociales y distintas iniciativas de marketing.Principales responsabilidades Planificar y ejecutar el calendario de contenidos. Crear, redactar y publicar contenidos para LinkedIn, Instagram y otros canales digitales. Desarrollar copies, artículos y comunicaciones en español e inglés. Proponer temas, campañas y nuevos formatos de contenido. Transformar proyectos, casos de éxito, eventos y novedades en contenidos relevantes. Gestionar y mantener actualizadas las redes sociales. Coordinar la producción de piezas gráficas y audiovisuales. Participar en campañas, eventos y otras acciones de marketing. Investigar tendencias, competidores y oportunidades de comunicación. Analizar métricas y resultados para identificar oportunidades de mejora. Utilizar herramientas de inteligencia artificial para potenciar la creación y optimización de contenidos. Participar y dar soporte en diferentes iniciativas del área de Marketing.Requisitos Experiencia previa en Marketing Digital, Contenidos, Comunicación, Social Media o posiciones similares. Excelente capacidad de redacción y comunicación. Inglés avanzado/fluido oral y escrito — requisito excluyente. Experiencia gestionando redes sociales, especialmente LinkedIn. Conocimientos de herramientas de diseño y creación de contenido como Canva o similares. Buen criterio visual y atención al detalle. Capacidad para gestionar diferentes iniciativas en simultáneo. Perfil autónomo, proactivo y resolutivo. Interés por tecnología, innovación e inteligencia artificial.Valoramos especialmente Experiencia en empresas de tecnología, software, servicios B2B o agencias. Experiencia creando contenido para audiencias internacionales. Manejo de herramientas de IA aplicadas a Marketing. Conocimientos de email marketing, campañas digitales o automatizaciones. Portfolio, cuentas gestionadas o ejemplos de contenidos realizados.¿Qué ofrecemos? Participación en proyectos con alcance internacional. Un entorno dinámico vinculado a tecnología e innovación. Espacio para proponer ideas y llevarlas a la práctica. Oportunidades de aprendizaje y crecimiento profesional.Al postularte, te pediremos portfolio, cuentas gestionadas o ejemplos de contenidos que hayas realizado.",
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "bumeran:1118464942",
+    "motivos_descarte": [
+      "ingles_alto: «ingles avanzado»",
+      "ubicacion fuera de zona: «Córdoba, Córdoba»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "2191161",
+    "titulo": "Community Manager",
+    "empresa": "FRIGONORTE",
+    "ubicacion": "Lanús Oeste, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T17:11:01",
+    "url": "https://www.bumeran.com.ar/empleos/community-manager-frigonorte-2191161.html",
+    "descripcion": "Community ManagerResumen del PuestoEstamos en la búsqueda de un Community Manager creativo y estratégico para liderar la comunicación digital. Será responsable de la creación de contenido atractivo, la gestión de campañas publicitarias y la interacción con nuestra comunidad online.Responsabilidades Creación de contenido: Desarrollo de Reels, publicaciones y piezas gráficas de alta calidad. Estrategia y Meta Ads: Configuración y optimización de campañas publicitarias. Gestión de comunidad: Fomentar una interacción fluida y positiva con nuestros seguidores. Análisis y reporte: Medicación y análisis de métricas clave de rendimiento.Requisitos Experiencia previa en gestión de redes sociales y creación de contenido digital. Conocimiento en configuración y optimización de Meta Ads. Excelentes habilidades de redacción y un sólido criterio estético visual. Proactividad y manejo de herramientas de diseño y edición. Experiencia en marcas del rubro alimenticio o retail será un plus.",
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "bumeran:2191161",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Lanús Oeste, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "2191173",
+    "titulo": "Community Manager & Filmmaker para marca de Indumentaria masculina",
+    "empresa": "BRAVO",
+    "ubicacion": "Lomas de Zamora, Buenos Aires",
+    "modalidad": "hibrido",
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T14:57:24",
+    "url": "https://www.bumeran.com.ar/empleos/community-manager-filmmaker-para-marca-de-indumentaria-masculina-bravo-2191173.html",
+    "descripcion": "Buscamos una persona creativa, dinámica y muy conectada con las redes sociales para sumarse a nuestro equipo de Marketing. Un perfil que combine Community Management + creación audiovisual: alguien capaz de pensar una idea, filmarla, editarla y convertirla en contenido atractivo para Instagram y TikTok. Queremos una persona que esté al día con tendencias, formatos y algoritmos, que pueda detectar oportunidades rápidamente y bajarlas a contenido para las marcas. Qué vas a hacer: Crear, filmar y editar Reels, TikToks, historias, fotos y videos cortos. Generar contenido en oficinas, locales y acciones de marca. Gestionar Instagram, TikTok y Facebook. Detectar tendencias y transformarlas en contenido relevante. Participar frente a cámara cuando el contenido lo requiera. Organizar el calendario de publicaciones según lanzamientos, promociones y objetivos comerciales. Gestionar la comunidad: comentarios, mensajes, menciones y UGC. Proponer nuevas ideas, formatos, colaboraciones e influencers. Utilizar herramientas de IA aplicadas a contenido. Analizar métricas y detectar qué contenidos funcionan mejor. Trabajar en conjunto con el equipo de Marketing y Performance. Requisitos excluyentes • 2 a 4 años de experiencia en redes y creación de contenido. Requisitos: Experiencia en Instagram y TikTok, con fuerte conocimiento de video corto. Capacidad para filmar y editar contenido de forma autónoma. Capacidad para generar varias piezas de contenido durante una jornada. Manejo de CapCut, Premiere, Canva o similares. Criterio estético y buena redacción. Iniciativa, creatividad y rapidez para ejecutar ideas. Comodidad para desenvolverse frente a cámara. Disponibilidad presencial Part Time en Lomas de Zamora. Envío de portfolio con trabajos propios. Presentación de contenidos que hayan logrado buenos resultados, pudiendo explicar qué funcionó y por qué. Se Valora: Experiencia en indumentaria, moda, lifestyle o e-commerce. Experiencia con influencers y creadores. Afinidad y conocimiento del universo de la indumentaria masculina. Comodidad para aparecer frente a cámara y representar el estilo y la comunicación de las marcas.",
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "bumeran:2191173",
+    "motivos_descarte": [
+      "camara: «frente a camara»",
+      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "1118464237",
+    "titulo": "Community Manager",
+    "empresa": "FRIGONORTE FRIGONORTE",
+    "ubicacion": "Lanús Oeste, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T14:20:56",
+    "url": "https://www.bumeran.com.ar/empleos/community-manager-frigonorte-frigonorte-1118464237.html",
+    "descripcion": "Community Manager Resumen del Puesto Buscamos un Community Manager creativo y estratégico para liderar la comunicación digital. Serás responsable de la creación de contenido, la gestión de campañas publicitarias y la interacción con nuestra comunidad. Responsabilidades Creación de contenido atractivo y de alta calidad (Reels, publicaciones, piezas gráficas). Diseño y optimización de campañas en Meta Ads. Gestión activa y fluida de la comunidad online. Análisis de métricas clave y elaboración de reportes de rendimiento. Requisitos Experiencia previa en gestión de redes sociales y creación de contenido digital. Conocimiento en configuración y optimización de campañas de publicidad digital. Excelentes habilidades de redacción y un agudo criterio estético visual. Proactividad y dominio de herramientas de diseño y edición. Se valorará experiencia en marcas del sector alimenticio o retail.",
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "bumeran:1118464237",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Lanús Oeste, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "weremoto",
+    "portal_id": "id-content-marketing-associate-puerto-montt-chile---remote-role-possible-cozymeal-inc",
+    "titulo": "Content Marketing Associate (Puerto Montt, Chile - Remote Role Possible)",
+    "empresa": "Cozymeal, Inc.",
+    "ubicacion": "🇨🇱 Chile",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-content-marketing-associate-puerto-montt-chile---remote-role-possible-cozymeal-inc",
+    "descripcion": "Discover. Savor. Connect. Welcome to the chef's table. Discover and book unforgettable culinary experiences: hands-on cooking classes, private-chef meals, guided food tours, wine tastings and team-building events in 400+ cities worldwide. With just a few clicks you can line up the perfect occasion, from a date-night sushi lesson or anniversary chef’s-table dinner, to an interactive dinner party with friends, a corporate pasta-making challenge, or a flavorful food tour. Wherever you are, we turn moments into delicious memories - effortlessly. In addition to providing customers access to world-class culinary experiences, products and content, we also provide a great source of income to our partners that includes chefs, sommeliers, guides and mixologists. For this, we were recognized by the Global Good Fund in 2019. Serving both customers and our culinary partners is our top-priority and ingrained in our culture and in how we run our business every day. We continuously strive to curate the best culinary experiences and products and to create the best content for the millions of customers visiting our site while providing additional support and business to our partners. About the Role: We are looking for a rockstar Content Marketing Associate with experience in culinary and lifestyle content (written and visual) to join our team. This role will lead the creation of content on Cozymeal, including profiles, experience pages and marketing email. Create and/or review, edit and publish written and visual content for experiences listed on the company’s website (e.g. cooking classes, private chef experiences, food tours and more). Source, curate and manage images for the company’s visual content library Assist with creating written and visual content for newsletters. Support the creation of marketing campaigns including Google Ads and social media ads. Design marketing assets such as website banners, email visuals and social media graphics Requirements Include: Bachelor’s degree or equivalent experience 3+ years of experience in copywriting and/or content marketing Strong visual research and photo editing skills, ideally with experience using Photoshop and Canva. Solid understanding of SEO and content optimization Exceptional organizational skills and ability to manage multiple projects Familiarity with food and culinary culture is a plus Ability to work efficiently in a remote/home office environment What We Offer: Work anywhere in the world (we are a 100% remote team). Opportunity to grow within the organization and learn from some of the best in the industry. Great work environment with a strong and friendly team of co-workers. Location: Puerto Montt, Chile or anywhere in the world. This is a remote role and qualified candidates from anywhere in the world can apply for this role. If this sounds like you, then Cozymeal just might be the right place for you! Welcome home! We’ll never post anything without your permission.",
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "weremoto:id-content-marketing-associate-puerto-montt-chile---remote-role-possible-cozymeal-inc",
+    "motivos_descarte": [
+      "google_ads: «google ads»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4472951787",
+    "titulo": "Editor de Video y Líder de Contenido",
+    "empresa": "Start Companies",
+    "ubicacion": "San Miguel de Tucumán, Tucumán, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-01T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/editor-de-video-y-l%C3%ADder-de-contenido-at-start-companies-4472951787",
+    "descripcion": null,
+    "capturado": "2026-10-02T16:33:43.719829",
+    "id": "linkedin:4472951787",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Miguel de Tucumán, Tucumán, Argentina»"
+    ]
+  },
+  {
     "portal": "linkedin",
     "portal_id": "4474198862",
     "titulo": "Coordinador de Mercadeo y Servicio al Cliente",
@@ -979,127 +1117,6 @@
     "motivos_descarte": [
       "google_ads: «google ads»",
       "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466908215",
-    "titulo": "Communications Specialist - Member Experience and Events",
-    "empresa": "Parlor Social Club",
-    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-18T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/communications-specialist-member-experience-and-events-at-parlor-social-club-4466908215",
-    "descripcion": null,
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "linkedin:4466908215",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466697079",
-    "titulo": "Creador de Contenidos Digitales",
-    "empresa": "RED MUTUAL",
-    "ubicacion": "Paraná, Provincia de Entre Ríos, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-18T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/creador-de-contenidos-digitales-at-red-mutual-4466697079",
-    "descripcion": null,
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "linkedin:4466697079",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Paraná, Provincia de Entre Ríos, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466694335",
-    "titulo": "Community Manager | Content Creator",
-    "empresa": "Sandos Agency",
-    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-18T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/community-manager-content-creator-at-sandos-agency-4466694335",
-    "descripcion": null,
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "linkedin:4466694335",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "D9320610ACBCE82D61373E686DCF3405",
-    "titulo": "Especialista en Performance Marketing",
-    "empresa": "MUNDOAUTO MULTIMARCAS SA",
-    "ubicacion": "Córdoba, Córdoba",
-    "modalidad": null,
-    "salario": "$ 2.000.000",
-    "fecha_publicacion": "2026-09-17T20:53:02",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-performance-marketing-en-cordoba-D9320610ACBCE82D61373E686DCF3405",
-    "descripcion": "Importante agencia de la ciudad de Cordoba busqueda de un un perfil técnico dentro del área de marketing digital, Especialista en Performance Marketing para unirse a nuestro equipo en MUNDOAUTO MULTIMARCAS SA, enfocado exclusivamente en performance y generación de leads. No es un community manager ni un creativo. Especialista en Performance Marketing Objetivo del puesto: Generar leads calificados a través de campañas digitales optimizadas, asegurando el volumen, la calidad y la trazabilidad de cada contacto hasta que lo toma el equipo comercial. Tareas: *Planificación, ejecución y optimización de campañas de publicidad digital en Meta Ads (Facebook e Instagram) y Google Ads. *Creación de públicos segmentados y remarketing. *Gestión y análisis de conversiones: formularios, mensajes, WhatsApp, llamadas. *Coordinación directa con el equipo comercial: envío de leads, seguimiento de calidad, trazabilidad y feedback. *Monitoreo de KPIs: CTR, CPL, tasa de conversión, ROAS. *Propuesta de mejoras continuas en segmentación, presupuesto y canales. *Reportes semanales/mensuales de resultados y recomendaciones de mejora. En esta posición, serás responsable de diseñar, implementar y supervisar campañas de marketing digital que aumenten la visibilidad y el engagement de nuestros productos y servicios. Tu experiencia en estrategias de marketing digital, análisis de datos y optimización de campañas será crucial para alcanzar nuestros objetivos de crecimiento. Tus responsabilidades incluirán el desarrollo de campañas de pago por clic (PPC), gestión de redes sociales, análisis de rendimiento y optimización continua de las estrategias de marketing. Deberás trabajar en conjunto con el equipo de marketing para asegurar que todas las campañas estén alineadas con los objetivos generales de la empresa. Requisitos clave para este rol incluyen una sólida formación en marketing digital, experiencia demostrable en gestión de campañas de PPC y redes sociales, y habilidades analíticas avanzadas. Se valorará experiencia previa en el sector automotriz o industrias similares. Buscamos un profesional proactivo, creativo y con un enfoque en los resultados. Si tienes un historial de éxito en el desarrollo y ejecución de campañas de marketing digital, y estás buscando un desafío emocionante en un entorno dinámico, esta posición podría ser ideal para ti. Esperamos tu postulacion!. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Licencias de conducir: B1 Palabras clave: specialist, especialista, productividad, productivity, yield, rendimiento, mercadotecnia, marketing, mercadeo",
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "computrabajo:D9320610ACBCE82D61373E686DCF3405",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «generacion de leads»",
-      "ubicacion fuera de zona: «Córdoba, Córdoba»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "7391FD4DA6192AF661373E686DCF3405",
-    "titulo": "Community Manager",
-    "empresa": "ADN - Recursos Humanos",
-    "ubicacion": "Lomas de Zamora, Buenos Aires-GBA",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-17T20:52:14",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-lomas-de-zamora-prov-bs-as-en-lomas-de-zamora-7391FD4DA6192AF661373E686DCF3405",
-    "descripcion": "Nombre del puesto a cubrir: Community Manager Años de experiencia: Mínimo 3 años de experiencia comprobable Fecha prevista de ingreso: Inmediata Modalidad: Presencial Lugar y Horario de trabajo: Lunes a sábado de 09:00 a 18:00 hs, en LOMAS DE ZAMORA Detallar Tareas, Funciones y Responsabilidades: - Administrar las redes sociales: planificar publicaciones, responder consultas y acompañar a la comunidad. - Crear contenido para redes sociales, incluidos textos, fotografías y videos, de acuerdo con las novedades y campañas de la marca. - Coordinar el calendario de contenidos y analizar métricas para proponer mejoras. Conocimientos excluyentes: - Experiencia comprobable mínima de 3 años en gestión de redes sociales. - Detallar las cuentas administradas y presentar ejemplos de trabajos realizados. - Experiencia en generación de contenido para redes sociales. Conocimientos deseables: - Diseño y edición de contenido: manejo de herramientas como Canva y CapCut para crear piezas gráficas, fotografías y videos para redes sociales. - Análisis de redes sociales: conocimiento de métricas, programación de publicaciones y uso de los resultados para mejorar el contenido. - Contenido para sucursales: experiencia creando contenido en comercios, con capacidad para mostrar productos, promociones y novedades del día a día. Competencias Educación requerida: Secundario Completo Titulo/carrera: Terciario o cursos de Community Management, Marketing Digital o Comunicación (DESEABLE) Lugar de residencia (preferentemente): Zona Sur GBA Otros conocimientos o competencias requeridas para el puesto: Creatividad, buena redacción, organización, autonomía y capacidad para generar contenido diariamente en las sucursales. -Requerimientos- Educación mínima: Universitario 3 años de experiencia Conocimientos: Diseño, Estrategia de marketing, Facebook ads, Fotografía, Gestión de redes sociales, Marketing digital, Métrica, Redes sociales, Video, Consulta Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente",
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "computrabajo:7391FD4DA6192AF661373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires-GBA»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "E4819ABE91830DB461373E686DCF3405",
-    "titulo": "Community Manager / Lomas de Zamora Prov. Bs As",
-    "empresa": "ADN - Recursos Humanos",
-    "ubicacion": "Lomas de Zamora, Buenos Aires-GBA",
-    "modalidad": null,
-    "salario": "$ 111.111",
-    "fecha_publicacion": "2026-09-17T20:52:14",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-lomas-de-zamora-prov-bs-as-adn-recursos-humanos-en-lomas-de-zamora-E4819ABE91830DB461373E686DCF3405",
-    "descripcion": "En ADN recursos humanos estamos en la búsqueda de un Community Manager para una empresa ubicada en la zona de Lomas de Zamora. Modalidad de trabajo: Presencial. Lugar de trabajo: Lomas de Zamora. Horarios de trabajo: Lunes a sábado de 09:00 a 18:00 hs Tareas / Funciones / Responsabilidades: -Administrar las redes sociales: planificar publicaciones, responder consultas y acompañar a la comunidad. -Crear contenido para redes sociales, incluidos textos, fotografías y videos, de acuerdo con las novedades y campañas de la marca. -Coordinar el calendario de contenidos y analizar métricas para proponer mejoras. Requerimientos para el puesto: -Formación terciaria en Community Management, Marketing Digital o Comunicación -Experiencia comprobable mínima de 3 años en gestión de redes sociales. -Experiencia en generación de contenido para redes sociales. -Diseño y edición de contenido. -Análisis de redes sociales. -Requerimientos- Educación mínima: Terciario 3 años de experiencia Conocimientos: Fotografía, Marketing digital, Métrica, Microsoft project, Redes sociales, Video, Desarrollo de estrategia Palabras clave: smo, social, red, community, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente, resources, human",
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "computrabajo:E4819ABE91830DB461373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires-GBA»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4468676542",
-    "titulo": "Social Media",
-    "empresa": "Municipalidad de San Miguel",
-    "ubicacion": "San Antonio Oeste, Provincia de Río Negro, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-09-17T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/social-media-at-municipalidad-de-san-miguel-4468676542",
-    "descripcion": null,
-    "capturado": "2026-09-18T14:52:13.424937",
-    "id": "linkedin:4468676542",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
     ]
   }
 ]
