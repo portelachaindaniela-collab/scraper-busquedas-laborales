@@ -18,9 +18,11 @@ def palabras_clave(termino: str) -> list[str]:
     return [w for w in normalizar_texto(termino).split() if len(w) >= 4 and w not in _STOP]
 
 
-def es_relevante(texto: str, termino: str) -> bool:
+def es_relevante(texto: str, termino: str, todas: bool = False) -> bool:
+    """Con todas=True exige cada palabra clave (más estricto: lo usa la búsqueda amplia de Bumeran)."""
     claves = palabras_clave(termino)
     if not claves:
         return True
     t = normalizar_texto(texto)
-    return any(k in t or k.rstrip("s") in t for k in claves)
+    cumple = all if todas else any
+    return cumple(k in t or k.rstrip("s") in t for k in claves)
