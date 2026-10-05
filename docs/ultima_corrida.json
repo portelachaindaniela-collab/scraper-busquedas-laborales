@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-10-04T15:42:29.275043",
+  "inicio": "2026-10-05T19:43:20.828609",
   "ventana_horas": 48,
   "terminos": [
     "community manager",
@@ -11,32 +11,58 @@
     "comunicación en medios digitales",
     "comunicador digital",
     "periodismo digital",
-    "medios digitales"
+    "medios digitales",
+    "coordinador deportivo",
+    "coordinacion deportiva",
+    "eventos deportivos",
+    "sports coordinator",
+    "sports operations coordinator"
   ],
   "portales": {
     "bumeran": {
       "estado": "ok",
-      "encontrados": 0,
+      "encontrados": 5,
       "errores": []
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 54,
+      "encontrados": 59,
       "errores": []
     },
     "weremoto": {
       "estado": "ok",
-      "encontrados": 40,
+      "encontrados": 180,
       "errores": []
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 96,
+      "encontrados": 119,
       "errores": []
+    },
+    "indeed": {
+      "estado": "error",
+      "encontrados": 0,
+      "errores": [
+        "community manager: HTTP 403",
+        "social media manager: HTTP 403",
+        "analista de marketing digital: HTTP 403",
+        "content manager: HTTP 403",
+        "analista de contenidos: HTTP 403",
+        "comunicación digital: HTTP 403",
+        "comunicación en medios digitales: HTTP 403",
+        "comunicador digital: HTTP 403",
+        "periodismo digital: HTTP 403",
+        "medios digitales: HTTP 403",
+        "coordinador deportivo: HTTP 403",
+        "coordinacion deportiva: HTTP 403",
+        "eventos deportivos: HTTP 403",
+        "sports coordinator: HTTP 403",
+        "sports operations coordinator: HTTP 403"
+      ]
     }
   },
-  "fin": "2026-10-04T15:44:24.237626",
-  "nuevos_totales": 8,
-  "publicados": 8,
-  "descartados": 0
+  "fin": "2026-10-05T19:49:50.782054",
+  "nuevos_totales": 52,
+  "publicados": 37,
+  "descartados": 15
 }
