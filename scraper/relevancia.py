@@ -11,6 +11,7 @@ from .modelo import normalizar_texto
 _STOP = {
     "de", "del", "la", "el", "los", "las", "y", "o", "para", "con", "en",
     "analista", "digital", "manager", "sr", "ssr", "jr", "senior", "junior", "semi",
+    "coordinador", "coordinadora", "coordinacion", "coordinator", "operations", "eventos",
 }
 
 

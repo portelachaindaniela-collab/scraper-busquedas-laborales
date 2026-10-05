@@ -4,7 +4,7 @@
 #  No hace falta tocar nada de código.
 # ═════════════════════════════════════════════════════════════
 
-# Términos que se consultan en Computrabajo, Bumeran y LinkedIn.
+# Términos que se consultan en Computrabajo, Bumeran, LinkedIn e Indeed.
 # Poné los de tu rubro (ej: "desarrollador python", "diseñador ux",
 # "contador", "enfermero", lo que busques).
 terminos:
@@ -18,6 +18,11 @@ terminos:
   - comunicador digital
   - periodismo digital
   - medios digitales
+  - coordinador deportivo
+  - coordinacion deportiva
+  - eventos deportivos
+  - sports coordinator
+  - sports operations coordinator
 
 # Ventana de captura, en horas. El scraper corre 1 vez por día;
 # 48 h + deduplicación evita perder avisos que un portal datea sólo
@@ -30,6 +35,7 @@ portales:
   computrabajo: true
   weremoto: true
   linkedin: true          # best-effort: si LinkedIn bloquea, se registra y se sigue
+  indeed: true            # best-effort: Indeed bloquea seguido; se registra y se sigue
 
 # WeRemoto se navega por categoría, no por término de búsqueda.
 # Se traen estas categorías y después se filtran por las palabras clave de abajo.
@@ -47,3 +53,10 @@ weremoto:
     - redes sociales
     - medios digitales
     - periodismo
+
+# Indeed: una búsqueda por cada ubicación y, si incluir_remotos es true,
+# otra sólo de avisos remotos (sin ubicación).
+indeed:
+  ubicaciones:
+    - Buenos Aires
+  incluir_remotos: true

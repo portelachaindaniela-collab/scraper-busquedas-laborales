@@ -50,6 +50,7 @@ portales:
   computrabajo: true
   weremoto: true
   linkedin: true
+  indeed: true
 ```
 
 Abajo, **“Commit changes”** para guardar.

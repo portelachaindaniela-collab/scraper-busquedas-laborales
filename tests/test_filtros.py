@@ -61,3 +61,60 @@ def test_gba_norte_pasa():
 
 def test_camara():
     assert any("camara" in x for x in evaluar(_aviso(descripcion="Vas a presentar frente a cámara."), FL))
+
+
+# --- Relevancia por título -------------------------------------------------
+
+from scraper.relevancia import es_relevante  # noqa: E402
+
+
+def test_coordinador_de_logistica_no_es_deportivo():
+    assert not es_relevante("Coordinador de Logística", "coordinador deportivo")
+    assert es_relevante("Coordinador Deportivo", "coordinador deportivo")
+
+
+def test_eventos_corporativos_no_son_deportivos():
+    assert not es_relevante("Coordinadora de Eventos Corporativos", "eventos deportivos")
+
+
+def test_operations_coordinator_generico_no_es_sports():
+    assert not es_relevante("Operations Coordinator", "sports operations coordinator")
+
+
+# --- Parser de Indeed -------------------------------------------------------
+
+from scraper.portales.indeed import parsear  # noqa: E402
+
+_INDEED_JSON = """<html><script>
+window.mosaic.providerData["mosaic-provider-jobcards"]={"metaData":{"mosaicProviderJobCardsModel":{"results":[
+{"jobkey":"abc123","displayTitle":"Coordinador Deportivo","company":"Club X",
+ "formattedLocation":"Buenos Aires","remoteLocation":true,"pubDate":1790000000000,
+ "snippet":"<ul><li>Organizar torneos</li></ul>","salarySnippet":{"text":"$ 900.000"}}
+]}}};
+window.mosaic.providerData["otro"]={};
+</script></html>"""
+
+_INDEED_HTML = """<html><ul><li>
+<h2><a data-jk="def456"><span title="Sports Coordinator">Sports Coordinator</span></a></h2>
+<span data-testid="company-name">Liga Y</span>
+<div data-testid="text-location">Palermo, Buenos Aires</div>
+</li></ul></html>"""
+
+
+def test_indeed_lee_el_json_embebido():
+    (av,) = parsear(_INDEED_JSON)
+    assert av.portal_id == "abc123"
+    assert av.titulo == "Coordinador Deportivo"
+    assert av.modalidad == "remoto"
+    assert av.url == "https://ar.indeed.com/viewjob?jk=abc123"
+    assert av.descripcion == "Organizar torneos"
+    assert av.salario == "$ 900.000"
+
+
+def test_indeed_sin_json_lee_las_tarjetas():
+    (av,) = parsear(_INDEED_HTML)
+    assert av.portal_id == "def456"
+    assert av.titulo == "Sports Coordinator"
+    assert av.empresa == "Liga Y"
+    assert av.ubicacion == "Palermo, Buenos Aires"
+    assert av.url == "https://ar.indeed.com/viewjob?jk=def456"

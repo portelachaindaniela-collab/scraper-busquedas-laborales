@@ -20,17 +20,20 @@ from .filtros import evaluar
 from .modelo import normalizar_texto
 from .portales.bumeran import Bumeran
 from .portales.computrabajo import Computrabajo
+from .portales.indeed import Indeed
 from .portales.linkedin import LinkedIn
 from .portales.weremoto import Weremoto
 
 
 def _construir_portales(bq: dict) -> dict:
     wr = bq.get("weremoto") or {}
+    ind = bq.get("indeed") or {}
     disponibles = {
         "bumeran": lambda: Bumeran(),
         "computrabajo": lambda: Computrabajo(),
         "weremoto": lambda: Weremoto(wr.get("categorias"), wr.get("palabras_clave")),
         "linkedin": lambda: LinkedIn(),
+        "indeed": lambda: Indeed(ind.get("ubicaciones"), ind.get("incluir_remotos", True)),
     }
     activos = bq.get("portales") or {}
     return {n: f for n, f in disponibles.items() if activos.get(n)}
