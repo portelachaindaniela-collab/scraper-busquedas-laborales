@@ -1,6 +1,23 @@
 [
   {
     "portal": "weremoto",
+    "portal_id": "id-asistente-de-marketing-bilingue-social-media-remoto-medio-tiempo-matework",
+    "titulo": "Asistente de Marketing Bilingüe — Social Media (Remoto, Medio Tiempo)",
+    "empresa": "Mate&Work",
+    "ubicacion": "🇦🇷 Argentina",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-10-11T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-asistente-de-marketing-bilingue-social-media-remoto-medio-tiempo-matework",
+    "descripcion": "Mate&Work busca un/a Asistente de Marketing para apoyar a una agencia de social media con clientes en Estados Unidos. Es remoto, 20 horas semanales, de lunes a viernes, por la mañana. La persona creará contenido visual con Canva, preparará presentaciones y materiales para redes, programará publicaciones y coordinará con editores de video. Se valora experiencia en marketing e buen inglés. Buscamos un perfil proactivo, organizado y capaz de gestionar múltiples tareas de forma independiente.",
+    "capturado": "2026-10-11T16:35:34.850162",
+    "id": "weremoto:id-asistente-de-marketing-bilingue-social-media-remoto-medio-tiempo-matework",
+    "motivos_descarte": [
+      "ingles_alto: «bilingue»"
+    ]
+  },
+  {
+    "portal": "weremoto",
     "portal_id": "id-senior-marketing-coordinator-chile-withtrolley",
     "titulo": "Senior Marketing Coordinator (Chile)",
     "empresa": "withtrolley",
