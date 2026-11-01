@@ -1,5 +1,39 @@
 [
   {
+    "portal": "linkedin",
+    "portal_id": "4485907677",
+    "titulo": "Social Media",
+    "empresa": "Municipalidad de San Miguel",
+    "ubicacion": "San Antonio Oeste, Provincia de Río Negro, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-31T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/social-media-at-municipalidad-de-san-miguel-4485907677",
+    "descripcion": null,
+    "capturado": "2026-11-01T17:03:11.323067",
+    "id": "linkedin:4485907677",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4485931045",
+    "titulo": "Paid Ads Video Editor",
+    "empresa": "New Paradigm Venture",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-10-31T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/paid-ads-video-editor-at-new-paradigm-venture-4485931045",
+    "descripcion": null,
+    "capturado": "2026-11-01T17:03:11.323067",
+    "id": "linkedin:4485931045",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
     "portal": "computrabajo",
     "portal_id": "775206B166CDBD0D61373E686DCF3405",
     "titulo": "Supervisor de Retail Deportivo",
