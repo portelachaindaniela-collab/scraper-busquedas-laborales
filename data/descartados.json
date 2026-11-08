@@ -1,5 +1,39 @@
 [
   {
+    "portal": "linkedin",
+    "portal_id": "4488774396",
+    "titulo": "Especialista de Servicios Generales",
+    "empresa": "Fluor Corporation",
+    "ubicacion": "San Juan, San Juan, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-08T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-de-servicios-generales-at-fluor-corporation-4488774396",
+    "descripcion": null,
+    "capturado": "2026-11-08T16:57:12.911839",
+    "id": "linkedin:4488774396",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
+    ]
+  },
+  {
+    "portal": "weremoto",
+    "portal_id": "id-junior-social-media-virtual-assistant-formulated-automation-1",
+    "titulo": "Junior Social Media Virtual Assistant",
+    "empresa": "Formulated Automation",
+    "ubicacion": "🇨🇱 Chile",
+    "modalidad": "remoto",
+    "salario": null,
+    "fecha_publicacion": "2026-11-07T12:00:00",
+    "url": "https://www.weremoto.com/job-posts/id-junior-social-media-virtual-assistant-formulated-automation-1",
+    "descripcion": "Hi there! We are South and our client is looking for a JUNIOR Social Media Virtual Assistant (Client Engagement & Community Management)! Note To Applicants Eligibility: This position is open to candidates residing in Latin America. Application Language: Please submit your CV in English. Applications submitted in other languages will not be considered. Professional Presentation: We encourage you to showcase your professional experience by including a Loom video in the application form. While this is optional, candidates who provide a video presentation will be given priority. Interview Policy: The use of artificial intelligence (AI) tools during interviews are strictly prohibited. Note: As part of the final stages of the selection process, contractors may be asked to provide professional references for a reference check. If you're selected, you may also be asked to update their LinkedIn profile. About The Role Our client is a leading US-based firm providing end-to-end support for business owners and entrepreneurs through entity formation, tax strategy, business credit development, and asset protection. In this dedicated engagement, you will manage multi-platform community engagement and represent company leadership across online business communities. You won't be creating graphic content or managing paid ad campaigns; instead, you will focus on daily community interaction, CRM tracking, client engagement, and cross-departmental coordination between Sales, Marketing, and Executive Leadership. Core Responsibilities Daily Community Monitoring & Engagement: Check and interact daily across Skool, Facebook groups, Discord, and internal client portals—replying to comments and direct messages authentically in the voice and tone of company leadership. Client Record Lookup & Lead Tagging: Cross-reference every interacting user against Salesforce (CRM) to distinguish existing clients from warm leads and log interaction notes accurately. Cross-Departmental Handoffs: Route warm sales leads to Sales Team Leads and elevate urgent client inquiries or blockers via Slack immediately. Group & Network Growth: Join new relevant Facebook and Skool groups on behalf of leadership and track potential networking contacts and proposals. Competitive Monitoring & Documentation: Flag mentions of competitor programs, maintain clear tracking notes in Google Sheets, and ensure seamless daily handoff records. Key Qualifications & Skills Prior Experience: Proven track record as a Social Media Contractor, Community Manager, or Client Engagement Specialist. English Fluency: Advanced/Fluent written and spoken English communication skills (C1/C2) with the ability to adapt to an executive, professional, and approachable tone. CRM Experience: Basic hands-on experience using Salesforce (or a similar CRM) to search, verify, and tag contact records. Platform Proficiency: High comfort level navigating Facebook Groups, Discord, Slack, and community platforms like Skool. Attention to Detail: High level of organization, reliability, and discipline to manage a daily checklist across 5+ platforms without skipping steps. Trustworthiness & Discretion: High degree of professional discretion to represent executive leadership online and handle real client interactions. Nice to Have Familiarity with real estate investing, e-commerce, or business formation/tax concepts. Experience utilizing Google Sheets for task tracking and daily handoff notes. Core Overlap & Availability 40 hours per week dedicated engagement. Weekend availability (Saturday & Sunday) is strongly preferred and will be given priority, but it is not mandatory. Flexible weekly schedules with 2 planned non-working days during the week will be arranged for talent providing weekend coverage. Service Fee & Location Monthly Service Fee: Monthly fee paid in USD (contractor agreement). The monthly fee is the entire consideration for this engagement. Location: 100% Remote engagement for talent located within Latin America.",
+    "capturado": "2026-11-08T16:57:12.911839",
+    "id": "weremoto:id-junior-social-media-virtual-assistant-formulated-automation-1",
+    "motivos_descarte": [
+      "ingles_alto: «c1/c2»"
+    ]
+  },
+  {
     "portal": "weremoto",
     "portal_id": "id-digital-marketing-specialist-floowi",
     "titulo": "Digital Marketing Specialist",
@@ -2010,40 +2044,6 @@
     "motivos_descarte": [
       "camara: «frente a camara»",
       "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4464241559",
-    "titulo": "Sports Data Collector (Football) - Rincón de los Sauces (Neuquén), Argentina",
-    "empresa": "Genius Sports",
-    "ubicacion": "Rincón de los Sauces, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-25T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-data-collector-football-rinc%C3%B3n-de-los-sauces-neuqu%C3%A9n-argentina-at-genius-sports-4464241559",
-    "descripcion": null,
-    "capturado": "2026-10-25T14:54:27.078486",
-    "id": "linkedin:4464241559",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rincón de los Sauces, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466377309",
-    "titulo": "Ejecutivo/a On Premise (Mosquetero)",
-    "empresa": "Red Bull",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-24T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-a-on-premise-mosquetero-at-red-bull-4466377309",
-    "descripcion": null,
-    "capturado": "2026-10-25T14:54:27.078486",
-    "id": "linkedin:4466377309",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
     ]
   }
 ]
