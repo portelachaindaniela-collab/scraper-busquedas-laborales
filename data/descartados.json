@@ -1,6 +1,59 @@
 [
   {
     "portal": "bumeran",
+    "portal_id": "1118517104",
+    "titulo": "Analista senior de Marketing y Comunicación",
+    "empresa": null,
+    "ubicacion": "General Rodríguez, Buenos Aires",
+    "modalidad": "hibrido",
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T11:00:58",
+    "url": "https://www.bumeran.com.ar/empleos/analista-senior-de-marketing-y-comunicacion-1118517104.html",
+    "descripcion": "Buscamos una persona que pueda conectar estrategia, comunicación y negocio.Para una compañía industrial consolidada, con distintas unidades de negocio, buscamos incorporar un/a Analista Senior de Marketing y Comunicación para formar parte del equipo.El desafío del rol será participar en la planificación, ejecución y seguimiento de iniciativas de marketing y comunicación interna y externa, contribuyendo a fortalecer la visibilidad de la compañía y sus negocios, mantener una comunicación consistente con la identidad de la organización y alcanzar los objetivos definidos por el área.Será una posición con interacción permanente con diferentes áreas de la compañía, unidades de negocio, agencias y proveedores externos.¿Cuál será tu desafío? Planificar y gestionar campañas de marketing y comunicación, coordinando su ejecución con agencias, proveedores y equipos internos. Gestionar contenidos y calendarios editoriales para los distintos canales de comunicación y unidades de negocio, incluyendo redes sociales, LinkedIn, medios y canales internos. Coordinar la producción y ejecución de piezas y proyectos de comunicación, incluyendo materiales comerciales, contenidos para RR. HH., sitio web, merchandising, eventos y capacitaciones, gestionando prioridades, recursos y proveedores. Asegurar la consistencia de los mensajes y contenidos con la estrategia, identidad y posicionamiento de la compañía y sus unidades de negocio. Detectar necesidades y oportunidades de comunicación, monitoreando tendencias, competencia y evolución del mercado, y transformándolas en iniciativas concretas. Analizar el desempeño de campañas y contenidos, elaborando reportes, identificando oportunidades de optimización y proponiendo mejoras. Participar en iniciativas de posicionamiento de marca y experiencia del cliente, colaborando en proyectos transversales vinculados con la construcción y fortalecimiento de la marca.Requisitos: ⁠ ⁠Formación universitaria en Marketing, Comunicación Social, Publicidad, Relaciones Institucionales o carreras afines. ⁠ ⁠Experiencia mínima de 5 años en posiciones similares dentro de empresas o industrias de gran escala. ⁠ ⁠Experiencia en comunicación corporativa y/o comunicación interna. ⁠ ⁠Conocimientos sólidos de Meta Ads y Google Ads. ⁠ ⁠Experiencia con herramientas de gestión y CRM. ⁠ ⁠Se valorarán conocimientos de Power BI, automatización e inteligencia artificial aplicada a marketing y comunicación. ⁠ ⁠Manejo de OneDrive y herramientas de gestión de contenidos y proyectos. ⁠ ⁠Experiencia trabajando con agencias, proveedores y equipos multidisciplinarios.",
+    "capturado": "2026-11-11T18:29:26.648305",
+    "id": "bumeran:1118517104",
+    "motivos_descarte": [
+      "google_ads: «google ads»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "1118514657",
+    "titulo": "ESPECIALISTA EN INTELIGENCIA ARTIFICIAL APLICADA AL MARKETING",
+    "empresa": "Electrica Leloir",
+    "ubicacion": "Ituzaingó, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T10:39:07",
+    "url": "https://www.bumeran.com.ar/empleos/especialista-en-inteligencia-artificial-aplicada-al-marketing-electrica-leloir-1118514657.html",
+    "descripcion": "ESPECIALISTA EN INTELIGENCIA ARTIFICIAL APLICADA AL MARKETINGELÉCTRICA LELOIR | WACOX SRLBuscamos incorporar una persona creativa, proactiva y con experiencia comprobable en el uso de herramientas de Inteligencia Artificial aplicadas al marketing digital y al e-commerce.Principales tareas: Creación de contenido publicitario con IA. Diseño de imágenes, videos y campañas digitales. Automatización de procesos de marketing. Optimización de publicaciones y estrategias de e-commerce. Implementación de herramientas de IA para mejorar la productividad y las ventas.Requisitos: Experiencia práctica utilizando herramientas de IA. Conocimientos de marketing digital y redes sociales. Manejo de herramientas como ChatGPT, Gemini, Midjourney, Canva AI u otras similares. Capacidad para desarrollar e implementar nuevas ideas. Se valorará experiencia en Mercado Libre y comercio electrónico.Zona de trabajo: Ituzaingó, Buenos Aires.Enviá tu CV y portfolio de trabajos a:Asunto:Especialista IA + Marketing",
+    "capturado": "2026-11-11T18:29:26.648305",
+    "id": "bumeran:1118514657",
+    "motivos_descarte": [
+      "ventas: «ventas»",
+      "ubicacion fuera de zona: «Ituzaingó, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489970819",
+    "titulo": "Especialista en marketing - Prospección B2B",
+    "empresa": "America Digital",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-en-marketing-prospecci%C3%B3n-b2b-at-ai-world-conference-4489970819",
+    "descripcion": null,
+    "capturado": "2026-11-11T18:29:26.648305",
+    "id": "linkedin:4489970819",
+    "motivos_descarte": [
+      "ventas: «prospeccion»",
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "bumeran",
     "portal_id": "1118515803",
     "titulo": "Analista Sr de Marketing y Trade Marketing",
     "empresa": null,
@@ -118,6 +171,23 @@
     "id": "computrabajo:DFF30F1F5CAB9FC161373E686DCF3405",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Afganistán»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4480287131",
+    "titulo": "Bilingual Optimization Agent",
+    "empresa": "Cognizant",
+    "ubicacion": "Buenos Aires, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/bilingual-optimization-agent-at-cognizant-4480287131",
+    "descripcion": null,
+    "capturado": "2026-11-11T18:29:26.648305",
+    "id": "linkedin:4480287131",
+    "motivos_descarte": [
+      "ingles_alto: «bilingual»"
     ]
   },
   {
@@ -1836,92 +1906,6 @@
     ]
   },
   {
-    "portal": "computrabajo",
-    "portal_id": "7C094CB33B51535161373E686DCF3405",
-    "titulo": "Analista de Marketing Comercial",
-    "empresa": "DROGUERIA PHARMA CENTER SRL",
-    "ubicacion": "Yerba Buena, Tucumán",
-    "modalidad": null,
-    "salario": "$ 99.998",
-    "fecha_publicacion": "2026-10-28T14:03:55",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-comercial-en-yerba-buena-7C094CB33B51535161373E686DCF3405",
-    "descripcion": "Nos encontramos en la búsqueda de un/a Analista de Marketing Comercial para incorporarse a nuestro equipo en Tucumán. Buscamos una persona organizada, proactiva y analítica, con capacidad para realizar el seguimiento de la gestión comercial, trabajar con indicadores y reportes, y coordinar múltiples tareas. Valoramos especialmente la autonomía, la capacidad de seguimiento y control, la orientación a resultados y la disposición para identificar oportunidades de mejora. Principales responsabilidades: - Gestionar y realizar el seguimiento de los leads ingresados al CRM, asegurando su correcta clasificación, derivación y atención oportuna por parte de los responsables correspondientes. - Identificar leads perdidos o abandonados, registrar los motivos y detectar oportunidades de mejora en el circuito comercial. - Elaborar indicadores y reportes del CRM para analizar el desempeño comercial por vendedor, jefe y área, así como el estado y la evolución de los leads. - Realizar el seguimiento del cumplimiento de los objetivos comerciales, identificando desvíos y comunicando oportunidades de mejora. - Brindar información procesada y confiable a la Responsable de Marketing para contribuir al análisis y la toma de decisiones. - Colaborar en la planificación y el seguimiento de acciones comerciales, manteniendo actualizadas las bases de datos, listados y registros del área. - Realizar el seguimiento de las gestiones asignadas a los equipos comerciales, solicitando avances y detectando desvíos o incumplimientos. - Participar en la planificación, organización y coordinación de congresos, eventos y acciones comerciales e institucionales. - Realizar el seguimiento de proveedores, inscripciones, pagos y requerimientos logísticos vinculados a las actividades del área. - Colaborar con las tareas operativas y administrativas de Marketing, contribuyendo al cumplimiento de los objetivos y a la mejora de los procesos. Requisitos: - Formación universitaria en Administración, Comercialización, Marketing o carreras afines. - Experiencia mínima de 2 años en puestos relacionados con gestión comercial, administración comercial, gestión de CRM, seguimiento de leads, análisis de indicadores, atención al cliente o posiciones similares. - Manejo de CRM y herramientas de gestión comercial. - Manejo avanzado de Excel y/o Google Sheets. - Conocimientos de análisis de datos, indicadores de gestión y elaboración de reportes. - Conocimientos básicos de planificación y organización de eventos, y de tareas administrativas vinculadas a presupuestos, pagos, reservas y documentación. Modalidad de trabajo: Presencial Jornada: Lunes a viernes, jornada completa de 8 a 17 hs. Si te interesa el desafío y querés formar parte de nuestro equipo, esperamos tu postulación.-Requerimientos- Educación mínima: Terciario 2 años de experiencia Conocimientos: Capacidad de análisis, Base de datos, Crm, Estrategia de marketing, Gestión comercial, Google sheets, Marketing comercial, Marketing digital, Seguimiento Palabras clave: analyst, mercadotecnia, marketing, mercadeo, salesman, saleswoman, seller, vendedor, comercial, salesperson",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "computrabajo:7C094CB33B51535161373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Yerba Buena, Tucumán»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118499733",
-    "titulo": "Analista de Performance Marketing / Paid Media",
-    "empresa": "Texia RRHH",
-    "ubicacion": "Capital Federal, Buenos Aires",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-10-28T12:55:28",
-    "url": "https://www.bumeran.com.ar/empleos/analista-de-performance-marketing-paid-media-texia-rrhh-1118499733.html",
-    "descripcion": "¿Sos especialista en paid media y te apasiona el mundo del performance? 🎯Importante empresa líder en entretenimiento digital en Argentina se encuentra en la búsqueda de un Analista de Performance Marketing / Paid Media para sumarse a su equipo de marketing.¿Qué vas a hacer? Planificar, implementar y optimizar campañas en Google Ads (Search, Display, PMax, YouTube) y Meta Ads (Facebook/Instagram) Configurar e implementar tracking, eventos y conversiones mediante Google Tag Manager y GA4 Diseñar y gestionar modelos de atribución para medir el impacto real de cada canal Analizar la performance de campañas y tomar decisiones basadas en datos Armar reportes ejecutivos en Looker Studio con insights accionables Realizar A/B testing de creatividades, audiencias y estrategias de puja Gestionar presupuestos y optimizar hacia métricas de negocio (CPA, ROAS, CPL) Trabajar de forma colaborativa con equipos de producto, creatividad y datos¿Qué buscamos?✅ Experiencia mínima de 3 años en paid media (Google Ads + Meta Ads) ✅ Manejo avanzado de Google Tag Manager y GA4✅ Experiencia en configuración de eventos, conversiones y modelos de atribución ✅ Conocimiento de Looker Studio para reportes ✅ Mentalidad analítica y orientación a resultados ✅ Capacidad para gestionar múltiples campañas simultáneamente¿Qué suma?⭐ Experiencia en rubros de entretenimiento digital, gaming, fintech o e-commerce ⭐ Conocimiento de TikTok Ads, DV360 o programática ⭐ Experiencia con Performance Max (PMax) ⭐ Inglés intermedio o avanzado¿Qué ofrecemos?🏢 Modalidad híbrida en CABA (3 días presencial / 2 home office) 📈 Impacto directo en resultados de negocio 🚀 Trabajo en una empresa en pleno crecimiento dentro del entretenimiento digital 💼 Excelente clima de trabajo y equipo orientado a la innovaciónLugar de trabajo: Palermo",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "bumeran:1118499733",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-senior-google-ads-manager-freelance-latin-america",
-    "titulo": "Senior Google Ads Manager",
-    "empresa": "Freelance Latin America",
-    "ubicacion": "Nicaragua, Argentina, México, Colombia",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-10-28T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-senior-google-ads-manager-freelance-latin-america",
-    "descripcion": "📌 Rol: Senior Google Ads Manager – Freelance Latin America 🌎 Ubicación: Remoto – Nicaragua, Argentina, México y Colombia. 💼 Tipo de Contrato: Full-time. Lunes a viernes, de 9:30 a 17:30, horario del Este de EE. UU. (EST). 📋 Descripción General Freelance Latin America busca un/a Senior Google Ads Manager para una agencia de marketing digital enfocada en resultados. La persona seleccionada gestionará y optimizará campañas publicitarias para clientes de Estados Unidos y Canadá, administrando múltiples cuentas, presupuestos y estrategias de adquisición y conversión. 📋 Responsabilidades Principales Planificar, lanzar y optimizar campañas de Google Ads (Search, Performance Max, Shopping y Display). Administrar presupuestos publicitarios y supervisar el cumplimiento de objetivos. Analizar indicadores de rendimiento como CPL, CPA, ROAS y tasas de conversión. Realizar auditorías semanales de seguimiento de conversiones, calidad de leads y rendimiento de campañas. Preparar informes mensuales y presentar recomendaciones estratégicas a clientes. Identificar oportunidades de optimización de landing pages, desarrollarlas a partir de archivos de diseño y colaborar en pruebas CRO. Detectar oportunidades de crecimiento y retención de cuentas. Mejorar procedimientos operativos (SOPs), estructuras de campañas y procesos de control de calidad. Colaborar con equipos de Paid Media, SEO, CRO, creatividad y gestión de cuentas. Mantener documentación actualizada y realizar controles de calidad periódicos. 🎯 Requisitos Entre 7 y 10 años de experiencia gestionando campañas de Google Ads para empresas de servicios y e-commerce, preferentemente en agencias. Experiencia comprobable con campañas dirigidas a Estados Unidos y Canadá. Dominio avanzado de Google Ads: Search, Performance Max, Shopping y Display. Experiencia administrando presupuestos mensuales de USD 20.000 a más de USD 150.000. Manejo avanzado de Google Analytics 4 (GA4), Google Tag Manager (GTM) y seguimiento de conversiones. Experiencia evaluando la calidad de leads y optimizando resultados comerciales. Conocimientos prácticos de creación de landing pages y pruebas CRO. Capacidad para analizar métricas, gestionar múltiples cuentas y elaborar reportes. Experiencia trabajando con SOPs, controles de calidad y procesos estructurados. Inglés avanzado, oral y escrito. Excelentes habilidades analíticas, organización, autonomía y comunicación. Se valora: Certificaciones de Google Ads en Search, Display o Measurement. Experiencia mejorando estrategias, procesos y controles de calidad de campañas. Familiaridad con Microsoft Ads, DV360, Amazon DSP u otras plataformas programáticas. Uso de herramientas de inteligencia artificial para investigación, análisis, automatización y reportes. 🏖️ Beneficios Trabajo 100% remoto desde Latinoamérica. Colaboración estable y a largo plazo. Oportunidad de gestionar presupuestos publicitarios importantes y diversas cuentas. Participación directa en decisiones estratégicas de campañas. Colaboración con profesionales de Paid Media, SEO, CRO y creatividad. Procesos de trabajo estructurados y autonomía profesional. Acceso a herramientas modernas, automatización e inteligencia artificial. Oportunidades de aprendizaje, desarrollo y crecimiento profesional. Importante: Se requiere disponibilidad constante durante el horario establecido, cumplimiento de objetivos y adaptación a los procesos del cliente. Podría solicitarse capacitación inicial.",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "weremoto:id-senior-google-ads-manager-freelance-latin-america",
-    "motivos_descarte": [
-      "ingles_alto: «ingles avanzado»",
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-content-marketing-associate-concepcion-chile---remote-role-possible-cozymeal-inc",
-    "titulo": "Content Marketing Associate (Concepción, Chile - Remote Role Possible)",
-    "empresa": "Cozymeal, Inc.",
-    "ubicacion": "🇨🇱 Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-10-28T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-content-marketing-associate-concepcion-chile---remote-role-possible-cozymeal-inc",
-    "descripcion": "Discover. Savor. Connect. Welcome to the chef’s table. Discover and book unforgettable culinary experiences: hands‑on cooking classes, private‑chef meals, guided food tours, wine tastings and team‑building events in 400+ cities worldwide. With just a few clicks you can line up the perfect occasion, from a date‑night sushi lesson or anniversary chef’s‑table dinner, to an interactive dinner party with friends, a corporate pasta‑making challenge, or a flavorful food tour. Wherever you are, we turn moments into delicious memories - effortlessly. In addition to providing customers access to world‑class culinary experiences, products and content, we also provide a great source of income to our partners that includes chefs, sommeliers, guides and mixologists. For this, we were recognized by the Global Good Fund in 2019. Serving both customers and our culinary partners is our top‑priority and ingrained in our culture and in how we run our business every day. We continuously strive to curate the best culinary experiences and products and to create the best content for the millions of customers visiting our site while providing additional support and business to our partners. About the Role We are looking for a rockstar Content Marketing Associate with experience in culinary and lifestyle content (written and visual) to join our team. This role will lead the creation of content on Cozymeal, including profiles, experience pages and marketing email. Responsibilities Create and/or review, edit and publish written and visual content for experiences listed on the company’s website (e.g. cooking classes, private chef experiences, food tours and more). Source, curate and manage images for the company’s visual content library. Assist with creating written and visual content for newsletters. Support the creation of marketing campaigns including Google Ads and social media ads. Design marketing assets such as website banners, email visuals and social media graphics. Requirements Bachelor’s degree or equivalent experience. 3+ years of experience in copywriting and/or content marketing. Strong visual research and photo editing skills, ideally with experience using Photoshop and Canva. Solid understanding of SEO and content optimization. Exceptional organizational skills and ability to manage multiple projects. Familiarity with food and culinary culture is a plus. Ability to work efficiently in a remote/home office environment. What We Offer Work anywhere in the world (we are a 100% remote team). Opportunity to grow within the organization and learn from some of the best in the industry. Great work environment with a strong and friendly team of co-workers. Location Concepción, Chile or anywhere in the world. This is a remote role and qualified candidates from anywhere in the world can apply for this role. If this sounds like you, then Cozymeal just might be the right place for you! Welcome home!",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "weremoto:id-content-marketing-associate-concepcion-chile---remote-role-possible-cozymeal-inc",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-content-marketing-associate-la-serena-chile---remote-role-possible-cozymeal-inc",
-    "titulo": "Content Marketing Associate (La Serena, Chile - Remote Role Possible)",
-    "empresa": "Cozymeal, Inc.",
-    "ubicacion": "🇨🇱 Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-10-28T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-content-marketing-associate-la-serena-chile---remote-role-possible-cozymeal-inc",
-    "descripcion": "Discover. Savor. Connect. Welcome to the chef's table. Discover and book unforgettable culinary experiences: hands-on cooking classes, private-chef meals, guided food tours, wine tastings and team-building events in 400+ cities worldwide. With just a few clicks you can line up the perfect occasion, from a date-night sushi lesson or anniversary chef’s-table dinner, to an interactive dinner party with friends, a corporate pasta-making challenge, or a flavorful food tour. Wherever you are, we turn moments into delicious memories - effortlessly. In addition to providing customers access to world‑class culinary experiences, products and content, we also provide a great source of income to our partners that includes chefs, sommeliers, guides and mixologists. For this, we were recognized by the Global Good Fund in 2019. Serving both customers and our culinary partners is our top-priority and ingrained in our culture and in how we run our business every day. We continuously strive to curate the best culinary experiences and products and to create the best content for the millions of customers visiting our site while providing additional support and business to our partners. About the Role We are looking for a rockstar Content Marketing Associate with experience in culinary and lifestyle content (written and visual) to join our team. This role will lead the creation of content on Cozymeal, including profiles, experience pages and marketing email. Responsibilities Create and/or review, edit and publish written and visual content for experiences listed on the company’s website (e.g. cooking classes, private chef experiences, food tours and more). Source, curate and manage images for the company’s visual content library Assist with creating written and visual content for newsletters. Support the creation of marketing campaigns including Google Ads and social media ads. Design marketing assets such as website banners, email visuals and social media graphics Requirements Bachelor’s degree or equivalent experience 3+ years of experience in copywriting and/or content marketing Strong visual research and photo editing skills, ideally with experience using Photoshop and Canva. Solid understanding of SEO and content optimization Exceptional organizational skills and ability to manage multiple projects Familiarity with food and culinary culture is a plus Ability to work efficiently in a remote/home office environment What We Offer Work anywhere in the world (we are a 100% remote team). Opportunity to grow within the organization and learn from some of the best in the industry. Great work environment with a strong and friendly team of co‑workers. Location La Serena, Chile or anywhere in the world. This is a remote role and qualified candidates from anywhere in the world can apply for this role. If this sounds like you, then Cozymeal just might be the right place for you! Welcome home!",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "weremoto:id-content-marketing-associate-la-serena-chile---remote-role-possible-cozymeal-inc",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
     "portal": "linkedin",
     "portal_id": "4483889852",
     "titulo": "Asistente de Marketing",
@@ -1953,108 +1937,6 @@
     "id": "linkedin:4471297570",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Oberá, Misiones, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "E69336E5740D580F61373E686DCF3405",
-    "titulo": "Encargado de Local de Indumentaria Deportiva",
-    "empresa": "ADN - Recursos Humanos",
-    "ubicacion": "San Miguel, Buenos Aires-GBA",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T21:05:13",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargado-de-local-de-indumentaria-deportiva-san-miguel-buenos-aires-en-san-miguel-E69336E5740D580F61373E686DCF3405",
-    "descripcion": "En ADN Recursos Humanos nos encontramos en la búsqueda de un Encargado de Local para incorporarse a importante empresa del rubro Retail Deportivo Requisitos excluyentes: - Experiencia mínima de 2 años como Sub/Encargado de Local o Tienda - Experiencia comprobable liderando equipos de 6/8 personas o más - Experiencia en Retail Deportivo o Indumentaria/Textil - Sólidos conocimientos en ventas, merchandising y gestión de inventario - Experiencia en liderazgo y conducción de equipos - Conocimientos avanzados de Excel y hojas de cálculo - Disponibilidad para trabajar con horarios rotativos, fines de semana y feriados según apertura del local Se valorará: - Manejo y seguimiento de KPIs comerciales, especialmente conversión, UPT y ticket promedio - Conocimiento del mercado deportivo y sus tendencias - Orientación al cliente y fuerte perfil comercial - Capacidad de comunicación y trabajo en equipo Tareas, funciones y responsabilidades: - Tendrá a su cargo la supervisión y coordinación de las operaciones generales del local, garantizando el correcto funcionamiento del establecimiento y el cumplimiento de los objetivos comerciales - Será responsable de liderar, motivar y acompañar al equipo de ventas, promoviendo el cumplimiento de objetivos y manteniendo altos estándares de atención y servicio al cliente - Entre sus principales funciones se encuentran la organización y supervisión del equipo, seguimiento de ventas y resultados, gestión y control de inventario, merchandising, organización del salón, resolución de situaciones operativas y comerciales y correcta implementación de las políticas y procedimientos de la empresa - Deberá realizar el seguimiento de indicadores comerciales y proponer acciones orientadas a mejorar los resultados del local, especialmente en métricas como conversión, UPT (unidades por ticket) y ticket promedio Lugar de trabajo: San miguel, Buenos Aires Horarios: - Lunes a viernes: 8 horas diarias con horarios rotativos - Sábados: 9 a 21hs - Domingos: según definición de apertura del local - Franco: si trabaja los domingos, tendrá 1 franco y medio. En su defecto, el franco será el domingo. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: residente, encargado, supervisor, subgerente, responsable, coordinador, gestor, capitan",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "computrabajo:E69336E5740D580F61373E686DCF3405",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118498789",
-    "titulo": "Gerente de Marketing",
-    "empresa": null,
-    "ubicacion": "Capital Federal, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T17:30:11",
-    "url": "https://www.bumeran.com.ar/empleos/gerente-de-marketing-1118498789.html",
-    "descripcion": "Importante empresa con diversas unidades de negocio se encuentra en la búsqueda de un/a Gerente de Marketing para liderar la estrategia integral del área.Buscamos una persona con visión estratégica, perfil comercial y capacidad de ejecución, que pueda conectar marca, datos, tecnología y creatividad con resultados concretos de negocio.La posición tendrá alcance sobre distintas unidades vinculadas a servicios financieros y otros negocios, trabajando de manera integrada con las áreas Comerciales, Producto, Sistemas, Riesgos y Operaciones.Principales responsabilidades Diseñar y liderar el plan integral de Marketing, desarrollando estrategias específicas para cada unidad de negocio. Definir prioridades, presupuesto e indicadores de gestión para medir el impacto de las acciones. Liderar las estrategias de captación y conversión de clientes, optimizando el recorrido desde el primer contacto hasta la venta. Desarrollar acciones de CRM y automatización orientadas a la retención, renovación, reactivación y venta cruzada. Analizar el comportamiento de los clientes, segmentar audiencias e identificar oportunidades de crecimiento. Fortalecer el posicionamiento, la identidad y la comunicación de las marcas, vinculándolos con los objetivos comerciales. Diseñar acciones de marketing local y geolocalizado junto con los equipos comerciales y las sucursales. Liderar y desarrollar al equipo de Marketing, promoviendo una cultura de trabajo basada en objetivos, colaboración y medición. Administrar el presupuesto del área y coordinar el trabajo de agencias y proveedores. Medir el retorno de la inversión y el impacto comercial de las iniciativas implementadas.Requisitos Formación universitaria en Marketing, Comercialización, Administración, Comunicación, Economía o carreras afines. Al menos 8 años de experiencia en Marketing y 3 años liderando equipos, áreas o funciones integrales. Experiencia comprobable en estrategia integral de Marketing, adquisición y conversión digital, Performance/Growth, CRM y automatización. Experiencia en gestión de presupuestos y medición de resultados comerciales. Manejo de Google Ads, Meta Ads, GA4 o herramientas equivalentes de analítica, CRM, automatización y visualización de datos. Conocimientos de indicadores como CAC, CPL, CPA, ROI y ROAS, y de análisis de embudos de conversión. Disponibilidad para realizar visitas a sucursales según las necesidades del negocio.Será valorado Experiencia en servicios financieros, fintech, banca, seguros, retail o negocios de alta transaccionalidad. Experiencia en organizaciones con sucursales y múltiples unidades de negocio. Conocimientos de estrategias omnicanal y automatización de comunicaciones. Posgrado o certificaciones en Marketing Digital, Growth, analítica o Dirección Comercial. Conocimientos de inglés.Valoramos perfiles con orientación a resultados y al cliente, pensamiento analítico, iniciativa y capacidad para liderar equipos, trabajar de manera transversal y transformar datos en acciones.",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "bumeran:1118498789",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118284689",
-    "titulo": "Community Manager y Diseñador/a Grafico, Part Time, Lomas de Zamora",
-    "empresa": "ROAN Consultora",
-    "ubicacion": "Lomas de Zamora, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T16:01:39",
-    "url": "https://www.bumeran.com.ar/empleos/community-manager-y-disenador-a-grafico-part-time-lomas-de-zamora-roan-consultora-1118284689.html",
-    "descripcion": "Requisitos: Resida aledaños Lomas de Zamora o movilidad propia. Estudios: Diseño Gráfico (no excluyente) Conocimientos aplicados de IA para creación, edición u optimización de contenidos y videos (excluyente) Manejo de programas de edición de video y herramientas digitales. Conocimientos de Instagram, TikTok, Facebook, YouTube y plataformas digitales. Experiencia comprobable en manejo de Redes Sociales. Edicion y creación de clips. Creativo/a. Curioso/a Perfil dinámico, resolutivo y organizado. Muy buena predisposición para trabajar en horarios de madrugada. Se valorará portfolio, reels, producciones realizadas o trabajos previos para clientes.Se Ofrece: Puesto Efectivo, bajo relación de dependencia. Jornada Laboral Jornada laboral: Lunes, Miércoles y Sábados de 4:00 a 15:00 hs. Si, arranca muy temprano!!! Zona de trabajo Ing Budge. Sueldo: según Escala de Comercio. Beneficios adicionales: Ropa de trabajo, Desayuno y Almuerzo. Excelente clima laboral. Feriados en días de feria y Horas extra (si las hubiere), se abonan aparte.",
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "bumeran:1118284689",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4484216798",
-    "titulo": "Redactor/a Creativo/a",
-    "empresa": "Universia Argentina",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/redactor-a-creativo-a-at-universia-argentina-4484216798",
-    "descripcion": null,
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "linkedin:4484216798",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4482206945",
-    "titulo": "Coordinador/a de Biblioteca",
-    "empresa": "Pontificia Universidad Católica Argentina",
-    "ubicacion": "Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-de-biblioteca-at-pontificia-universidad-cat%C3%B3lica-argentina-santa-mar%C3%ADa-de-los-buenos-aires-%E2%80%8B-4482206945",
-    "descripcion": null,
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "linkedin:4482206945",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4481867400",
-    "titulo": "Sports Match Reporter / Data Scout – Argentina, Venado Tuerto",
-    "empresa": "FeedConstruct",
-    "ubicacion": "Venado Tuerto, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-match-reporter-data-scout-%E2%80%93-argentina-venado-tuerto-at-feedconstruct-4481867400",
-    "descripcion": null,
-    "capturado": "2026-10-28T17:03:12.119645",
-    "id": "linkedin:4481867400",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Venado Tuerto, Santa Fe, Argentina»"
     ]
   }
 ]
