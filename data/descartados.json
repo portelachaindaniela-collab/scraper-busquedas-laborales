@@ -1,5 +1,57 @@
 [
   {
+    "portal": "linkedin",
+    "portal_id": "4491060189",
+    "titulo": "Google Ads Media Buyer / Growth Strategist (Remote)",
+    "empresa": "Sweat Pants Agency",
+    "ubicacion": "Buenos Aires, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-14T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/google-ads-media-buyer-growth-strategist-remote-at-sweat-pants-agency-4491060189",
+    "descripcion": null,
+    "capturado": "2026-11-14T16:53:50.079956",
+    "id": "linkedin:4491060189",
+    "motivos_descarte": [
+      "google_ads: «google ads»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "A17186945C8E37C261373E686DCF3405",
+    "titulo": "Analista de RRHH Ssr – Capacitación, Desarrollo y Comunicación Interna",
+    "empresa": "Importante empresa Industrial",
+    "ubicacion": "Salto Grande, Santa Fe",
+    "modalidad": null,
+    "salario": "$ 2.000.000",
+    "fecha_publicacion": "2026-11-13T22:54:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-rrhh-ssr-capacitacion-desarrollo-y-comunicacion-interna-en-salto-grande-A17186945C8E37C261373E686DCF3405",
+    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
+    "capturado": "2026-11-14T16:53:50.079956",
+    "id": "computrabajo:A17186945C8E37C261373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salto Grande, Santa Fe»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "2193644",
+    "titulo": "Responsable de Ecommerce y Marketing Digital",
+    "empresa": "Laboratorio Viesain",
+    "ubicacion": "Villa Carlos Paz, Córdoba",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T17:43:19",
+    "url": "https://www.bumeran.com.ar/empleos/responsable-de-ecommerce-y-marketing-digital-laboratorio-viesain-2193644.html",
+    "descripcion": "Responsable de Ecommerce y Marketing Digital Resumen del Puesto Buscamos una persona dinámica, creativa y proactiva para incorporarse a nuestro equipo y desarrollar el área de comercio electrónico y marketing digital. El candidato ideal tendrá experiencia en la gestión integral de plataformas de venta online y en la ejecución de estrategias de marketing digital para potenciar el crecimiento. Responsabilidades Desarrollo, implementación y administración de la tienda online (Ecommerce). Gestión y actualización de productos, precios, imágenes, descripciones y promociones. Administración y planificación de redes sociales. Creación de contenido digital: publicaciones, historias, reels y videos. Configuración, gestión y optimización de campañas publicitarias en plataformas de anuncios. Seguimiento de resultados, métricas y rendimiento de las campañas. Desarrollo de estrategias para aumentar las ventas, atraer nuevos clientes y fidelizar a los existentes. Propuesta e implementación de nuevas acciones comerciales. Requisitos Experiencia comprobable en gestión de Ecommerce y Marketing Digital. Conocimiento en administración de plataformas de venta online. Experiencia en gestión de redes sociales y creación de contenido digital. Experiencia en configuración y optimización de campañas publicitarias. Capacidad analítica para el seguimiento de métricas y resultados. Habilidades para el desarrollo de estrategias comerciales. Proactividad, creatividad y excelentes habilidades de comunicación.",
+    "capturado": "2026-11-14T16:53:50.079956",
+    "id": "bumeran:2193644",
+    "motivos_descarte": [
+      "ventas: «ventas»",
+      "ubicacion fuera de zona: «Villa Carlos Paz, Córdoba»"
+    ]
+  },
+  {
     "portal": "weremoto",
     "portal_id": "id-marketing-assistant-south",
     "titulo": "Marketing Assistant",
@@ -66,6 +118,40 @@
     "id": "bumeran:1118588540",
     "motivos_descarte": [
       "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4488993772",
+    "titulo": "Profesores Ed. Fisica p/ Sala Musc. -  Mar del Plata",
+    "empresa": "Megatlon",
+    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/profesores-ed-fisica-p-sala-musc-mar-del-plata-at-megatlon-4488993772",
+    "descripcion": null,
+    "capturado": "2026-11-14T16:53:50.079956",
+    "id": "linkedin:4488993772",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489807982",
+    "titulo": "Coordinador/a de Plantación",
+    "empresa": "Seaboard Energías Renovables y Alimentos",
+    "ubicacion": "El Tabacal, Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-de-plantaci%C3%B3n-at-seaboard-energ%C3%ADas-renovables-y-alimentos-4489807982",
+    "descripcion": null,
+    "capturado": "2026-11-14T16:53:50.079956",
+    "id": "linkedin:4489807982",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «El Tabacal, Salta, Argentina»"
     ]
   },
   {
@@ -1823,125 +1909,6 @@
     "id": "linkedin:4485931045",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "775206B166CDBD0D61373E686DCF3405",
-    "titulo": "Supervisor de Retail Deportivo",
-    "empresa": "ADN - Recursos Humanos",
-    "ubicacion": "San Miguel, Buenos Aires-GBA",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T21:00:54",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-de-retail-deportivo-turnos-rotativos-san-miguel-en-san-miguel-775206B166CDBD0D61373E686DCF3405",
-    "descripcion": "Desde ADN Recursos Humanos nos encontramos en la búsqueda de Supervisor para incorporarse a importante empresa del rubro Retail Deportivo, ubicada en San Miguel, Provincia de Buenos Aires. La posición está orientada a personas con experiencia previa en ventas dentro del rubro retail, especialmente deportivo, indumentaria o textil, que cuenten además con experiencia liderando equipos y tengan interés en desarrollarse dentro de una organización con posibilidades de crecimiento. Se valorarán especialmente perfiles con capacidad de liderazgo, orientación a resultados y experiencia en el seguimiento de indicadores comerciales. Lugar de trabajo: San Miguel, Provincia de Buenos Aires. Modalidad: Presencial. Vacantes: 2. Horario de trabajo: Lunes a viernes, 8 horas diarias con horarios rotativos. Sábados de 09:00 a 21:00 hs. Domingos, según definición de apertura del local. En caso de trabajar los domingos, corresponde 1 franco y medio. De lo contrario, el franco será el domingo. Principales tareas: Atención y asesoramiento personalizado a clientes. Venta de productos y cumplimiento de objetivos comerciales. Reposición, orden y exhibición de mercadería. Control y seguimiento de stock. Implementación de merchandising y estándares de exhibición. Manejo de caja y diferentes medios de pago. Seguimiento de indicadores comerciales y cumplimiento de objetivos. Colaboración con la organización general del local. Participación activa en el trabajo en equipo y en el logro de resultados. Requisitos: Experiencia mínima de 2 años en posiciones de Encargado/a de Local, Tienda o similares. Experiencia comprobable liderando y coordinando equipos de 6/8 personas o más. Experiencia previa en el rubro retail deportivo, indumentaria o textil. Sólidos conocimientos en ventas, merchandising y gestión de inventario. Conocimientos avanzados de Excel y hojas de cálculo. Experiencia trabajando con indicadores comerciales/KPIs. Disponibilidad para trabajar con horarios rotativos y fines de semana. Se valorará experiencia en el seguimiento de indicadores como conversión, UPT (Unidades por Ticket) y ticket promedio. Buscamos personas con liderazgo, empatía, proactividad, capacidad de adaptación, comunicación efectiva, organización, orientación al cliente y fuerte orientación a resultados. Será especialmente valorada la pasión por el deporte y el interés por desarrollarse dentro del rubro retail. Importante: Se priorizarán candidatos provenientes del rubro deportivo y, en segunda instancia, de indumentaria/textil. No serán considerados perfiles provenientes exclusivamente del rubro gastronómico. La posición ofrece la posibilidad de incorporarse inicialmente al equipo comercial y desarrollarse progresivamente dentro de la estructura de la empresa.-Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: residente, encargado, supervisor, subgerente, responsable, coordinador, gestor, capitan",
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "computrabajo:775206B166CDBD0D61373E686DCF3405",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-bilingual-marketing-remote-assistant-home-team-metro-property-management-llc",
-    "titulo": "Bilingual Marketing & Remote Assistant",
-    "empresa": "Home Team Metro Property Management LLC",
-    "ubicacion": "Remote 📍",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-bilingual-marketing-remote-assistant-home-team-metro-property-management-llc",
-    "descripcion": "Bilingual Marketing & Administrative Assistant — Remote Company: Home Team Metro Location: Remote Compensation: US$1,000 per month base pay + performance bonuses Languages: Excellent spoken and written English and Spanish About the role Home Team Metro is a U.S. property management business seeking a proactive bilingual assistant to work directly with the owner. You will help with daily operations, communicate with tenants and prospective renters, and actively market our available rentals. A major priority is generating rental inquiries and turning interested prospects into showings and completed applications , including through outreach to the Spanish-speaking community in our rental markets. This role suits someone who enjoys connecting with people, takes initiative, and follows through consistently. What you will do Promote available rentals through Facebook groups, Marketplace, social media, and other relevant channels. Develop Spanish-language marketing messages and identify new ways to reach prospective renters. Build relationships with community groups, businesses, and potential referral partners. Respond to inquiries in English and Spanish through calls, messages, and email. Follow up with prospects, answer questions using accurate property information, coordinate showings, and explain application steps. Track leads, conversations, follow-ups, and results so opportunities do not get missed. Help existing tenants communicate questions and concerns to our team. Support daily administrative work, including scheduling, spreadsheets, recordkeeping, and task coordination. Report what is working and suggest improvements to our marketing and follow-up process. What we are looking for Excellent English and Spanish, both spoken and written. Experience in sales, lead generation, marketing, appointment setting, or a similar customer-facing role. Confidence initiating conversations and following up professionally. Strong organization, attention to detail, and reliable follow-through. The ability to work independently, ask useful questions, and take ownership of tasks. Comfort using social media, spreadsheets, and online communication tools. A reliable computer, stable internet connection, and a quiet place for calls. Experience with property management, leasing, real estate, or marketing to Spanish-speaking customers is a plus. Compensation and work environment US$1,000 monthly base pay. Additional bonuses tied to agreed performance goals. Fully remote work. Direct collaboration with the business owner. An opportunity to make a measurable contribution to rental marketing and daily operations. How to apply Please complete our application form. The application includes a short English recording and a Spanish writing exercise so we can assess the communication skills needed for this role. Selected applicants will be invited to a 30-minute interview. All applications must be submitted through the form.",
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "weremoto:id-bilingual-marketing-remote-assistant-home-team-metro-property-management-llc",
-    "motivos_descarte": [
-      "ingles_alto: «bilingual»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485119076",
-    "titulo": "Analista de Relaciones Comunitarias",
-    "empresa": "Glencore",
-    "ubicacion": "San Juan, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-de-relaciones-comunitarias-at-glencore-4485119076",
-    "descripcion": null,
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "linkedin:4485119076",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485394670",
-    "titulo": "Sports League Operations and Growth Coordinator",
-    "empresa": "AGS Youth Soccer Club",
-    "ubicacion": "Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-league-operations-and-growth-coordinator-at-ags-youth-soccer-club-4485394670",
-    "descripcion": null,
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "linkedin:4485394670",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485302177",
-    "titulo": "Online Data Analyst - Spanish speakers in Argentina",
-    "empresa": "TELUS Digital AI Community",
-    "ubicacion": "San Rafael, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/online-data-analyst-spanish-speakers-in-argentina-at-telus-digital-ai-community-4485302177",
-    "descripcion": null,
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "linkedin:4485302177",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Rafael, Mendoza, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4483495045",
-    "titulo": "Media Buyer Meta Ads (Generación de Leads) Full-time Remoto",
-    "empresa": "Ads&Law",
-    "ubicacion": "Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/media-buyer-meta-ads-generaci%C3%B3n-de-leads-full-time-remoto-at-ads-law-4483495045",
-    "descripcion": null,
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "linkedin:4483495045",
-    "motivos_descarte": [
-      "ventas: «generacion de leads»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4483474856",
-    "titulo": "Profesor de Ed Fisica",
-    "empresa": "MED Consultoría",
-    "ubicacion": "Bahía Blanca, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-30T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/profesor-de-ed-fisica-at-med-consultor%C3%ADa-4483474856",
-    "descripcion": null,
-    "capturado": "2026-10-31T15:59:15.678587",
-    "id": "linkedin:4483474856",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Bahía Blanca, Provincia de Buenos Aires, Argentina»"
     ]
   }
 ]
