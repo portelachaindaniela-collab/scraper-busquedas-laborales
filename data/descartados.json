@@ -1,6 +1,91 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4489380898",
+    "titulo": "Responsable de Contenido Audiovisual",
+    "empresa": "Escuela de Steel Framing",
+    "ubicacion": "Ciudad de Mendoza, Mendoza, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-15T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/responsable-de-contenido-audiovisual-at-escuela-de-steel-framing-4489380898",
+    "descripcion": null,
+    "capturado": "2026-11-15T17:37:24.484061",
+    "id": "linkedin:4489380898",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Ciudad de Mendoza, Mendoza, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491093920",
+    "titulo": "Kinesiólogo",
+    "empresa": "Grupo Médico Esencial",
+    "ubicacion": "Berazategui, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-15T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/kinesi%C3%B3logo-at-grupo-m%C3%A9dico-esencial-4491093920",
+    "descripcion": null,
+    "capturado": "2026-11-15T17:37:24.484061",
+    "id": "linkedin:4491093920",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Berazategui, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489389885",
+    "titulo": "Supervisor/a de Logística",
+    "empresa": "Gicor Alimentos",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-15T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/supervisor-a-de-log%C3%ADstica-at-gicor-alimentos-4489389885",
+    "descripcion": null,
+    "capturado": "2026-11-15T17:37:24.484061",
+    "id": "linkedin:4489389885",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491093395",
+    "titulo": "Social Media",
+    "empresa": "Municipalidad de San Miguel",
+    "ubicacion": "San Antonio Oeste, Provincia de Río Negro, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-14T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/social-media-at-municipalidad-de-san-miguel-4491093395",
+    "descripcion": null,
+    "capturado": "2026-11-15T17:37:24.484061",
+    "id": "linkedin:4491093395",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491066055",
+    "titulo": "Google Ads Media Buyer / Growth Strategist (Remote)",
+    "empresa": "Sweat Pants Agency",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-14T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/google-ads-media-buyer-growth-strategist-remote-at-sweat-pants-agency-4491066055",
+    "descripcion": null,
+    "capturado": "2026-11-15T17:37:24.484061",
+    "id": "linkedin:4491066055",
+    "motivos_descarte": [
+      "google_ads: «google ads»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4491060189",
     "titulo": "Google Ads Media Buyer / Growth Strategist (Remote)",
     "empresa": "Sweat Pants Agency",
@@ -1873,40 +1958,6 @@
     "descripcion": null,
     "capturado": "2026-11-02T20:40:12.637586",
     "id": "linkedin:4486403760",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485907677",
-    "titulo": "Social Media",
-    "empresa": "Municipalidad de San Miguel",
-    "ubicacion": "San Antonio Oeste, Provincia de Río Negro, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-31T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/social-media-at-municipalidad-de-san-miguel-4485907677",
-    "descripcion": null,
-    "capturado": "2026-11-01T17:03:11.323067",
-    "id": "linkedin:4485907677",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485931045",
-    "titulo": "Paid Ads Video Editor",
-    "empresa": "New Paradigm Venture",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-31T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/paid-ads-video-editor-at-new-paradigm-venture-4485931045",
-    "descripcion": null,
-    "capturado": "2026-11-01T17:03:11.323067",
-    "id": "linkedin:4485931045",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
     ]
