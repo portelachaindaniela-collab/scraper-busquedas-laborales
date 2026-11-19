@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-18T19:17:05.472257",
+  "inicio": "2026-11-19T19:25:25.494971",
   "ventana_horas": 48,
   "terminos": [
     "community manager",
@@ -21,23 +21,26 @@
   "portales": {
     "bumeran": {
       "estado": "ok",
-      "encontrados": 10,
+      "encontrados": 13,
       "errores": []
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 41,
+      "encontrados": 39,
       "errores": []
     },
     "weremoto": {
       "estado": "ok",
-      "encontrados": 60,
+      "encontrados": 90,
       "errores": []
     },
     "linkedin": {
-      "estado": "ok",
-      "encontrados": 144,
-      "errores": []
+      "estado": "parcial",
+      "encontrados": 130,
+      "errores": [
+        "comunicador digital: HTTP 429",
+        "eventos deportivos: HTTP 429"
+      ]
     },
     "indeed": {
       "estado": "error",
@@ -61,8 +64,8 @@
       ]
     }
   },
-  "fin": "2026-11-18T19:23:15.051327",
-  "nuevos_totales": 44,
+  "fin": "2026-11-19T19:31:54.544026",
+  "nuevos_totales": 48,
   "publicados": 34,
-  "descartados": 10
+  "descartados": 14
 }
