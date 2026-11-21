@@ -1,6 +1,57 @@
 [
   {
     "portal": "bumeran",
+    "portal_id": "1118672306",
+    "titulo": "Responsable de Escuelas Deportivas – Unidad de Negocios B2B",
+    "empresa": null,
+    "ubicacion": "Capital Federal, Buenos Aires",
+    "modalidad": "hibrido",
+    "salario": null,
+    "fecha_publicacion": "2026-11-21T09:11:43",
+    "url": "https://www.bumeran.com.ar/empleos/responsable-de-escuelas-deportivas-unidad-de-negocios-b2b-1118672306.html",
+    "descripcion": "Importante institución deportiva busca un/a ejecutivo para liderar y hacer crecer su red de escuelas deportivas licenciadas en el país y en el exterior.¿Cuál es el desafío? Vas a gestionar el negocio de escuelas y campus de la institución. El objetivo es sumar nuevas escuelas y lograr que los vínculos con las que ya están duren más, cuidando siempre la calidad y los estándares de la marca.¿Qué vas a hacer? Desarrollar nuevas escuelas en Argentina y en el exterior, según la capacidad operativa de la institución. Planificar y hacer el control periódico de las escuelas para que funcionen según los parámetros establecidos. Armar los procesos internos con las áreas involucradas para que la apertura de escuelas, campus y futuros negocios salga sin problemas. Coordinar a los profesores que hacen los controles deportivos y armar los cronogramas de capacitación con el área de formación. Validar con Marketing el buen uso de la marca. Construir y sostener la relación con los dueños de las escuelas y darles el apoyo que necesiten. Coordinar campus locales e internacionales. Organizar la logística y la experiencia de los contingentes del interior y del exterior que visitan nuestras instalaciones, con un estándar de primer nivel.¿Qué buscamos? Deseable una especialización en marketing deportivo. Al menos 5 años de experiencia en entidades deportivas, idealmente en desarrollo de negocios, licencias o franquicias. Inglés avanzado. Manejo de Office. Se valora conocer SAP. Disponibilidad para viajar, dentro del país y al exterior. Movilidad propia (deseable). Una persona empática, buena comunicadora, proactiva y autónoma, orientada a resultados, que sepa manejar conflictos, liderar y hacer crecer a otros.¿Qué ofrecemos? Un rol clave en un negocio en expansión, con proyección internacional. La posibilidad de trabajar con una marca deportiva de primer nivel. Lugar de trabajo: CABA. Modalidad híbrida.",
+    "capturado": "2026-11-21T17:54:44.933075",
+    "id": "bumeran:1118672306",
+    "motivos_descarte": [
+      "ingles_alto: «ingles avanzado»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493291354",
+    "titulo": "Especialista en Google Ads (PPC) - 100% remoto",
+    "empresa": "SEM Consulting Bcn",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-21T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-en-google-ads-ppc-100%25-remoto-at-sem-consulting-bcn-4493291354",
+    "descripcion": null,
+    "capturado": "2026-11-21T17:54:44.933075",
+    "id": "linkedin:4493291354",
+    "motivos_descarte": [
+      "google_ads: «google ads»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "1118671797",
+    "titulo": "Analista de Marketing Digital y Redes Sociales",
+    "empresa": null,
+    "ubicacion": "Capital Federal, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-11-20T16:40:25",
+    "url": "https://www.bumeran.com.ar/empleos/analista-de-marketing-digital-y-redes-sociales-1118671797.html",
+    "descripcion": "Buscamos un profesional proactivo y creativo para unirse a nuestro equipo como Analista de Marketing Digital. El candidato ideal poseerá una sólida comprensión de las estrategias de marketing en línea, con un enfoque en la gestión de redes sociales, la creación de contenido y la optimización de campañas. Se valorará la iniciativa, la capacidad de organización y una mentalidad orientada a resultados. Tendrá dentro de sus tareas el armado de contenido digital (web, redes sociales, tienda online, mercado libre), el armado y monitoreo de campañas en redes sociales, la actualización de la página corporativa,armado de piezas en html, la colaboración en el armado, logística y presencia de eventos.Sus principales responsabilidades serán: Ejecutar campañas de marketing digital de branding con el fin de incrementar la presencia de la marca en medios digitales. Ejecutar campañas de marketing digital de performance con el fin de potenciar la adquisición de nuevos clientes, el cross-sell a nuestros clientes actuales y el uso de nuestros canales transaccionales digitales Desarrollar y ejecutar las estrategias de contenidos en redes sociales con el objetivo de incrementar el buzz positivo de la marca en estos medios.Requisitos Total dominio sobre la plataforma de Mercado Libre, Mercado Pago, Mercado Shops, etc Habilidades de comunicación escrita y verbal. Capacidad para generar ideas creativas y ejecutarlas. Fuerte sentido de la organización y atención al detalle. Conocimiento de herramientas de análisis y gestión de marketing digital y redes sociales (Google Analytics, Google Adwords, Facebook, Instagram, Twitter, etc) Capacidad para trabajar de forma autónoma y en equipo.Empleo presencial en tienda.Lugar de trabajo CABA, Centro - MonserratHorario de trabajo Lunes a viernes de 10 a 19hs y Sábados de 10 a 14hs",
+    "capturado": "2026-11-21T17:54:44.933075",
+    "id": "bumeran:1118671797",
+    "motivos_descarte": [
+      "google_ads: «google adwords»"
+    ]
+  },
+  {
+    "portal": "bumeran",
     "portal_id": "2193918",
     "titulo": "Responsable de Marketing y Comunicación.",
     "empresa": "CIRE RH",
@@ -1740,160 +1791,6 @@
     "id": "weremoto:id-junior-social-media-virtual-assistant-formulated-automation-1",
     "motivos_descarte": [
       "ingles_alto: «c1/c2»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-digital-marketing-specialist-floowi",
-    "titulo": "Digital Marketing Specialist",
-    "empresa": "Floowi",
-    "ubicacion": "🇨🇱 Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-11-07T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-digital-marketing-specialist-floowi",
-    "descripcion": "Floowi connects top LATAM professionals with leading U.S. companies through remote talent solutions. Our mission is to make LATAM the world’s premier hub for growth and excellence. About our Client Our client provides technology solutions that help golf course management teams monitor turf conditions through aerial imaging, environmental insights, and data analysis. Their platform enables customers to make proactive maintenance decisions, optimize resources, and improve long-term turf management through a combination of software and field intelligence. Short Description We are looking for a Digital Marketing Specialist to take ownership of the company's marketing initiatives by transforming existing messaging into structured acquisition and client retention campaigns. In this role, you will develop outreach strategies, execute email and social media campaigns, analyze performance, and continuously optimize marketing efforts. Working closely with leadership, you will help organize marketing priorities, improve campaign effectiveness, and independently drive initiatives from planning through execution. This is an opportunity for a proactive marketer who enjoys building processes, taking ownership, and contributing strategic ideas while remaining hands-on. Location: 100% Remote (LATAM only) Language Requirements: Advanced English (C1+) Schedule: Full-time, aligned with EST Start Date: ASAP Competitive salary in USD Remote-first flexibility. Work from anywhere. PTO and paid U.S. holidays Develop outreach strategies that support both new customer acquisition and existing client retention using established product messaging and positioning. Plan, execute, and optimize email marketing campaigns in Mailchimp, including audience segmentation, A/B testing, campaign reporting, and ongoing performance improvements. Manage the company's social media presence across Instagram, Facebook, and LinkedIn through content planning, scheduling, community engagement, and performance analysis. Create and adapt marketing copy that aligns with the company's brand voice and effectively communicates with both prospective and existing customers. Analyze campaign performance, identify opportunities for improvement, and proactively recommend optimizations based on engagement and conversion data. Coordinate marketing initiatives with sales and partnership activities, including seasonal campaigns, regional opportunities, and renewal cycles. Report on key marketing metrics, including email performance, social media engagement, audience growth, and campaign impact. 3+ years of experience developing outreach strategies from existing product, feature, or brand messaging. Proven experience managing both customer acquisition and client retention campaigns. Hands-on experience with Mailchimp, including campaign creation, audience segmentation, A/B testing, and performance reporting. Experience managing business accounts on Instagram, Facebook, and LinkedIn. Strong written English with the ability to work within established brand voice and messaging guidelines. Ability to independently develop, prioritize, and execute marketing initiatives with minimal supervision. Experience with Canva or similar design tools is a plus. Familiarity with Salesforce or similar CRM platforms is a plus.",
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "weremoto:id-digital-marketing-specialist-floowi",
-    "motivos_descarte": [
-      "ingles_alto: «advanced english»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-junior-social-media-virtual-assistant-formulated-automation",
-    "titulo": "Junior Social Media Virtual Assistant",
-    "empresa": "Formulated Automation",
-    "ubicacion": "🇨🇱 Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-11-07T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-junior-social-media-virtual-assistant-formulated-automation",
-    "descripcion": "Hi there! We are South and our client is looking for a JUNIOR Social Media Virtual Assistant (Client Engagement & Community Management)! Note To Applicants Eligibility: This position is open to candidates residing in Latin America. Application Language: Please submit your CV in English. Applications submitted in other languages will not be considered. Professional Presentation: We encourage you to showcase your professional experience by including a Loom video in the application form. While this is optional, candidates who provide a video presentation will be given priority. Interview Policy: The use of artificial intelligence (AI) tools during interviews are strictly prohibited. Note: As part of the final stages of the selection process, contractors may be asked to provide professional references for a reference check. If you're selected, you may also be asked to update their LinkedIn profile. About The Role Our client is a leading US-based firm providing end-to-end support for business owners and entrepreneurs through entity formation, tax strategy, business credit development, and asset protection. In this dedicated engagement, you will manage multi-platform community engagement and represent company leadership across online business communities. You won't be creating graphic content or managing paid ad campaigns; instead, you will focus on daily community interaction, CRM tracking, client engagement, and cross-departmental coordination between Sales, Marketing, and Executive Leadership. Core Responsibilities Daily Community Monitoring & Engagement: Check and interact daily across Skool, Facebook groups, Discord, and internal client portals—replying to comments and direct messages authentically in the voice and tone of company leadership. Client Record Lookup & Lead Tagging: Cross-reference every interacting user against Salesforce (CRM) to distinguish existing clients from warm leads and log interaction notes accurately. Cross-Departmental Handoffs: Route warm sales leads to Sales Team Leads and escape urgent client inquiries or blockers via Slack immediately. Group & Network Growth: Join new relevant Facebook and Skool groups on behalf of leadership and track potential networking contacts and proposals. Competitive Monitoring & Documentation: Flag mentions of competitor programs, maintain clear tracking notes in Google Sheets, and ensure seamless daily handoff records. Key Qualifications & Skills Prior Experience: Proven track record as a Social Media Contractor, Community Manager, or Client Engagement Specialist. English Fluency: Advanced/Fluent written and spoken English communication skills (C1/C2) with the ability to adapt to an executive, professional, and approachable tone. CRM Experience: Basic hands-on experience using Salesforce (or a similar CRM) to search, verify, and tag contact records. Platform Proficiency: High comfort level navigating Facebook Groups, Discord, Slack, and community platforms like Skool. Attention to Detail: High level of organization, reliability, and discipline to manage a daily checklist across 5+ platforms without skipping steps. Trustworthiness & Discretion: High degree of professional discretion to represent executive leadership online and handle real client interactions. Nice to Have Familiarity with real estate investing, e-commerce, or business formation/tax concepts. Experience utilizing Google Sheets for task tracking and daily handoff notes. Core Overlap & Availability 40 hours per week dedicated engagement. Weekend availability (Saturday & Sunday) is strongly preferred and will be given priority, but it is not mandatory. Flexible weekly schedules with 2 planned non-working days during the week will be arranged for talent providing weekend coverage. Service Fee & Location Monthly Service Fee: Monthly fee paid in USD (contractor agreement). The monthly fee is the entire consideration for this engagement. Location: 100% Remote engagement for talent located within Latin America.",
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "weremoto:id-junior-social-media-virtual-assistant-formulated-automation",
-    "motivos_descarte": [
-      "ingles_alto: «c1/c2»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "F939DE758784134B61373E686DCF3405",
-    "titulo": "Analista de marketing",
-    "empresa": "Nutrisur srl.",
-    "ubicacion": "La Plata, Buenos Aires",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-11-07T07:47:08",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-en-la-plata-F939DE758784134B61373E686DCF3405",
-    "descripcion": "Desde Nutrisur, estamos en búsqueda de un Analista de Marketing para sumarse a nuestro equipo. Si sos una persona creativa, proactiva y responsable ¡queremos conocerte! Tareas Desarrollar campañas de comunicación y promociones Analizar el entorno competitivo Analizar KPIS e identificar mejoras Implementar el plan de medios offline y online Búsqueda de partners o marcas para acciones conjuntas Renovar cartelería, materiales y mechandising · Requisitos Licenciado en Administración, Marketing, Comunicación o carreas afines. Experiencia de 2 años en sectores de consumo masivo, retail, gastronómico o similar. Deseable experiencia en agencias digitales. Conocimientos en Marketing digital. Manejo de herramientas digitales: PowerPoint, Canva, Excel. Mentalidad creativa y proactiva. Disponibilidad para recorrer los puntos de venta de la empresa en La Plata y Avellaneda.-Requerimientos- Educación mínima: Universitario años de experiencia Palabras clave: analyst, mercadotecnia, marketing, mercadeo",
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "computrabajo:F939DE758784134B61373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «La Plata, Buenos Aires»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486656115",
-    "titulo": "Técnico de marketing",
-    "empresa": "Rhino 4x4",
-    "ubicacion": "Córdoba y alrededores, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-07T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-marketing-4486656115",
-    "descripcion": null,
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "linkedin:4486656115",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487397748",
-    "titulo": "Productor/a de Noticias - Santa Fe",
-    "empresa": "TELEFE",
-    "ubicacion": "Rosario y alrededores",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-07T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/productor-a-de-noticias-santa-fe-at-telefe-4487397748",
-    "descripcion": null,
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "linkedin:4487397748",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario y alrededores»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486609011",
-    "titulo": "kinesiologo/a. y estudiante de kinesiologia",
-    "empresa": "CML centro medico laboral La Plata",
-    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-07T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/kinesiologo-a-y-estudiante-de-kinesiologia-4486609011",
-    "descripcion": null,
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "linkedin:4486609011",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118512442",
-    "titulo": "Coordinador de Comunicación Técnica",
-    "empresa": "LABYES S.A.",
-    "ubicacion": "Morón, Buenos Aires",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T15:49:53",
-    "url": "https://www.bumeran.com.ar/empleos/coordinador-de-comunicacion-tecnica-labyes-s-a-1118512442.html",
-    "descripcion": "Somos un laboratorio con más de 41 años de trayectoria en medicina veterinaria para pequeños animales. Nos dedicamos al desarrollo de medicamentos que se destacan por sus fórmulas y procesos de elaboración certificados. Durante estos años hemos desarrollado una completa línea de productos que continúa ampliándose sobre la base del cuidado del medio ambiente, con la más alta calidad y tecnología de punta._ _ _Somos um laboratório com mais de 41 anos de trajetória em Medicina Veterinária para pequenos animais. Nos dedicamos ao desenvolvimento de medicamentos que se destacam pelas suas fórmulas e processos de fabricação certificados. Durante estes anos, desenvolvemos uma linha completa de produtos que continua se ampliando, baseada no cuidado com o meio ambiente, com a mais alta qualidade e tecnologia de ponta._ _ _We are a company specialized in veterinary medicine for pets. For over 41 years we have developed solutions to preserve the health of animals and improve their quality of life, on the basis of constant innovation, passion for quality, the optimization and certification of our processes, and commitment towards the environment. En Labyes estamos buscando un/a Coordinador/a de Comunicación Técnica para unirse a nuestro equipo¿Te apasiona transformar el conocimiento científico en herramientas que impulsen las ventas, generar vínculos con referentes del sector veterinario y liderar programas de formación técnica que marquen la diferencia? Si te motiva comunicar información compleja de manera clara, estratégica y con impacto comercial, ¡esta puede ser tu oportunidad!Responsabilidades principales:1. Apoyo y capacitaciones técnicas Capacitar de forma permanente a los equipos internos y externos (distribuidores), con énfasis en el diferencial técnico de nuestros productos y con el claro objetivo de impulsar las ventas en los canales directo e indirecto. Dictar capacitaciones alineadas con las directrices de marketing corporativo y el manual de marca, basadas en los KSP (Key Selling Points) definidos por la compañía. Coordinar y ejecutar la presencia técnica de la compañía en congresos, jornadas y eventos científicos, incluyendo la preparación de simposios, charlas y materiales de soporte. Realizar coaching en campo junto a asesores técnicos, vendedores de distribuidores y coordinadoras, garantizando el cumplimiento del mensaje estándar de cada producto en las diferentes zonas del país. Gestionar los reclamos y consultas técnicas recibidos a través del CRM de la compañía o de las redes sociales.2. Contenidos científicos Revisar el contenido técnico-científico de los productos de la compañía (folletos técnicos, piezas digitales, presentaciones y otros materiales técnicos), garantizando su rigor científico y su alineación con la estrategia de marketing. Elaborar, cuando sea necesario, presentaciones y documentos técnicos de apoyo para los equipos internos y externos. Planificar, coordinar y ejecutar los diplomados y demás programas de educación continua dirigidos a médicos veterinarios, incluyendo la definición de contenidos, la selección y gestión de disertantes, la logística académica y la evaluación de resultados.3. Desarrollo de KOLs Identificar, desarrollar y gestionar la relación con líderes de opinión (KOLs), universidades, asociaciones y colegios veterinarios, promoviendo su participación en las actividades científicas y de comunicación de la compañía.4. Investigación y análisis Mantenerse actualizado sobre los avances en investigación veterinaria y farmacéutica, monitoreando publicaciones y tendencias terapéuticas. Hacer un seguimiento cercano del discurso técnico y de las acciones de la competencia, evaluando su relevancia frente a los productos de la compañía e informando a la Gerencia de Marketing sobre oportunidades y riesgos. Comunicar de manera estandarizada y efectiva los beneficios y características de los productos.5. Apoyo a la estrategia de marketing Brindar apoyo presencial en eventos y congresos. Colaborar con el equipo de Marketing en la creación de estrategias de comunicación que destaquen la ventaja competitiva y los beneficios de los productos. Contribuir al desarrollo de campañas educativas y de sensibilización dirigidas a médicos veterinarios y distribuidores. Participar en el desarrollo de lanzamientos de productos, contribuyendo a la alineación de los mensajes clave y del plan de comunicación científica. Requisitos: Médico Veterinario. Excluyente Experiencia de 2 a 5 años en un rol similar dentro de la industria farmacéutica veterinaria o en un entorno científico relacionado. Profundo conocimiento de las terapias y productos farmacéuticos para perros y gatos (antiparasitarios, dermatológicos, oftalmológicos, entre otros), así como comprensión de estudios clínicos. Inglés intermedio-avanzado (lectura de bibliografía científica). ExcluyenteBuscamos un/a Médico/a Veterinario/a con sólida capacidad para comunicar contenidos técnico-científicos de manera clara y efectiva, orientado/a a resultados y con visión estratégica del mercado veterinario. Valoramos perfiles con habilidades para liderar capacitaciones, generar vínculos con referentes de opinión, desarrollar contenidos científicos de alto impacto y colaborar estrechamente con equipos comerciales y de marketing para potenciar el posicionamiento y las ventas de nuestros productos.Si te interesa formar parte de un rol con impacto directo en la educación veterinaria, el desarrollo científico y los resultados comerciales del negocio, ¡esta oportunidad es para vos!Nuestro compromiso:*En Labyes promovemos un ambiente de trabajo inclusivo, diverso y equitativo. No hacemos distinciones por motivos de sexo, género, religión, orientación sexual, origen étnico, edad, discapacidad ni ninguna otra condición personal o social. Beneficios Medicina prepagaAlmuerzosDía de cumpleañosExcelente ambiente laboralSemana LabyesProductos Labyes para tus mascotasFlexibilidad horariaPrograma de idiomasPlataforma de beneficiosLicencias especiales: Soft Landing - Licencia extendida por paternidad y adopción - Días por adopción y luto (perros y gatos)Estacionamiento",
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "bumeran:1118512442",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Morón, Buenos Aires»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486297441",
-    "titulo": "Coordinador de Comunicación Técnica",
-    "empresa": "LABYES",
-    "ubicacion": "Morón, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-de-comunicaci%C3%B3n-t%C3%A9cnica-at-labyes-4486297441",
-    "descripcion": null,
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "linkedin:4486297441",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Morón, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486601298",
-    "titulo": "Buscamos Especialista en Estrategia y Creación de Contenidos",
-    "empresa": "Grupo Resasco",
-    "ubicacion": "Santa Rosa, La Pampa, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/buscamos-especialista-en-estrategia-y-creaci%C3%B3n-de-contenidos-at-grupo-resasco-4486601298",
-    "descripcion": null,
-    "capturado": "2026-11-07T16:46:32.441021",
-    "id": "linkedin:4486601298",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Santa Rosa, La Pampa, Argentina»"
     ]
   }
 ]
