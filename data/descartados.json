@@ -1,5 +1,90 @@
 [
   {
+    "portal": "computrabajo",
+    "portal_id": "39CFBC1F8D82026361373E686DCF3405",
+    "titulo": "Community Manager",
+    "empresa": "Prendete al Camino",
+    "ubicacion": "San Miguel de Tucumán, Tucumán",
+    "modalidad": "hibrido",
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T20:01:41",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-community-manager-empresa-de-turismo-en-san-miguel-de-tucuman-39CFBC1F8D82026361373E686DCF3405",
+    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
+    "capturado": "2026-11-24T21:01:38.675408",
+    "id": "computrabajo:39CFBC1F8D82026361373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Miguel de Tucumán, Tucumán»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "1118675054",
+    "titulo": "AI Project Leader · Comercial y Marketing con IA (part-time)",
+    "empresa": "GRUPO DALMATA",
+    "ubicacion": "Capital Federal, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T11:27:13",
+    "url": "https://www.bumeran.com.ar/empleos/ai-project-leader-comercial-y-marketing-con-ia-part-time-grupo-dalmata-1118675054.html",
+    "descripcion": "Grupo Dálmata es un grupo argentino con varias unidades de negocio. Tenemos marcas propias de bebidas, Gin Dálmata y Vermuche, que elaboramos en nuestra destilería y distribuimos en todo el país. También fabricamos estuches de madera grabados para bodegas y empresas y tenemos una distribuidora de bebidas.Ya vendemos con IA: tenemos agentes que prospectan, cotizan y hacen el seguimiento de clientes por WhatsApp y mail, y campañas de Meta Ads que medimos todos los días. Buscamos a alguien que lidere esa parte comercial con IA y la lleve al próximo nivel.Qué vas a hacer- Liderar los proyectos de ventas con agentes de IA: prospección, seguimiento y cierre en cada unidad de negocio.- Llevar el marketing de performance: campañas en Meta y Google, piezas y textos generados con IA, pruebas A/B y lectura de resultados.- Detectar qué parte del proceso comercial se puede automatizar y armar el plan para hacerlo.- Medir todo: costo por venta, respuesta de los clientes, ventas por canal.- Trabajar directo con la dirección de la empresa.Qué buscamos- Estudiante de Ingeniería de 3ro, 4to o 5to año.- Que le interese lo comercial y el marketing tanto como la tecnología.- Que se maneje con números y le guste probar, medir y ajustar.- Ganas de usar herramientas de IA nuevas. No hace falta saber programar.Modalidad: part-time, presencial en nuestra oficina de Núñez, 4 días por semana.",
+    "capturado": "2026-11-24T21:01:38.675408",
+    "id": "bumeran:1118675054",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "2194104",
+    "titulo": "Community Manager",
+    "empresa": "Alaró",
+    "ubicacion": "La Plata, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T08:06:03",
+    "url": "https://www.bumeran.com.ar/empleos/community-manager-alaro-2194104.html",
+    "descripcion": "Community Manager Resumen del Puesto Estamos en la búsqueda de un Community Manager creativo y proactivo para gestionar nuestra presencia en redes sociales. El candidato ideal será responsable de desarrollar e implementar estrategias de contenido, interactuar con la comunidad y analizar métricas para optimizar el alcance y el engagement. Responsabilidades Gestionar y dinamizar las diferentes plataformas de redes sociales. Crear y curar contenido atractivo y relevante (texto, imágenes, videos). Manejar herramientas de diseño y edición para la producción de materiales visuales. Interactuar con los seguidores, responder comentarios y mensajes, fomentando una comunidad activa. Analizar métricas de rendimiento y elaborar informes sobre el impacto de las acciones. Identificar tendencias y oportunidades para mejorar la estrategia de comunicación. Requisitos Experiencia comprobable en gestión de redes sociales y creación de contenido. Dominio de herramientas de diseño gráfico y edición de video. Excelentes habilidades de comunicación escrita y verbal. Capacidad para trabajar de forma autónoma y en equipo. Proactividad, creatividad y atención al detalle. Disponibilidad para modalidad de trabajo part-time o full-time.",
+    "capturado": "2026-11-24T21:01:38.675408",
+    "id": "bumeran:2194104",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492499137",
+    "titulo": "Pasante de Marketing",
+    "empresa": "Universia Argentina",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/pasante-de-marketing-at-universia-argentina-4492499137",
+    "descripcion": null,
+    "capturado": "2026-11-24T21:01:38.675408",
+    "id": "linkedin:4492499137",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494089598",
+    "titulo": "Analista senior de Paid Media",
+    "empresa": "VESPASIANI GRUPO",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-senior-de-paid-media-at-vespasiani-grupo-4494089598",
+    "descripcion": null,
+    "capturado": "2026-11-24T21:01:38.675408",
+    "id": "linkedin:4494089598",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
     "portal": "weremoto",
     "portal_id": "id-lead-generation-growth-marketing-specialist-jobgether",
     "titulo": "Lead Generation & Growth Marketing Specialist",
@@ -1468,127 +1553,6 @@
     ]
   },
   {
-    "portal": "bumeran",
-    "portal_id": "1118515803",
-    "titulo": "Analista Sr de Marketing y Trade Marketing",
-    "empresa": null,
-    "ubicacion": "Morón, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T13:10:32",
-    "url": "https://www.bumeran.com.ar/empleos/analista-sr-de-marketing-y-trade-marketing-1118515803.html",
-    "descripcion": "Objetivo del puesto:Planificar, ejecutar y medir las acciones de marketing y trade marketing de la empresa, con foco en aumentar la visibilidad de las marcas en el punto de venta, apoyar los objetivos comerciales y fortalecer la relación con los clientes.Principales responsabilidades:Elaborar y ejecutar el plan anual de marketing y el calendario de acciones.Coordinar campañas, lanzamientos de productos y promociones.Definir, junto al área de redes sociales, los contenidos y mensajes de cada campaña.Organizar eventos, capacitaciones y demostraciones para estilistas y clientes.Gestionar la relación con las marcas proveedoras respecto de lineamientos de marca, materiales y acciones conjuntas. Diseñar e implementar acciones en el punto de venta: exhibición, material POP, promociones y activaciones.Trabajar con la fuerza de ventas para definir acciones por cliente, zona o canal.Relevar y controlar la ejecución en salones y comercios.Desarrollar programas de incentivos y fidelización para clientes.Administrar el presupuesto de marketing y trade.Medir resultados y retorno de cada acción (ventas, cobertura, rotación).Preparar reportes periódicos para la Dirección.Evaluar la competencia y las tendencias del mercado de belleza profesional. Requisitos: Graduado/a o estudiante avanzado/a de carreras tales como Marketing, Comercialización, Publicidad, Administración de Empresas o carreras afines. Experiencia de 3 a 5 años en marketing y/o trade marketing. Se valorará experiencia en consumo masivo, cosmética, belleza profesional o empresas de distribución. Manejo avanzado de Excel o Google Sheets. Conocimiento de herramientas de diseño (por ejemplo, Canva) y de redes sociales / Meta Business Suite. Nivel intermedio/avanzado de inglés y portugués. Registro de conducir (deseable), para visitas a clientes y puntos de venta. Beneficios Condiciones: Jornada: lunes a viernes, de 8 a 17. Lugar de trabajo: Moron, buenos aires.",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "bumeran:1118515803",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Morón, Buenos Aires»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "2193426",
-    "titulo": "Analista de Marketing Digital",
-    "empresa": "PARISI",
-    "ubicacion": "San Isidro, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T12:41:51",
-    "url": "https://www.bumeran.com.ar/empleos/analista-de-marketing-digital-parisi-2193426.html",
-    "descripcion": "Analista de Marketing Digital Resumen del Puesto Buscamos un profesional proactivo y creativo para unirse a nuestro equipo como Analista de Marketing Digital. Serás responsable de la creación y gestión de contenido para redes sociales, la planificación y administración de campañas publicitarias digitales, el diseño de piezas gráficas y la gestión de plataformas de comercio electrónico. Tu rol será clave en la definición y ejecución de estrategias de comunicación 360, analizando métricas para optimizar el rendimiento y coordinando con agencias externas. Responsabilidades Desarrollo de conceptos creativos, producción de contenido (fotos, videos) y gestión de redes sociales. Planificación, ejecución y optimización de campañas en plataformas como Meta y Google Ads. Diseño gráfico de piezas digitales e impresas (flyers, catálogos, etc.). Administración y optimización de tiendas online y sitios web. Elaboración e implementación de planes de comunicación integral por marca y producto. Análisis de métricas clave para la redefinición y mejora continua de estrategias. Coordinación efectiva con agencias y proveedores externos. Requisitos Experiencia comprobable de al menos 2 años en marketing digital, ya sea en empresas o agencias. Título universitario en Marketing, Publicidad, Comunicación o áreas afines. Sólidos conocimientos en gestión de redes sociales, campañas de publicidad digital (Meta, Google Ads) y herramientas de diseño gráfico. Experiencia en administración de plataformas de comercio electrónico y sitios web. Capacidad analítica para interpretar datos y tomar decisiones estratégicas. Excelentes habilidades de comunicación y coordinación. Se valorará experiencia en el sector de consumo masivo o en la industria de aromas. Disponibilidad para modalidad de trabajo híbrida (presencial con posibilidad de home office).",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "bumeran:2193426",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-director-of-client-strategy-remote-talent-latam",
-    "titulo": "Director of Client Strategy",
-    "empresa": "Remote Talent Latam",
-    "ubicacion": "Remoto",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-director-of-client-strategy-remote-talent-latam",
-    "descripcion": "📌 Rol: Director of Client Strategy – Remote Talent LATAM | 88151 🌎 Ubicación: Latinoamérica – 100% remoto 💼 Tipo de Contrato: Independent Contractor 💰 Salario: Desde $5.000 mensuales, negociable según experiencia y adecuación al puesto (moneda no especificada). 🎓 Nivel: Director / Liderazgo 📋 Descripción General Remote Talent LATAM busca un Director of Client Strategy para una agencia estadounidense B2B especializada en estrategias de video marketing orientadas a generar resultados comerciales medibles. La persona seleccionada será responsable de liderar la estrategia, retención y crecimiento de una cartera de 15 a 20 clientes B2B, además de gestionar un equipo de aproximadamente siete Producers. Es una posición estratégica y de liderazgo, enfocada en relaciones con ejecutivos, desarrollo de cuentas y resultados comerciales, no en la producción directa de videos. 📋 Responsabilidades Principales Liderar reuniones estratégicas, presentaciones ejecutivas y revisiones trimestrales de negocio (QBR) con clientes. Gestionar una cartera de 15 a 20 cuentas B2B, fortaleciendo relaciones y detectando oportunidades de crecimiento. Evaluar las estrategias de marketing digital de los clientes, incluyendo sitios web, publicidad paga, redes sociales, email marketing y eventos. Transformar objetivos comerciales en estrategias de marketing, contenido y video. Vincular las iniciativas creativas con resultados medibles, como generación de oportunidades comerciales, conversiones e ingresos. Supervisar la satisfacción, retención, renovación de contratos y expansión de cuentas. Liderar, capacitar y evaluar un equipo de aproximadamente siete Producers mediante reuniones individuales quincenales y evaluaciones de desempeño. Colaborar con los responsables de Producción, Paid Media y otros líderes para garantizar la correcta ejecución de las estrategias. Brindar orientación creativa y de comunicación, asegurando que los contenidos respeten los estándares de marca y objetivos comerciales. 🎯 Requisitos Más de 5 años de experiencia en marketing, estrategia de contenidos, marketing digital o gestión de clientes en agencias. Experiencia comprobable liderando relaciones comerciales, gestionando múltiples cuentas y desarrollando estrategias de retención. Capacidad para diseñar estrategias de marketing alineadas con objetivos comerciales e identificar oportunidades de crecimiento. Conocimiento sólido de marketing digital, adquisición de clientes, estrategias de contenido y embudos de conversión. Experiencia vinculando acciones de marketing con indicadores comerciales como pipeline, conversiones e ingresos. Experiencia liderando equipos, realizando mentorías, reuniones individuales y evaluaciones de desempeño. Inglés excepcional, con excelentes habilidades de comunicación, presentación y storytelling para interactuar con ejecutivos C-Level de Estados Unidos. Conocimiento general de disciplinas como Paid Social, Content Marketing, SEO y Email Marketing. Pensamiento estratégico, liderazgo y excelentes habilidades para gestionar relaciones con clientes. Se valora: Experiencia en entornos B2B. Familiaridad con video marketing, podcasts y procesos de producción de contenido. Experiencia utilizando herramientas de marketing impulsadas por inteligencia artificial y flujos de trabajo automatizados. 🏖️ Beneficios Remuneración mensual competitiva desde $5.000, negociable según experiencia. 15 días de vacaciones pagas (PTO) después de completar satisfactoriamente un período de prueba de 90 días. 15 días adicionales de descanso pago durante el año por feriados estadounidenses, incluyendo una semana completa durante Navidad. 📌 Información Adicional / Proceso de Selección La posición está disponible exclusivamente para residentes de Latinoamérica. Se aceptan postulaciones de países como Argentina, Brasil, Chile, Colombia, Costa Rica, República Dominicana, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, Uruguay y Venezuela. El CV debe enviarse en inglés. Las postulaciones de candidatos fuera de Latinoamérica o que no cumplan los criterios de elegibilidad serán rechazadas automáticamente.",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "weremoto:id-director-of-client-strategy-remote-talent-latam",
-    "motivos_descarte": [
-      "ventas: «oportunidades comerciales»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-paid-social-media-manager-remote-valparaiso-blacksmith-agency",
-    "titulo": "Paid Social Media Manager (Remote, Valparaiso)",
-    "empresa": "Blacksmith Agency",
-    "ubicacion": "🇨🇱 Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-paid-social-media-manager-remote-valparaiso-blacksmith-agency",
-    "descripcion": "Remote (USA, Canada, Latin America or South Africa) Marketing Full time Remote (USA, Canada, Latin America or South Africa) Paid media only. SEO is a separate seat with its own strategist, so you are never split across both. About The Role Blacksmith Agency is an AI-first digital agency. As Paid Social Media Manager you own paid media for a book of B2B and growing-brand clients: the targeting, the budget calls, the roadmap and the narrative when the client asks why. You are the strategic voice at the table, and you make the calls. What You Will Own Paid media across Google Ads, Meta, LinkedIn and Microsoft Ads for your accounts. Budget allocation, bidding, targeting and creative testing, and when to kill a campaign. Conversion tracking and attribution you can trust: GA4, tag manager and platform pixels. The 90 day and quarterly roadmap for each client, and the story behind the numbers on the call. Account growth: retention, upsell and the long-term relationship. What You Bring 3+ years hands-on in Google Ads and Meta: you have built, run and optimized the campaigns yourself. A record of moving ROAS, CPA or pipeline numbers you can walk us through. Agency experience across several clients at once. Clear spoken English with US clients on live calls.",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "weremoto:id-paid-social-media-manager-remote-valparaiso-blacksmith-agency",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-paid-social-media-manager-remote-concepcion-blacksmith-agency",
-    "titulo": "Paid Social Media Manager (Remote, Concepcion)",
-    "empresa": "Blacksmith Agency",
-    "ubicacion": "🇨🇱 Chile",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-paid-social-media-manager-remote-concepcion-blacksmith-agency",
-    "descripcion": "Remote (USA, Canada, Latin America or South Africa) Marketing Full time Remote (USA, Canada, Latin America or South Africa) Paid media only. SEO is a separate seat with its own strategist, so you are never split across both. About The Role Blacksmith Agency is an AI-first digital agency. As Paid Social Media Manager you own paid media for a book of B2B and growing-brand clients: the targeting, the budget calls, the roadmap and the narrative when the client asks why. You are the strategic voice at the table, and you make the calls. What You Will Own Paid media across Google Ads, Meta, LinkedIn and Microsoft Ads for your accounts. Budget allocation, bidding, targeting and creative testing, and when to kill a campaign. Conversion tracking and attribution you can trust: GA4, tag manager and platform pixels. The 90 day and quarterly roadmap for each client, and the story behind the numbers on the call. Account growth: retention, upsell and the long-term relationship. What You Bring 3+ years hands-on in Google Ads and Meta: you have built, run and optimized the campaigns yourself. A record of moving ROAS, CPA or pipeline numbers you can walk us through. Agency experience across several clients at once. Clear spoken English with US clients on live calls.",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "weremoto:id-paid-social-media-manager-remote-concepcion-blacksmith-agency",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "2193418",
-    "titulo": "CM & Generador de Contenidos",
-    "empresa": null,
-    "ubicacion": "Lomas de Zamora, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T11:16:47",
-    "url": "https://www.bumeran.com.ar/empleos/cm-generador-de-contenidos-2193418.html",
-    "descripcion": "Estamos en la búsqueda de un/a Community Manager y Creador/a de Contenido dinámico/a, creativo/a y orientado/a a resultados para sumarse a nuestro equipo. Buscamos a alguien apasionado/a por las tendencias digitales, con gran capacidad narrativa visual y visión estratégica enfocada en crecimiento y ventas. Tareas Creación y Producción de Contenido: Planificar, grabar y editar piezas audiovisuales (Reels, TikToks, Shorts, Stories, etc.) manteniendo la identidad de la marca. Cobertura Presencial: Visitar periódicamente nuestros locales comerciales para generar contenido dinámico, capturar experiencias de clientes, mostrar productos/servicios en acción y cubrir eventos. Gestión de Redes Sociales: Administrar y calendarizar publicaciones en Instagram, TikTok y Facebook. Análisis y Reportes: Monitorear métricas clave (KPIs), analizar el rendimiento del contenido publicitario y orgánico, y presentar propuestas de mejora continua. Se Requiere Experiencia demostrable: Mínimo 1 a 2 años gestionando redes sociales (Instagram, TikTok y Facebook) para marcas o negocios (excluyente presentar portafolio/proyectos) . Edición de Video: Dominio avanzado de CapCut (o softwares de edición afines) para la creación de Reels y videos cortos con ritmo, subtítulos y transiciones atractivas. Diseño Gráfico: Manejo fluido de Canva para la creación de piezas gráficas, stories y presentaciones. Experiencia demostrable: Mínimo 1 a 2 años gestionando redes sociales (Instagram, TikTok y Facebook) para marcas o negocios (excluyente presentar portafolio/proyectos)",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "bumeran:2193418",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Lomas de Zamora, Buenos Aires»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "DFF30F1F5CAB9FC161373E686DCF3405",
-    "titulo": "encargado/a de márketing",
-    "empresa": "NATURAL SOFTWARE SRL",
-    "ubicacion": "Afganistán",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:31:35",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargadoa-de-marketing-con-experiencia-en-afganistan-DFF30F1F5CAB9FC161373E686DCF3405",
-    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "computrabajo:DFF30F1F5CAB9FC161373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Afganistán»"
-    ]
-  },
-  {
     "portal": "linkedin",
     "portal_id": "4480287131",
     "titulo": "Bilingual Optimization Agent",
@@ -1603,108 +1567,6 @@
     "id": "linkedin:4480287131",
     "motivos_descarte": [
       "ingles_alto: «bilingual»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487810630",
-    "titulo": "Técnico de marketing",
-    "empresa": "Rhino 4x4",
-    "ubicacion": "Córdoba y alrededores, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-marketing-4487810630",
-    "descripcion": null,
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "linkedin:4487810630",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489622904",
-    "titulo": "Analista de Marketing",
-    "empresa": "Universia Argentina",
-    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-de-marketing-at-universia-argentina-4489622904",
-    "descripcion": null,
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "linkedin:4489622904",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487490142",
-    "titulo": "Sports Match Reporter / Data Scout – Argentina Oliva",
-    "empresa": "FeedConstruct",
-    "ubicacion": "Oliva, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-match-reporter-data-scout-%E2%80%93-argentina-oliva-at-feedconstruct-4487490142",
-    "descripcion": null,
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "linkedin:4487490142",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Oliva, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487490739",
-    "titulo": "Gestor/a de Soporte Operativo",
-    "empresa": "360Energy",
-    "ubicacion": "San Juan, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/gestor-a-de-soporte-operativo-at-360energy-4487490739",
-    "descripcion": null,
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "linkedin:4487490739",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487806831",
-    "titulo": "Coordinador de operaciones y proyectos",
-    "empresa": "Intermia s.r.l/ Interbras LTDA",
-    "ubicacion": "Crespo, Provincia de Entre Ríos, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-de-operaciones-y-proyectos-4487806831",
-    "descripcion": null,
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "linkedin:4487806831",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Crespo, Provincia de Entre Ríos, Argentina»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "2193396",
-    "titulo": "RESPONSABLE SENIOR DE E-COMMERCE & MARKETING DIGITAL",
-    "empresa": "Bloodline Indumentaria",
-    "ubicacion": "Capital Federal, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-11-09T20:15:39",
-    "url": "https://www.bumeran.com.ar/empleos/responsable-senior-de-e-commerce-marketing-digital-bloodline-indumentaria-2193396.html",
-    "descripcion": "BLOODLINE | BÚSQUEDA LABORALRESPONSABLE SENIOR DE E-COMMERCE & MARKETING DIGITAL📍 Flores, CABA | Modalidad presencialEn BLOODLINE, marca de indumentaria deportiva y urbana, buscamos incorporar una persona con experiencia comprobable en gestión de e-commerce y marketing digital, con fuerte orientación comercial y capacidad de trabajar de manera autónoma.Principales responsabilidades: Administración integral de Tienda Nube y Mercado Libre. Gestión y optimización de productos, publicaciones, precios, stock y promociones. Planificación y ejecución de estrategias para incrementar las ventas online. Gestión integral de Email Marketing: campañas, segmentación, automatizaciones, recuperación de carritos y fidelización de clientes. Planificación de campañas comerciales, lanzamientos y drops de nuevas colecciones. Coordinación con el equipo de Marketing para el desarrollo de banners, piezas gráficas y contenido digital. Actualización y optimización de la experiencia de compra en los canales digitales. Análisis de indicadores comerciales: facturación, conversión, ticket promedio y rendimiento de campañas. Coordinación con agencias y equipos internos para asegurar la correcta ejecución de las acciones comerciales.Requisitos: Experiencia senior comprobable en e-commerce y marketing digital. Manejo avanzado de Tienda Nube y Mercado Libre. Experiencia en plataformas de Email Marketing y automatizaciones. Conocimientos de Google Analytics 4, Meta Ads y herramientas de análisis. Criterio comercial, capacidad de planificación y orientación a resultados. Autonomía, organización, proactividad y capacidad de coordinación de equipos.Se valorará: Experiencia en marcas de indumentaria, moda o retail. Conocimientos de SEO y optimización de conversiones. Manejo de herramientas de inteligencia artificial aplicadas al e-commerce.Ofrecemos: Incorporación a una marca en crecimiento. Participación activa en la estrategia comercial digital. Posibilidades de desarrollo profesional. Trabajo presencial en Flores, CABA.📩 Enviar CV, experiencia comprobable y remuneración pretendida a [correo de contacto].",
-    "capturado": "2026-11-10T18:31:06.970590",
-    "id": "bumeran:2193396",
-    "motivos_descarte": [
-      "ventas: «ventas»"
     ]
   }
 ]
