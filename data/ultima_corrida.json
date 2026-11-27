@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-26T20:01:46.412111",
+  "inicio": "2026-11-27T19:51:02.164232",
   "ventana_horas": 48,
   "terminos": [
     "community manager",
@@ -20,23 +20,39 @@
   ],
   "portales": {
     "bumeran": {
-      "estado": "ok",
-      "encontrados": 13,
-      "errores": []
+      "estado": "error",
+      "encontrados": 0,
+      "errores": [
+        "community manager: HTTP 403",
+        "social media manager: HTTP 403",
+        "analista de marketing digital: HTTP 403",
+        "content manager: HTTP 403",
+        "analista de contenidos: HTTP 403",
+        "comunicación digital: HTTP 403",
+        "comunicación en medios digitales: HTTP 403",
+        "comunicador digital: HTTP 403",
+        "periodismo digital: HTTP 403",
+        "medios digitales: HTTP 403",
+        "coordinador deportivo: HTTP 403",
+        "coordinacion deportiva: HTTP 403",
+        "eventos deportivos: HTTP 403",
+        "sports coordinator: HTTP 403",
+        "sports operations coordinator: HTTP 403"
+      ]
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 41,
+      "encontrados": 39,
       "errores": []
     },
     "weremoto": {
       "estado": "ok",
-      "encontrados": 135,
+      "encontrados": 1200,
       "errores": []
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 142,
+      "encontrados": 135,
       "errores": []
     },
     "indeed": {
@@ -61,8 +77,8 @@
       ]
     }
   },
-  "fin": "2026-11-26T20:07:55.571590",
-  "nuevos_totales": 42,
-  "publicados": 29,
-  "descartados": 13
+  "fin": "2026-11-27T20:01:13.946962",
+  "nuevos_totales": 34,
+  "publicados": 31,
+  "descartados": 3
 }
